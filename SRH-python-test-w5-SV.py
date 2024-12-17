@@ -89,14 +89,4 @@ short_list = [1, 0, 2, 2, 20]
 long_list = [random.randrange(0, 10, 1) for i in range(15)]
 
 # Your code here ...
-def div_func(short_list, long_list):
-    reversed_short = short_list[::-1]
-    
-    result = [
-        long / short if short != 0 else None
-        for long, short in zip(long_list, reversed_short * (len(long_list) // len(short_list) + 1))
-    ]
-    return result
 
-result = div_func(short_list, long_list)
-print(result)
