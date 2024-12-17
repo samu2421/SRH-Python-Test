@@ -1,0 +1,970 @@
+name,rating,genre,year,released,score,votes,director,writer,star,country,budget,gross,company,runtime
+The Shining,R,Drama,1980,"June 13, 1980 (United States)",8.4,927000.0,Stanley Kubrick,Stephen King,Jack Nicholson,United Kingdom,19000000.0,46998772.0,Warner Bros.,146.0
+Star Wars: Episode V - The Empire Strikes Back,PG,Action,1980,"June 20, 1980 (United States)",8.7,1200000.0,Irvin Kershner,Leigh Brackett,Mark Hamill,United States,18000000.0,538375067.0,Lucasfilm,124.0
+Airplane!,PG,Comedy,1980,"July 2, 1980 (United States)",7.7,221000.0,Jim Abrahams,Jim Abrahams,Robert Hays,United States,3500000.0,83453539.0,Paramount Pictures,88.0
+Caddyshack,R,Comedy,1980,"July 25, 1980 (United States)",7.3,108000.0,Harold Ramis,Brian Doyle-Murray,Chevy Chase,United States,6000000.0,39846344.0,Orion Pictures,98.0
+The Blues Brothers,R,Action,1980,"June 20, 1980 (United States)",7.9,188000.0,John Landis,Dan Aykroyd,John Belushi,United States,27000000.0,115229890.0,Universal Pictures,133.0
+Raging Bull,R,Biography,1980,"December 19, 1980 (United States)",8.2,330000.0,Martin Scorsese,Jake LaMotta,Robert De Niro,United States,18000000.0,23402427.0,Chartoff-Winkler Productions,129.0
+The Long Riders,R,Biography,1980,"May 16, 1980 (United States)",7.0,10000.0,Walter Hill,Bill Bryden,David Carradine,United States,10000000.0,15795189.0,United Artists,100.0
+The Gods Must Be Crazy,PG,Adventure,1980,"October 26, 1984 (United States)",7.3,54000.0,Jamie Uys,Jamie Uys,N!xau,South Africa,5000000.0,30031783.0,C.A.T. Films,109.0
+Ordinary People,R,Drama,1980,"September 19, 1980 (United States)",7.7,49000.0,Robert Redford,Judith Guest,Donald Sutherland,United States,6000000.0,54766923.0,Paramount Pictures,124.0
+Dressed to Kill,R,Crime,1980,"July 25, 1980 (United States)",7.1,37000.0,Brian De Palma,Brian De Palma,Michael Caine,United States,6500000.0,31899000.0,Filmways Pictures,104.0
+Somewhere in Time,PG,Drama,1980,"October 3, 1980 (United States)",7.2,27000.0,Jeannot Szwarc,Richard Matheson,Christopher Reeve,United States,5100000.0,9709597.0,Rastar Pictures,103.0
+Brubaker,R,Crime,1980,"June 20, 1980 (United States)",7.2,17000.0,Stuart Rosenberg,W.D. Richter,Robert Redford,United States,9000000.0,37121708.0,Twentieth Century Fox,131.0
+My Bodyguard,PG,Comedy,1980,"September 26, 1980 (United States)",7.1,8900.0,Tony Bill,Alan Ormsby,Chris Makepeace,United States,,22482952.0,Twentieth Century Fox,102.0
+Coal Miner's Daughter,PG,Biography,1980,"March 7, 1980 (United States)",7.5,17000.0,Michael Apted,Thomas Rickman,Sissy Spacek,United States,,67182787.0,Universal Pictures,124.0
+Breaker Morant,PG,Drama,1980,"July 3, 1980 (Australia)",7.9,13000.0,Bruce Beresford,Jonathan Hardy,Edward Woodward,Australia,,,The South Australian Film Corporation,107.0
+The Stunt Man,R,Action,1980,"June 27, 1980 (United States)",7.1,9000.0,Richard Rush,Lawrence B. Marcus,Peter O'Toole,United States,3500000.0,7063886.0,Melvin Simon Productions,131.0
+Lion of the Desert,PG,Biography,1980,"May 16, 1981 (Japan)",8.3,15000.0,Moustapha Akkad,David Butler,Anthony Quinn,Libya,35000000.0,,Falcon International Productions,173.0
+Stardust Memories,PG,Comedy,1980,"September 26, 1980 (United States)",7.3,22000.0,Woody Allen,Woody Allen,Woody Allen,United States,10000000.0,10389003.0,Jack Rollins & Charles H. Joffe Productions,89.0
+City of Women,R,Comedy,1980,"April 8, 1981 (United States)",7.0,6700.0,Federico Fellini,Federico Fellini,Marcello Mastroianni,Italy,,12516.0,Opera Film Produzione,139.0
+Resurrection,PG,Drama,1980,"September 26, 1980 (United States)",7.3,2800.0,Daniel Petrie,Lewis John Carlino,Ellen Burstyn,United States,,3910019.0,Universal Pictures,103.0
+Moscow Does Not Believe in Tears,PG,Comedy,1980,"February 11, 1980 (Soviet Union)",8.1,12000.0,Vladimir Menshov,Valentin Chernykh,Vera Alentova,Soviet Union,900000.0,,Mosfilm,150.0
+"Bon Voyage, Charlie Brown (and Don't Come Back!!)",G,Animation,1980,"May 30, 1980 (United States)",7.3,2900.0,Bill Melendez,Charles M. Schulz,Scott Beach,United States,,2013193.0,Lee Mendelson Film Productions,75.0
+Babylon,,Drama,1980,November 1980 (United Kingdom),7.4,1300.0,Franco Rosso,Franco Rosso,David N. Haynes,United Kingdom,,109749.0,Diversity Music,95.0
+The King and the Mockingbird,Not Rated,Animation,1980,"March 19, 1980 (France)",7.9,4800.0,Paul Grimault,Hans Christian Andersen,Jean Martin,France,,167451.0,Les Films Paul Grimault,83.0
+Indiana Jones and the Raiders of the Lost Ark,PG,Action,1981,"June 12, 1981 (United States)",8.4,905000.0,Steven Spielberg,Lawrence Kasdan,Harrison Ford,United States,18000000.0,389925971.0,Paramount Pictures,115.0
+Body Heat,R,Crime,1981,"August 28, 1981 (United States)",7.4,32000.0,Lawrence Kasdan,Lawrence Kasdan,William Hurt,United States,,24058838.0,The Ladd Company,113.0
+An American Werewolf in London,R,Comedy,1981,"August 21, 1981 (United States)",7.5,97000.0,John Landis,John Landis,David Naughton,United Kingdom,10000000.0,30669378.0,Polygram Pictures,97.0
+Escape from New York,R,Action,1981,"July 10, 1981 (United States)",7.2,131000.0,John Carpenter,John Carpenter,Kurt Russell,United States,6000000.0,25244626.0,AVCO Embassy Pictures,99.0
+The Evil Dead,NC-17,Horror,1981,"April 15, 1983 (United States)",7.5,192000.0,Sam Raimi,Sam Raimi,Bruce Campbell,United States,350000.0,2956630.0,Renaissance Pictures,85.0
+Blow Out,R,Crime,1981,"July 24, 1981 (United States)",7.4,47000.0,Brian De Palma,Brian De Palma,John Travolta,United States,18000000.0,12000000.0,Filmways Pictures,108.0
+Excalibur,R,Adventure,1981,"April 10, 1981 (United States)",7.4,59000.0,John Boorman,Thomas Malory,Nigel Terry,United Kingdom,11000000.0,34971136.0,Cinema '84,140.0
+Mad Max 2,R,Action,1981,"May 21, 1982 (United States)",7.6,170000.0,George Miller,Terry Hayes,Mel Gibson,Australia,3000000.0,23668369.0,Kennedy Miller Productions,96.0
+Das Boot,,Adventure,1981,"February 10, 1982 (United States)",8.3,237000.0,Wolfgang Petersen,Wolfgang Petersen,Jürgen Prochnow,West Germany,,11487676.0,Bavaria Film,149.0
+Possession,R,Drama,1981,"October 28, 1983 (United States)",7.4,27000.0,Andrzej Zulawski,Andrzej Zulawski,Isabelle Adjani,France,,1113538.0,Gaumont,124.0
+Thief,R,Action,1981,"March 27, 1981 (United States)",7.4,27000.0,Michael Mann,Frank Hohimer,James Caan,United States,5500000.0,11492915.0,Mann/Caan Productions,123.0
+Time Bandits,PG,Adventure,1981,"November 6, 1981 (United States)",7.0,60000.0,Terry Gilliam,Michael Palin,Sean Connery,United Kingdom,5000000.0,42368025.0,HandMade Films,110.0
+Reds,PG,Biography,1981,"December 25, 1981 (United States)",7.3,21000.0,Warren Beatty,Warren Beatty,Warren Beatty,United States,32000000.0,40382659.0,Barclays Mercantile Industrial Finance,195.0
+On Golden Pond,PG,Drama,1981,"February 12, 1982 (United States)",7.6,29000.0,Mark Rydell,Ernest Thompson,Katharine Hepburn,United States,,119285432.0,IPC Films,109.0
+The Fox and the Hound,G,Animation,1981,"July 10, 1981 (United States)",7.3,87000.0,Directors,Daniel P. Mannix,Mickey Rooney,United States,12000000.0,63456988.0,Walt Disney Animation Studios,83.0
+Chariots of Fire,PG,Biography,1981,"April 9, 1982 (United States)",7.2,56000.0,Hugh Hudson,Colin Welland,Ben Cross,United Kingdom,5500000.0,59303359.0,Enigma Productions,125.0
+My Dinner with Andre,PG,Biography,1981,"October 11, 1981 (United States)",7.8,19000.0,Louis Malle,Wallace Shawn,Andre Gregory,United States,,5073.0,Saga Productions Inc.,110.0
+Quest for Fire,R,Adventure,1981,"February 12, 1982 (United States)",7.3,21000.0,Jean-Jacques Annaud,Gérard Brach,Everett McGill,Canada,12500000.0,20962615.0,International Cinema Corporation (ICC),100.0
+Ragtime,PG,Drama,1981,"December 25, 1981 (United States)",7.3,9000.0,Milos Forman,E.L. Doctorow,James Cagney,United States,,14920781.0,Dino De Laurentiis Company,155.0
+Gallipoli,PG,Adventure,1981,"August 28, 1981 (United States)",7.4,38000.0,Peter Weir,David Williamson,Mel Gibson,Australia,,5732587.0,R&R Films,110.0
+Southern Comfort,R,Action,1981,"September 25, 1981 (United States)",7.2,17000.0,Walter Hill,Michael Kane,Keith Carradine,United States,,,Cinema Group Ventures,106.0
+The French Lieutenant's Woman,R,Drama,1981,"October 16, 1981 (United States)",7.0,13000.0,Karel Reisz,John Fowles,Meryl Streep,United Kingdom,,26890068.0,Juniper Films,124.0
+The Great Muppet Caper,G,Adventure,1981,"June 26, 1981 (United States)",7.2,14000.0,Jim Henson,Tom Patchett,Jim Henson,United Kingdom,,31206251.0,Henson Associates (HA),97.0
+Eye of the Needle,R,Romance,1981,"July 24, 1981 (United States)",7.1,9900.0,Richard Marquand,Ken Follett,Donald Sutherland,United Kingdom,,17583634.0,Kings Road Entertainment,112.0
+Prince of the City,R,Crime,1981,"August 26, 1981 (United States)",7.5,7600.0,Sidney Lumet,Jay Presson Allen,Treat Williams,United States,8600000.0,8124257.0,Orion Pictures,167.0
+Diva,R,Music,1981,"April 23, 1982 (United States)",7.2,12000.0,Jean-Jacques Beineix,Daniel Odier,Wilhelmenia Fernandez,France,,110014.0,Les Films Galaxie,117.0
+American Pop,R,Animation,1981,"February 13, 1981 (United States)",7.2,4400.0,Ralph Bakshi,Ronni Kern,Mews Small,United States,1500000.0,,Bakshi Productions,96.0
+Modern Romance,R,Comedy,1981,"March 13, 1981 (United States)",7.0,3600.0,Albert Brooks,Albert Brooks,Albert Brooks,United States,,2863642.0,Columbia Pictures,93.0
+Whose Life Is It Anyway?,R,Comedy,1981,"January 22, 1982 (United States)",7.3,2700.0,John Badham,Brian Clark,Richard Dreyfuss,United States,13000000.0,8206145.0,Metro-Goldwyn-Mayer (MGM),119.0
+Fast Times at Ridgemont High,R,Comedy,1982,"August 13, 1982 (United States)",7.2,98000.0,Amy Heckerling,Cameron Crowe,Sean Penn,United States,4500000.0,27092880.0,Universal Pictures,90.0
+Blade Runner,R,Action,1982,"June 25, 1982 (United States)",8.1,710000.0,Ridley Scott,Hampton Fancher,Harrison Ford,United States,28000000.0,41676878.0,The Ladd Company,117.0
+The Thing,R,Horror,1982,"June 25, 1982 (United States)",8.1,382000.0,John Carpenter,Bill Lancaster,Kurt Russell,United States,15000000.0,19632053.0,Universal Pictures,109.0
+E.T. the Extra-Terrestrial,PG,Family,1982,"June 11, 1982 (United States)",7.8,381000.0,Steven Spielberg,Melissa Mathison,Henry Thomas,United States,10500000.0,792910554.0,Universal Pictures,115.0
+First Blood,R,Action,1982,"October 22, 1982 (United States)",7.7,234000.0,Ted Kotcheff,David Morrell,Sylvester Stallone,United States,15000000.0,125212904.0,Anabasis N.V.,93.0
+An Officer and a Gentleman,R,Drama,1982,"August 13, 1982 (United States)",7.0,52000.0,Taylor Hackford,Douglas Day Stewart,Richard Gere,United States,7500000.0,129795554.0,Lorimar Film Entertainment,124.0
+Poltergeist,PG,Horror,1982,"June 4, 1982 (United States)",7.3,148000.0,Tobe Hooper,Steven Spielberg,JoBeth Williams,United States,10700000.0,77142388.0,Metro-Goldwyn-Mayer (MGM),114.0
+Star Trek II: The Wrath of Khan,PG,Action,1982,"June 4, 1982 (United States)",7.7,115000.0,Nicholas Meyer,Gene Roddenberry,William Shatner,United States,11200000.0,78912963.0,Paramount Pictures,113.0
+Sophie's Choice,R,Drama,1982,"March 4, 1983 (United States)",7.6,44000.0,Alan J. Pakula,William Styron,Meryl Streep,United Kingdom,12000000.0,30036000.0,Incorporated Television Company (ITC),150.0
+Gandhi,PG,Biography,1982,"February 25, 1983 (United States)",8.0,220000.0,Richard Attenborough,John Briley,Ben Kingsley,United Kingdom,22000000.0,52767889.0,International Film Investors,191.0
+Tootsie,PG,Comedy,1982,"December 17, 1982 (United States)",7.4,100000.0,Sydney Pollack,Don McGuire,Dustin Hoffman,United States,21000000.0,177200000.0,Columbia Pictures,116.0
+The Secret of NIMH,G,Animation,1982,"July 16, 1982 (United States)",7.6,37000.0,Don Bluth,Robert C. O'Brien,Elizabeth Hartman,United States,7000000.0,14665733.0,Aurora,82.0
+The King of Comedy,PG,Comedy,1982,"February 18, 1983 (Brazil)",7.8,94000.0,Martin Scorsese,Paul D. Zimmerman,Robert De Niro,United States,20000000.0,2536242.0,Embassy International Pictures,109.0
+The Man from Snowy River,PG,Adventure,1982,"November 5, 1982 (United States)",7.3,8200.0,George Miller,A.B. 'Banjo' Paterson,Kirk Douglas,Australia,3500000.0,20659423.0,Cambridge Productions,102.0
+Pink Floyd: The Wall,R,Drama,1982,"September 17, 1982 (United States)",8.0,78000.0,Alan Parker,Roger Waters,Bob Geldof,United Kingdom,12000000.0,22265763.0,Goldcrest Films International,95.0
+Fanny and Alexander,R,Drama,1982,"December 17, 1982 (Sweden)",8.1,59000.0,Ingmar Bergman,Ingmar Bergman,Bertil Guve,Sweden,6000000.0,6795771.0,Cinematograph AB,188.0
+The Dark Crystal,PG,Adventure,1982,"December 17, 1982 (United States)",7.2,63000.0,Jim Henson,David Odell,Jim Henson,United Kingdom,15000000.0,41630431.0,Incorporated Television Company (ITC),93.0
+The Verdict,R,Drama,1982,"December 17, 1982 (United States)",7.7,37000.0,Sidney Lumet,Barry Reed,Paul Newman,United States,16000000.0,53993738.0,Twentieth Century Fox,129.0
+The World According to Garp,R,Comedy,1982,"July 23, 1982 (United States)",7.2,25000.0,George Roy Hill,John Irving,Robin Williams,United States,17000000.0,29712172.0,Pan Arts,136.0
+Diner,R,Comedy,1982,"May 21, 1982 (United States)",7.1,19000.0,Barry Levinson,Barry Levinson,Steve Guttenberg,United States,5000000.0,14099953.0,Metro-Goldwyn-Mayer (MGM),110.0
+The Year of Living Dangerously,PG,Drama,1982,"February 18, 1983 (United States)",7.1,20000.0,Peter Weir,David Williamson,Mel Gibson,Australia,13000000.0,10278575.0,Metro-Goldwyn-Mayer (MGM),115.0
+Victor Victoria,PG,Comedy,1982,"March 19, 1982 (United States)",7.6,20000.0,Blake Edwards,Blake Edwards,Julie Andrews,United Kingdom,,28229046.0,Metro-Goldwyn-Mayer (MGM),134.0
+The Last Unicorn,G,Animation,1982,"November 19, 1982 (United States)",7.4,25000.0,Jules Bass,Peter S. Beagle,Jeff Bridges,United Kingdom,3500000.0,6455330.0,Rankin/Bass Productions,92.0
+Evil Under the Sun,PG,Crime,1982,"March 5, 1982 (United States)",7.1,15000.0,Guy Hamilton,Anthony Shaffer,Peter Ustinov,United Kingdom,10000000.0,6110670.0,EMI Films,117.0
+Missing,PG,Biography,1982,"March 12, 1982 (United States)",7.7,19000.0,Costa-Gavras,Costa-Gavras,Jack Lemmon,United States,9500000.0,14000000.0,PolyGram Filmed Entertainment,122.0
+Frances,R,Biography,1982,"March 11, 1983 (Australia)",7.3,7300.0,Graeme Clifford,Eric Bergren,Jessica Lange,United States,,,Brooksfilms,140.0
+Deathtrap,PG,Comedy,1982,"March 19, 1982 (United States)",7.0,13000.0,Sidney Lumet,Ira Levin,Michael Caine,United States,,19282134.0,Warner Bros.,116.0
+My Favorite Year,PG,Comedy,1982,"October 8, 1982 (United States)",7.4,9000.0,Richard Benjamin,Norman Steinberg,Peter O'Toole,United States,,20123620.0,Metro-Goldwyn-Mayer (MGM),92.0
+"Come Back to the 5 & Dime Jimmy Dean, Jimmy Dean",PG,Comedy,1982,"April 6, 1983 (France)",7.2,4200.0,Robert Altman,Ed Graczyk,Cher,United States,850000.0,840958.0,Sandcastle 5 Productions,109.0
+The State of Things,,Drama,1982,"February 18, 1983 (United States)",7.0,3000.0,Wim Wenders,Robert Kramer,Allen Garfield,West Germany,,3700.0,Gray City,121.0
+The Return of Martin Guerre,Not Rated,Biography,1982,"August 26, 1983 (United States)",7.4,4100.0,Daniel Vigne,Jean-Claude Carrière,Gérard Depardieu,France,,3723036.0,S.F.P.C.,112.0
+Richard Pryor: Live on the Sunset Strip,R,Comedy,1982,"March 12, 1982 (United States)",7.7,3900.0,Joe Layton,Paul Mooney,Richard Pryor,United States,,36299720.0,Columbia Pictures,82.0
+Bugs Bunny's 3rd Movie: 1001 Rabbit Tales,G,Animation,1982,"November 19, 1982 (United States)",7.1,1800.0,Directors,John W. Dunn,Mel Blanc,United States,,78350.0,Warner Bros. Animation,74.0
+La traviata,G,Drama,1982,"February 18, 1983 (Italy)",7.2,1300.0,Franco Zeffirelli,Francesco Maria Piave,Teresa Stratas,Netherlands,,3783329.0,Accent Films B.V.,109.0
+Experience Preferred... But Not Essential,PG,Drama,1982,"December 22, 1982 (United Kingdom)",7.0,240.0,Peter Duffell,June Roberts,Elizabeth Edmonds,United Kingdom,,,Channel Four Film,80.0
+Scarface,R,Crime,1983,"December 9, 1983 (United States)",8.3,766000.0,Brian De Palma,Oliver Stone,Al Pacino,United States,25000000.0,65884703.0,Universal Pictures,170.0
+The Outsiders,PG,Crime,1983,"March 25, 1983 (United States)",7.1,78000.0,Francis Ford Coppola,Kathleen Rowell,C. Thomas Howell,United States,10000000.0,25697647.0,Zoetrope Studios,91.0
+Star Wars: Episode VI - Return of the Jedi,PG,Action,1983,"May 25, 1983 (United States)",8.3,973000.0,Richard Marquand,Lawrence Kasdan,Mark Hamill,United States,32500000.0,475106177.0,Lucasfilm,131.0
+National Lampoon's Vacation,R,Adventure,1983,"July 29, 1983 (United States)",7.4,100000.0,Harold Ramis,John Hughes,Chevy Chase,United States,15000000.0,61399552.0,National Lampoon,98.0
+Trading Places,R,Comedy,1983,"June 8, 1983 (United States)",7.5,141000.0,John Landis,Timothy Harris,Eddie Murphy,United States,15000000.0,90404800.0,Cinema Group Ventures,116.0
+The Big Chill,R,Comedy,1983,"September 30, 1983 (United States)",7.2,34000.0,Lawrence Kasdan,Lawrence Kasdan,Tom Berenger,United States,8000000.0,56399659.0,Columbia Pictures,105.0
+WarGames,PG,Action,1983,"June 3, 1983 (United States)",7.1,93000.0,John Badham,Lawrence Lasker,Matthew Broderick,United States,12000000.0,79567667.0,United Artists,114.0
+The Right Stuff,PG,Adventure,1983,"February 17, 1984 (United States)",7.8,57000.0,Philip Kaufman,Philip Kaufman,Sam Shepard,United States,27000000.0,21192315.0,The Ladd Company,193.0
+The Dead Zone,R,Drama,1983,"October 21, 1983 (United States)",7.2,65000.0,David Cronenberg,Jeffrey Boam,Christopher Walken,United States,10000000.0,20766616.0,Dino De Laurentiis Company,103.0
+Rumble Fish,R,Crime,1983,"October 21, 1983 (United States)",7.2,32000.0,Francis Ford Coppola,S.E. Hinton,Matt Dillon,United States,10000000.0,2494480.0,Zoetrope Studios,94.0
+Videodrome,R,Horror,1983,"February 4, 1983 (United States)",7.2,86000.0,David Cronenberg,David Cronenberg,James Woods,Canada,5952000.0,2120439.0,Filmplan International,87.0
+Terms of Endearment,PG,Comedy,1983,"December 9, 1983 (United States)",7.4,57000.0,James L. Brooks,Larry McMurtry,Shirley MacLaine,United States,8000000.0,108423749.0,Paramount Pictures,132.0
+A Christmas Story,PG,Comedy,1983,"November 18, 1983 (United States)",7.9,134000.0,Bob Clark,Jean Shepherd,Peter Billingsley,United States,3300000.0,20653717.0,Metro-Goldwyn-Mayer (MGM),93.0
+Local Hero,PG,Comedy,1983,"March 17, 1983 (United Kingdom)",7.4,22000.0,Bill Forsyth,Bill Forsyth,Burt Lancaster,United Kingdom,,5899678.0,Enigma Productions,111.0
+Bad Boys,R,Crime,1983,"March 25, 1983 (United States)",7.2,14000.0,Rick Rosenthal,Richard Di Lello,Sean Penn,United States,,9190819.0,EMI Films,123.0
+Silkwood,R,Biography,1983,"January 27, 1984 (United States)",7.2,19000.0,Mike Nichols,Nora Ephron,Meryl Streep,United States,10000000.0,35615609.0,ABC Motion Pictures,131.0
+The Meaning of Life,R,Comedy,1983,"March 31, 1983 (United States)",7.5,115000.0,Terry Jones,Graham Chapman,John Cleese,United Kingdom,9000000.0,14949697.0,Celandine Films,107.0
+Nostalghia,Not Rated,Drama,1983,March 1992 (United States),8.1,24000.0,Andrei Tarkovsky,Andrei Tarkovsky,Oleg Yankovskiy,Italy,,55269.0,Rai 2,125.0
+Tender Mercies,PG,Drama,1983,"March 4, 1983 (Canada)",7.4,9700.0,Bruce Beresford,Horton Foote,Robert Duvall,United States,,8443124.0,Antron Media Production,92.0
+Merry Christmas Mr. Lawrence,R,Drama,1983,"September 2, 1983 (United States)",7.3,16000.0,Nagisa Ôshima,Lourens van der Post,David Bowie,United Kingdom,,2306560.0,National Film Trustee Company,123.0
+Never Cry Wolf,PG,Adventure,1983,"January 27, 1984 (United States)",7.5,7800.0,Carroll Ballard,Farley Mowat,Charles Martin Smith,United States,,29600000.0,Walt Disney Pictures,105.0
+The Pirates of Penzance,G,Comedy,1983,"February 18, 1983 (United States)",7.1,3300.0,Wilford Leach,W.S. Gilbert,Kevin Kline,United Kingdom,,694497.0,Universal Pictures,112.0
+Educating Rita,PG,Comedy,1983,"October 28, 1983 (United States)",7.2,13000.0,Lewis Gilbert,Willy Russell,Michael Caine,United Kingdom,,14648076.0,Acorn Pictures,110.0
+Under Fire,R,Drama,1983,"October 21, 1983 (United States)",7.0,7200.0,Roger Spottiswoode,Ron Shelton,Nick Nolte,United States,9500000.0,5696391.0,Cinema '84,128.0
+Testament,PG,Drama,1983,"January 5, 1984 (Argentina)",7.0,5800.0,Lynne Littman,Carol Amen,Jane Alexander,United States,,2044892.0,Paramount Pictures,90.0
+Zelig,PG,Comedy,1983,"August 25, 1983 (Argentina)",7.7,41000.0,Woody Allen,Woody Allen,Woody Allen,United States,,11798616.0,Jack Rollins & Charles H. Joffe Productions,79.0
+The Dresser,PG,Drama,1983,"December 6, 1983 (United States)",7.6,4900.0,Peter Yates,Ronald Harwood,Albert Finney,United Kingdom,,5310748.0,Columbia Pictures,118.0
+Cross Creek,PG,Biography,1983,"October 27, 1983 (Netherlands)",7.0,1700.0,Martin Ritt,Marjorie Kinnan Rawlings,Mary Steenburgen,United States,,,Thorn EMI Screen Entertainment,127.0
+Richard Pryor... Here and Now,R,Comedy,1983,"October 28, 1983 (United States)",7.3,2200.0,Richard Pryor,Paul Mooney,Richard Pryor,United States,,16156776.0,Columbia Pictures,83.0
+My Brother's Wedding,Not Rated,Drama,1983,March 1985 (United States),7.2,826.0,Charles Burnett,Charles Burnett,Everett Silas,United States,50000.0,26177.0,Charles Burnett Productions,115.0
+The Business of Show Business,,History,1983,"February 15, 1983 (Canada)",8.3,79.0,Tom Logan,Tom Logan,,Canada,323562.0,,CTV,55.0
+The Terminator,R,Action,1984,"October 26, 1984 (United States)",8.0,812000.0,James Cameron,James Cameron,Arnold Schwarzenegger,United Kingdom,6400000.0,78371200.0,Cinema '84,107.0
+Ghostbusters,PG,Action,1984,"June 8, 1984 (United States)",7.8,365000.0,Ivan Reitman,Dan Aykroyd,Bill Murray,United States,30000000.0,296187079.0,Columbia Pictures,105.0
+The Karate Kid,PG,Action,1984,"June 22, 1984 (United States)",7.3,205000.0,John G. Avildsen,Robert Mark Kamen,Ralph Macchio,United States,8000000.0,91119319.0,Columbia Pictures,126.0
+Once Upon a Time in America,R,Crime,1984,"June 1, 1984 (United States)",8.4,321000.0,Sergio Leone,Harry Grey,Robert De Niro,Italy,30000000.0,5473212.0,The Ladd Company,229.0
+Indiana Jones and the Temple of Doom,PG,Action,1984,"May 23, 1984 (United States)",7.5,459000.0,Steven Spielberg,Willard Huyck,Harrison Ford,United States,28000000.0,333107271.0,Paramount Pictures,118.0
+A Nightmare on Elm Street,R,Horror,1984,"November 16, 1984 (United States)",7.5,212000.0,Wes Craven,Wes Craven,Heather Langenkamp,United States,1800000.0,25507137.0,New Line Cinema,91.0
+Amadeus,PG,Biography,1984,"September 19, 1984 (United States)",8.3,377000.0,Milos Forman,Peter Shaffer,F. Murray Abraham,United States,18000000.0,52066791.0,AMLF,160.0
+Beverly Hills Cop,R,Action,1984,"December 5, 1984 (United States)",7.3,171000.0,Martin Brest,Daniel Petrie Jr.,Eddie Murphy,United States,14000000.0,316360478.0,Paramount Pictures,105.0
+The NeverEnding Story,PG,Adventure,1984,"July 20, 1984 (United States)",7.4,135000.0,Wolfgang Petersen,Wolfgang Petersen,Noah Hathaway,West Germany,27000000.0,20251411.0,Constantin Film,102.0
+Gremlins,PG,Comedy,1984,"June 8, 1984 (United States)",7.3,204000.0,Joe Dante,Chris Columbus,Zach Galligan,United States,11000000.0,153633143.0,Warner Bros.,106.0
+Sixteen Candles,PG,Comedy,1984,"May 4, 1984 (United States)",7.0,108000.0,John Hughes,John Hughes,Molly Ringwald,United States,6500000.0,23686027.0,Universal Pictures,93.0
+"Paris, Texas",R,Drama,1984,"August 23, 1984 (United Kingdom)",8.1,96000.0,Wim Wenders,L.M. Kit Carson,Harry Dean Stanton,West Germany,,2207548.0,Road Movies Filmproduktion,145.0
+This Is Spinal Tap,R,Comedy,1984,"March 2, 1984 (United States)",7.9,132000.0,Rob Reiner,Christopher Guest,Rob Reiner,United States,2500000.0,4736202.0,Spinal Tap Prod.,82.0
+1984,R,Drama,1984,"March 22, 1985 (United States)",7.1,68000.0,Michael Radford,Michael Radford,John Hurt,United Kingdom,,8430492.0,Virgin,113.0
+Top Secret!,PG,Comedy,1984,"June 8, 1984 (United States)",7.2,62000.0,Jim Abrahams,Jim Abrahams,Val Kilmer,United Kingdom,9000000.0,20458340.0,Kingsmere Properties,90.0
+Blood Simple,R,Crime,1984,"January 18, 1985 (United States)",7.6,91000.0,Joel Coen,Joel Coen,John Getz,United States,1500000.0,4228292.0,River Road Productions,99.0
+The Natural,PG,Drama,1984,"May 11, 1984 (United States)",7.5,46000.0,Barry Levinson,Bernard Malamud,Robert Redford,United States,28000000.0,47951979.0,TriStar Pictures,138.0
+Nausicaä of the Valley of the Wind,,Animation,1984,"November 25, 1987 (United States)",8.1,157000.0,Hayao Miyazaki,Hayao Miyazaki,Sumi Shimamoto,Japan,1000000.0,8736506.0,Nibariki,117.0
+The Bounty,PG,Adventure,1984,"May 4, 1984 (United States)",7.0,25000.0,Roger Donaldson,Robert Bolt,Mel Gibson,United Kingdom,25000000.0,8613462.0,Dino De Laurentiis Company,132.0
+The Killing Fields,R,Biography,1984,"February 1, 1985 (United States)",7.8,53000.0,Roland Joffé,Bruce Robinson,Sam Waterston,United Kingdom,14400000.0,34700291.0,Goldcrest Films International,141.0
+Starman,PG,Romance,1984,"December 14, 1984 (United States)",7.0,44000.0,John Carpenter,Bruce A. Evans,Jeff Bridges,United States,22000000.0,28744356.0,Columbia Pictures,115.0
+Places in the Heart,PG,Drama,1984,"October 5, 1984 (United States)",7.4,11000.0,Robert Benton,Robert Benton,Sally Field,United States,,34901614.0,Delphi II Productions,111.0
+Stranger Than Paradise,R,Comedy,1984,"October 4, 1984 (United Kingdom)",7.5,36000.0,Jim Jarmusch,Jim Jarmusch,John Lurie,United States,90000.0,2436000.0,Cinesthesia Productions,89.0
+A Passage to India,PG,Adventure,1984,"February 1, 1985 (United States)",7.3,18000.0,David Lean,E.M. Forster,Judy Davis,United Kingdom,16000000.0,27201487.0,EMI Films,164.0
+The Hit,R,Crime,1984,"March 8, 1985 (United States)",7.1,7700.0,Stephen Frears,Peter Prince,Freddie Stuart,United Kingdom,,876775.0,Zenith Entertainment,98.0
+Birdy,R,Drama,1984,"December 21, 1984 (United States)",7.3,22000.0,Alan Parker,William Wharton,Matthew Modine,United States,12000000.0,1455045.0,A&M Films,120.0
+Repentance,PG,Drama,1984,"May 18, 1987 (Denmark)",8.3,4100.0,Tengiz Abuladze,Tengiz Abuladze,Avtandil Makharadze,Soviet Union,,,Georgian-Film,153.0
+A Soldier's Story,PG,Crime,1984,"November 2, 1984 (United States)",7.2,9300.0,Norman Jewison,Charles Fuller,Howard E. Rollins Jr.,United States,6000000.0,21821347.0,Columbia Pictures,101.0
+Under the Volcano,R,Drama,1984,"June 13, 1984 (United States)",7.0,5100.0,John Huston,Malcolm Lowry,Albert Finney,Mexico,,2556800.0,Conacite Uno,112.0
+Broadway Danny Rose,PG,Comedy,1984,"January 27, 1984 (United States)",7.4,24000.0,Woody Allen,Woody Allen,Woody Allen,United States,8000000.0,10600497.0,Orion Pictures,84.0
+Full Moon in Paris,R,Comedy,1984,"August 29, 1984 (France)",7.4,4200.0,Éric Rohmer,Éric Rohmer,Pascale Ogier,France,,15726.0,Les Films du Losange,101.0
+Kaos,R,Comedy,1984,"February 14, 1986 (United States)",7.9,2700.0,Paolo Taviani,Luigi Pirandello,Margarita Lozano,Italy,,,Filmtre,187.0
+A Sunday in the Country,G,Drama,1984,"April 11, 1984 (France)",7.6,2500.0,Bertrand Tavernier,Pierre Bost,Louis Ducreux,France,,2411143.0,Films A2,90.0
+Winter Flight,,Drama,1984,"February 14, 1986 (United States)",7.3,67.0,Roy Battersby,Alan Janes,Reece Dinsdale,United Kingdom,,2729.0,Enigma Productions,89.0
+The Goonies,PG,Adventure,1985,"June 7, 1985 (United States)",7.8,252000.0,Richard Donner,Chris Columbus,Sean Astin,United States,19000000.0,63980721.0,Warner Bros.,114.0
+Back to the Future,PG,Adventure,1985,"July 3, 1985 (United States)",8.5,1100000.0,Robert Zemeckis,Robert Zemeckis,Michael J. Fox,United States,19000000.0,381906762.0,Universal Pictures,116.0
+To Live and Die in L.A.,R,Action,1985,"November 1, 1985 (United States)",7.3,31000.0,William Friedkin,Gerald Petievich,William Petersen,United States,6000000.0,17307019.0,SLM Production Group,116.0
+Clue,PG,Comedy,1985,"December 13, 1985 (United States)",7.3,88000.0,Jonathan Lynn,John Landis,Eileen Brennan,United States,15000000.0,14643997.0,Paramount Pictures,94.0
+The Breakfast Club,R,Comedy,1985,"February 15, 1985 (United States)",7.8,367000.0,John Hughes,John Hughes,Emilio Estevez,United States,1000000.0,51525171.0,Universal Pictures,97.0
+Mask,PG-13,Biography,1985,"March 22, 1985 (United States)",7.2,27000.0,Peter Bogdanovich,Anna Hamilton Phelan,Cher,United States,8000000.0,48230162.0,Universal Pictures,120.0
+The Return of the Living Dead,R,Comedy,1985,"August 16, 1985 (United States)",7.3,56000.0,Dan O'Bannon,Rudy Ricci,Clu Gulager,United States,4000000.0,14237880.0,Cinema '84,91.0
+Brazil,R,Drama,1985,"December 18, 1985 (United States)",7.9,191000.0,Terry Gilliam,Terry Gilliam,Jonathan Pryce,United Kingdom,15000000.0,9949953.0,Embassy International Pictures,132.0
+Pale Rider,R,Drama,1985,"June 28, 1985 (United States)",7.3,55000.0,Clint Eastwood,Michael Butler,Clint Eastwood,United States,6900000.0,41410568.0,The Malpaso Company,115.0
+Real Genius,PG,Comedy,1985,"August 7, 1985 (United States)",7.0,31000.0,Martha Coolidge,Neal Israel,Val Kilmer,United States,8000000.0,12952019.0,Delphi III Productions,108.0
+Witness,R,Crime,1985,"February 8, 1985 (United States)",7.4,89000.0,Peter Weir,William Kelley,Harrison Ford,United States,12000000.0,68706993.0,Paramount Pictures,112.0
+The Color Purple,PG-13,Drama,1985,"February 7, 1986 (United States)",7.8,81000.0,Steven Spielberg,Menno Meyjes,Danny Glover,United States,15000000.0,98467863.0,Amblin Entertainment,154.0
+Silverado,PG-13,Action,1985,"July 10, 1985 (United States)",7.2,40000.0,Lawrence Kasdan,Lawrence Kasdan,Kevin Kline,United States,26000000.0,32192570.0,Columbia Pictures,133.0
+Better Off Dead...,PG,Comedy,1985,"October 11, 1985 (United States)",7.1,42000.0,Savage Steve Holland,Savage Steve Holland,John Cusack,United States,,10297601.0,A&M Films,97.0
+Ran,R,Action,1985,"June 1, 1985 (Japan)",8.2,117000.0,Akira Kurosawa,Akira Kurosawa,Tatsuya Nakadai,Japan,11500000.0,4164283.0,Greenwich Film Productions,162.0
+Ladyhawke,PG-13,Adventure,1985,"April 12, 1985 (United States)",7.0,44000.0,Richard Donner,Edward Khmara,Matthew Broderick,United States,20000000.0,18432000.0,Twentieth Century Fox,121.0
+A Room with a View,Not Rated,Drama,1985,"April 11, 1986 (United Kingdom)",7.3,41000.0,James Ivory,E.M. Forster,Maggie Smith,United Kingdom,3000000.0,21041453.0,Goldcrest Films International,117.0
+Fright Night,R,Fantasy,1985,"August 2, 1985 (United States)",7.1,63000.0,Tom Holland,Tom Holland,Chris Sarandon,United States,9000000.0,24922237.0,Columbia Pictures,106.0
+After Hours,R,Comedy,1985,"October 11, 1985 (United States)",7.7,63000.0,Martin Scorsese,Joseph Minion,Griffin Dunne,United States,4500000.0,10609321.0,The Geffen Company,97.0
+Pee-wee's Big Adventure,PG,Adventure,1985,"August 9, 1985 (United States)",7.0,50000.0,Tim Burton,Phil Hartman,Paul Reubens,United States,6000000.0,40940662.0,Warner Bros.,91.0
+Out of Africa,PG,Biography,1985,"December 20, 1985 (United States)",7.2,75000.0,Sydney Pollack,Karen Blixen,Meryl Streep,United States,31000000.0,227514205.0,Mirage Enterprises,161.0
+Day of the Dead,Not Rated,Horror,1985,"July 19, 1985 (United States)",7.1,65000.0,George A. Romero,George A. Romero,Lori Cardille,United States,3500000.0,5000000.0,United Film Distribution Company (UFDC),101.0
+Runaway Train,R,Action,1985,"January 17, 1986 (United States)",7.2,28000.0,Andrey Konchalovskiy,Djordje Milicevic,Jon Voight,United States,9000000.0,7683620.0,Golan-Globus Productions,111.0
+Re-Animator,Unrated,Comedy,1985,"October 18, 1985 (United States)",7.2,59000.0,Stuart Gordon,H.P. Lovecraft,Jeffrey Combs,United States,900000.0,2023414.0,Empire Pictures,104.0
+Police Story,PG-13,Action,1985,"December 14, 1985 (Hong Kong)",7.6,31000.0,Jackie Chan,Jackie Chan,Jackie Chan,Hong Kong,,113164.0,Golden Way Films Ltd.,100.0
+The Sure Thing,PG-13,Comedy,1985,"March 1, 1985 (United States)",7.0,20000.0,Rob Reiner,Steve Bloom,John Cusack,United States,4500000.0,18135531.0,Embassy Pictures,95.0
+Kiss of the Spider Woman,R,Drama,1985,"July 26, 1985 (United States)",7.4,15000.0,Hector Babenco,Manuel Puig,William Hurt,Brazil,,17009654.0,HB Filmes,120.0
+Tampopo,Not Rated,Comedy,1985,September 1987 (United States),8.0,17000.0,Jûzô Itami,Jûzô Itami,Ken Watanabe,Japan,,444213.0,Itami Productions,114.0
+Mishima: A Life in Four Chapters,R,Biography,1985,"September 20, 1985 (United States)",8.0,10000.0,Paul Schrader,Paul Schrader,Ken Ogata,United States,5000000.0,569996.0,Zoetrope Studios,120.0
+Murphy's Romance,PG-13,Comedy,1985,"January 31, 1986 (United States)",7.0,5600.0,Martin Ritt,Max Schott,Sally Field,United States,13000000.0,30867525.0,Columbia Pictures,107.0
+The Journey of Natty Gann,PG,Adventure,1985,"September 27, 1985 (United States)",7.0,5600.0,Jeremy Kagan,Jeanne Rosenberg,Meredith Salenger,United States,,9708373.0,Walt Disney Pictures,101.0
+Desert Hearts,R,Drama,1985,"March 7, 1986 (United States)",7.0,5500.0,Donna Deitch,Jane Rule,Helen Shaver,United States,1250000.0,2492088.0,Desert Hearts Productions,91.0
+The Purple Rose of Cairo,PG,Comedy,1985,"April 19, 1985 (United States)",7.7,48000.0,Woody Allen,Woody Allen,Mia Farrow,United States,15000000.0,10631333.0,Jack Rollins & Charles H. Joffe Productions,82.0
+My Life as a Dog,Unrated,Drama,1985,"May 1, 1987 (United States)",7.6,19000.0,Lasse Hallström,Reidar Jönsson,Anton Glanzelius,Sweden,,8349284.0,Svensk Filmindustri (SF),101.0
+Lost in America,R,Comedy,1985,"February 8, 1985 (United States)",7.0,8200.0,Albert Brooks,Albert Brooks,Albert Brooks,United States,,10179000.0,The Geffen Company,91.0
+Sweet Dreams,PG-13,Biography,1985,"October 11, 1985 (United States)",7.1,4400.0,Karel Reisz,Robert Getchell,Jessica Lange,United States,,9085049.0,HBO Pictures,115.0
+The Adventures of Mark Twain,G,Animation,1985,"July 26, 1985 (United States)",7.4,2700.0,Will Vinton,Susan Shadburne,James Whitmore,United States,,849915.0,Atlantic,86.0
+The Trip to Bountiful,PG,Drama,1985,"January 24, 1986 (United States)",7.5,4300.0,Peter Masterson,Horton Foote,Geraldine Page,United States,,7491903.0,Bountiful Film Partners,108.0
+The Official Story,Not Rated,Drama,1985,"November 8, 1985 (United States)",7.8,8800.0,Luis Puenzo,Aída Bortnik,Norma Aleandro,Argentina,,69832.0,Historias Cinematograficas Cinemania,112.0
+He-Man and She-Ra: The Secret of the Sword,G,Animation,1985,"March 22, 1985 (United States)",7.3,2600.0,Directors,Larry DiTillio,John Erwin,United States,2000000.0,7660857.0,Filmation Associates,100.0
+Taipei Story,Not Rated,Drama,1985,1985 (Taiwan),7.7,2500.0,Edward Yang,T'ien-wen Chu,Chin Tsai,Taiwan,,35336.0,Evergreen Film Company,119.0
+Otac na sluzbenom putu,R,Drama,1985,"October 11, 1985 (United States)",7.8,9000.0,Emir Kusturica,Abdulah Sidran,Moreno D'E Bartolli,Yugoslavia,,34751.0,Centar Film,136.0
+Eleni,PG,Drama,1985,"December 21, 1985 (Japan)",7.0,1400.0,Peter Yates,Nicholas Gage,Kate Nelligan,United States,,305102.0,CBS Entertainment Production,114.0
+Bal na vodi,R,Drama,1985,"October 24, 1985 (Yugoslavia)",7.6,804.0,Jovan Acin,Jovan Acin,Gala Videnovic,Yugoslavia,,,CFS Avala Film,112.0
+Colonel Redl,R,Biography,1985,"October 4, 1985 (United States)",7.5,2800.0,István Szabó,István Szabó,Klaus Maria Brandauer,Yugoslavia,,2357.0,Manfred Durniok Filmproduktion,144.0
+Aliens,R,Action,1986,"July 18, 1986 (United States)",8.3,668000.0,James Cameron,James Cameron,Sigourney Weaver,United Kingdom,18500000.0,131060248.0,Twentieth Century Fox,137.0
+Stand by Me,R,Adventure,1986,"August 22, 1986 (United States)",8.1,374000.0,Rob Reiner,Stephen King,Wil Wheaton,United States,8000000.0,52287414.0,Columbia Pictures,89.0
+Ferris Bueller's Day Off,PG-13,Comedy,1986,"June 11, 1986 (United States)",7.8,330000.0,John Hughes,John Hughes,Matthew Broderick,United States,6000000.0,70720215.0,Paramount Pictures,103.0
+Labyrinth,PG,Adventure,1986,"June 27, 1986 (United States)",7.4,127000.0,Jim Henson,Dennis Lee,David Bowie,United Kingdom,25000000.0,13915874.0,Henson Associates (HA),101.0
+Highlander,R,Action,1986,"March 7, 1986 (United States)",7.1,127000.0,Russell Mulcahy,Gregory Widen,Christopher Lambert,United Kingdom,16000000.0,5900712.0,Thorn EMI Screen Entertainment,116.0
+Big Trouble in Little China,PG-13,Action,1986,"July 2, 1986 (United States)",7.3,128000.0,John Carpenter,Gary Goldman,Kurt Russell,United States,25000000.0,11100577.0,Twentieth Century Fox,99.0
+Platoon,R,Drama,1986,"February 6, 1987 (United States)",8.1,389000.0,Oliver Stone,Oliver Stone,Charlie Sheen,United States,6000000.0,138545632.0,Hemdale,120.0
+Blue Velvet,R,Drama,1986,"October 23, 1986 (Italy)",7.7,186000.0,David Lynch,David Lynch,Isabella Rossellini,United States,6000000.0,8618766.0,De Laurentiis Entertainment Group (DEG),120.0
+Manhunter,R,Crime,1986,"August 15, 1986 (United States)",7.2,68000.0,Michael Mann,Thomas Harris,William Petersen,United States,15000000.0,8621783.0,De Laurentiis Entertainment Group (DEG),120.0
+The Fly,R,Drama,1986,"August 15, 1986 (United States)",7.6,165000.0,David Cronenberg,George Langelaan,Jeff Goldblum,United States,15000000.0,60629159.0,SLM Production Group,96.0
+Little Shop of Horrors,PG-13,Comedy,1986,"December 19, 1986 (United States)",7.0,68000.0,Frank Oz,Howard Ashman,Rick Moranis,United States,25000000.0,38983045.0,The Geffen Company,94.0
+River's Edge,R,Crime,1986,"May 8, 1987 (United States)",7.0,17000.0,Tim Hunter,Neal Jimenez,Crispin Glover,United States,1900000.0,4600000.0,Hemdale,99.0
+Star Trek IV: The Voyage Home,PG,Action,1986,"November 26, 1986 (United States)",7.3,81000.0,Leonard Nimoy,Gene Roddenberry,William Shatner,United States,25000000.0,109713132.0,Paramount Pictures,119.0
+The Name of the Rose,R,Crime,1986,"September 24, 1986 (United States)",7.7,104000.0,Jean-Jacques Annaud,Umberto Eco,Sean Connery,West Germany,,7153487.0,Constantin Film,130.0
+The Color of Money,R,Drama,1986,"October 17, 1986 (United States)",7.0,77000.0,Martin Scorsese,Walter Tevis,Paul Newman,United States,13800000.0,52293982.0,Touchstone Pictures,119.0
+Hoosiers,PG,Drama,1986,"February 27, 1987 (United States)",7.5,44000.0,David Anspaugh,Angelo Pizzo,Gene Hackman,United Kingdom,6000000.0,28607524.0,Cinema '84,114.0
+The Mission,PG,Adventure,1986,"October 31, 1986 (United States)",7.4,57000.0,Roland Joffé,Robert Bolt,Robert De Niro,United Kingdom,24500000.0,17502499.0,Warner Bros.,125.0
+Betty Blue,Unrated,Drama,1986,"November 7, 1986 (United States)",7.4,19000.0,Jean-Jacques Beineix,Philippe Djian,Jean-Hugues Anglade,France,,2016851.0,Gaumont,185.0
+Sid and Nancy,R,Biography,1986,"November 7, 1986 (United States)",7.0,30000.0,Alex Cox,Alex Cox,Gary Oldman,United Kingdom,4000000.0,2850707.0,Initial Pictures,112.0
+Henry: Portrait of a Serial Killer,Unrated,Biography,1986,"September 7, 1990 (United States)",7.0,33000.0,John McNaughton,Richard Fire,Michael Rooker,United States,111000.0,609939.0,Maljack Productions,83.0
+Mona Lisa,R,Crime,1986,"June 13, 1986 (United States)",7.3,14000.0,Neil Jordan,Neil Jordan,Bob Hoskins,United Kingdom,,5794184.0,HandMade Films,104.0
+The Sacrifice,PG,Drama,1986,"May 9, 1986 (Sweden)",8.1,26000.0,Andrei Tarkovsky,Andrei Tarkovsky,Erland Josephson,Sweden,,167292.0,Svenska Filminstitutet (SFI),149.0
+The Hitcher,R,Action,1986,"February 21, 1986 (United States)",7.2,45000.0,Robert Harmon,Eric Red,Rutger Hauer,United States,6000000.0,5844868.0,HBO Pictures,97.0
+Hannah and Her Sisters,PG-13,Comedy,1986,"March 14, 1986 (United States)",7.9,68000.0,Woody Allen,Woody Allen,Mia Farrow,United States,6400000.0,40084041.0,Orion Pictures,107.0
+The Great Mouse Detective,G,Animation,1986,"July 2, 1986 (United States)",7.2,46000.0,Directors,Peter Young,Vincent Price,United States,14000000.0,38625550.0,Walt Disney Pictures,74.0
+The Transformers: the Movie,PG,Animation,1986,"August 8, 1986 (United States)",7.3,38000.0,Nelson Shin,Ron Friedman,Orson Welles,United States,6000000.0,5860601.0,Sunbow Productions,84.0
+At Close Range,R,Crime,1986,"April 18, 1986 (United States)",7.0,15000.0,James Foley,Elliott Lewitt,Sean Penn,United States,6500000.0,2347000.0,Hemdale,111.0
+Crossroads,R,Drama,1986,"March 14, 1986 (United States)",7.1,15000.0,Walter Hill,John Fusco,Ralph Macchio,United States,,5839031.0,Columbia Pictures,99.0
+Down by Law,R,Comedy,1986,"September 25, 1986 (Canada)",7.7,49000.0,Jim Jarmusch,Jim Jarmusch,Tom Waits,United States,1100000.0,1504286.0,Island Pictures,107.0
+Bad Blood,Unrated,Crime,1986,"November 26, 1986 (France)",7.3,7500.0,Leos Carax,Leos Carax,Michel Piccoli,Switzerland,,58731.0,Les Films Plain Chant,105.0
+The Adventures of Milo and Otis,G,Adventure,1986,"August 25, 1989 (United States)",7.0,11000.0,Masanori Hata,Masanori Hata,Kyôko Koizumi,Japan,,13299749.0,Fuji Television Network,76.0
+Children of a Lesser God,R,Drama,1986,"October 31, 1986 (United States)",7.2,15000.0,Randa Haines,Mark Medoff,William Hurt,United States,10500000.0,31853080.0,Paramount Pictures,119.0
+Matador,NC-17,Drama,1986,"March 7, 1986 (Spain)",7.0,11000.0,Pedro Almodóvar,Pedro Almodóvar,Assumpta Serna,Spain,,286126.0,Compañía Iberoamericana de TV,110.0
+Lady Jane,PG-13,Biography,1986,"February 7, 1986 (United States)",7.1,6300.0,Trevor Nunn,Chris Bryant,Helena Bonham Carter,United Kingdom,8500000.0,277646.0,Capital Equipment Leasing,136.0
+Manon of the Spring,PG,Drama,1986,"December 4, 1987 (United States)",8.0,21000.0,Claude Berri,Claude Berri,Yves Montand,Switzerland,,3940542.0,DD Productions,113.0
+True Stories,PG,Comedy,1986,"October 10, 1986 (United States)",7.2,6100.0,David Byrne,Stephen Tobolowsky,David Byrne,United States,,2545459.0,Gary Kurfirst Pictures,89.0
+When the Wind Blows,Not Rated,Animation,1986,"March 11, 1988 (United States)",7.7,10000.0,Jimmy T. Murakami,Raymond Briggs,Peggy Ashcroft,United Kingdom,,5274.0,Meltdown Productions,84.0
+Jean de Florette,PG,Comedy,1986,"August 28, 1987 (United States)",8.0,24000.0,Claude Berri,Claude Berri,Yves Montand,Switzerland,,4940939.0,DD Productions,120.0
+Summer,R,Drama,1986,"August 29, 1986 (United States)",7.7,7700.0,Éric Rohmer,Marie Rivière,Marie Rivière,France,,63137.0,Ministère de la Culture et de la Communication,99.0
+Malcolm,PG-13,Comedy,1986,"November 5, 1986 (United States)",7.1,2100.0,Nadia Tass,David Parker,Colin Friels,Australia,,,Cascade Films,85.0
+The Decline of the American Empire,R,Comedy,1986,"November 14, 1986 (United States)",7.2,8000.0,Denys Arcand,Denys Arcand,Dominique Michel,Canada,,1915792.0,Corporation Image M & M,101.0
+Ginger and Fred,PG-13,Comedy,1986,"March 28, 1986 (United States)",7.3,4900.0,Federico Fellini,Federico Fellini,Marcello Mastroianni,Italy,,837623.0,Produzioni Europee Associate (PEA),125.0
+'Round Midnight,R,Drama,1986,"October 3, 1986 (United States)",7.4,4700.0,Bertrand Tavernier,David Rayfiel,Dexter Gordon,United States,,3272593.0,Little Bear,133.0
+Parting Glances,Not Rated,Drama,1986,"February 19, 1986 (United States)",7.2,2800.0,Bill Sherwood,Bill Sherwood,John Bolger,United States,,,Rondo Productions,90.0
+"'night, Mother",PG-13,Drama,1986,"January 29, 1987 (Australia)",7.6,2100.0,Tom Moore,Marsha Norman,Sissy Spacek,United States,,441863.0,Aaron Spelling Productions,96.0
+Ménage,,Comedy,1986,"October 1, 1986 (United States)",7.0,2700.0,Bertrand Blier,Bertrand Blier,Gérard Depardieu,France,,925952.0,Ciné Valse,84.0
+Man Facing Southeast,R,Drama,1986,"March 13, 1987 (United States)",7.7,3800.0,Eliseo Subiela,Eliseo Subiela,Lorenzo Quinteros,Argentina,600000.0,,Cinequanon,105.0
+Nutcracker,G,Family,1986,"November 26, 1986 (United States)",7.2,1000.0,Carroll Ballard,Kent Stowell,Hugh Duncan Bigney Mitchell,United States,,781727.0,Hyperion Pictures,89.0
+The Assault,PG,Drama,1986,"February 6, 1986 (Netherlands)",7.2,3100.0,Fons Rademakers,Gerard Soeteman,Derek de Lint,Netherlands,,512403.0,Fons Rademakers Produktie,144.0
+The Princess Bride,PG,Adventure,1987,"October 9, 1987 (United States)",8.1,402000.0,Rob Reiner,William Goldman,Cary Elwes,United Kingdom,16000000.0,30902642.0,Act III Communications,98.0
+The Lost Boys,R,Comedy,1987,"July 31, 1987 (United States)",7.3,128000.0,Joel Schumacher,Jan Fischer,Jason Patric,United States,,32388898.0,Warner Bros.,97.0
+Full Metal Jacket,R,Drama,1987,"July 10, 1987 (United States)",8.3,691000.0,Stanley Kubrick,Stanley Kubrick,Matthew Modine,United Kingdom,30000000.0,46357676.0,Natant,116.0
+Predator,R,Action,1987,"June 12, 1987 (United States)",7.8,381000.0,John McTiernan,Jim Thomas,Arnold Schwarzenegger,United States,15000000.0,98268458.0,Twentieth Century Fox,107.0
+RoboCop,R,Action,1987,"July 17, 1987 (United States)",7.5,240000.0,Paul Verhoeven,Edward Neumeier,Peter Weller,United States,13000000.0,53424681.0,Orion Pictures,102.0
+Dirty Dancing,PG-13,Drama,1987,"August 21, 1987 (United States)",7.0,211000.0,Emile Ardolino,Eleanor Bergstein,Patrick Swayze,United States,6000000.0,214577242.0,Great American Films Limited Partnership,100.0
+The Untouchables,R,Crime,1987,"June 3, 1987 (United States)",7.9,289000.0,Brian De Palma,David Mamet,Kevin Costner,United States,25000000.0,76270454.0,Paramount Pictures,119.0
+Spaceballs,PG,Adventure,1987,"June 24, 1987 (United States)",7.1,176000.0,Mel Brooks,Mel Brooks,Mel Brooks,United States,22700000.0,38119483.0,Brooksfilms,96.0
+Raising Arizona,PG-13,Comedy,1987,"April 17, 1987 (United States)",7.3,130000.0,Joel Coen,Ethan Coen,Nicolas Cage,United States,6000000.0,29180280.0,Circle Films,94.0
+Lethal Weapon,R,Action,1987,"March 6, 1987 (United States)",7.6,243000.0,Richard Donner,Shane Black,Mel Gibson,United States,15000000.0,120207127.0,Warner Bros.,109.0
+Near Dark,R,Action,1987,"January 8, 1988 (United Kingdom)",7.0,35000.0,Kathryn Bigelow,Kathryn Bigelow,Adrian Pasdar,United States,5000000.0,3369307.0,F/M,94.0
+Hellraiser,R,Horror,1987,"September 18, 1987 (United States)",7.0,108000.0,Clive Barker,Clive Barker,Andrew Robinson,United Kingdom,,14575193.0,New World Pictures,94.0
+Empire of the Sun,PG,Action,1987,"December 25, 1987 (United States)",7.7,119000.0,Steven Spielberg,Tom Stoppard,Christian Bale,United States,35000000.0,22238696.0,Amblin Entertainment,153.0
+No Way Out,R,Action,1987,"August 14, 1987 (United States)",7.1,37000.0,Roger Donaldson,Kenneth Fearing,Kevin Costner,United States,15000000.0,35509515.0,Orion Pictures,114.0
+Some Kind of Wonderful,PG-13,Drama,1987,"February 27, 1987 (United States)",7.1,29000.0,Howard Deutch,John Hughes,Eric Stoltz,United States,,18553948.0,Hughes Entertainment,95.0
+Angel Heart,X,Horror,1987,"March 6, 1987 (United States)",7.3,83000.0,Alan Parker,William Hjortsberg,Mickey Rourke,United Kingdom,17000000.0,17186348.0,Carolco International N.V.,113.0
+Moonstruck,PG,Comedy,1987,"January 15, 1988 (United States)",7.1,53000.0,Norman Jewison,John Patrick Shanley,Cher,United States,15000000.0,80642217.0,Metro-Goldwyn-Mayer (MGM),102.0
+Wall Street,R,Crime,1987,"December 11, 1987 (United States)",7.4,147000.0,Oliver Stone,Stanley Weiser,Charlie Sheen,United States,15000000.0,43848069.0,Twentieth Century Fox,126.0
+"Good Morning, Vietnam",R,Biography,1987,"January 15, 1988 (United States)",7.3,131000.0,Barry Levinson,Mitch Markowitz,Robin Williams,United States,13000000.0,123922370.0,Touchstone Pictures,121.0
+"Planes, Trains & Automobiles",R,Comedy,1987,"November 25, 1987 (United States)",7.6,128000.0,John Hughes,John Hughes,Steve Martin,United States,30000000.0,49530280.0,Paramount Pictures,93.0
+Withnail & I,R,Comedy,1987,"June 19, 1987 (United States)",7.6,41000.0,Bruce Robinson,Bruce Robinson,Richard E. Grant,United Kingdom,,1628359.0,Cineplex Odeon Films,107.0
+Evil Dead II,R,Comedy,1987,"March 13, 1987 (United States)",7.7,152000.0,Sam Raimi,Sam Raimi,Bruce Campbell,United States,3600000.0,5923798.0,Renaissance Pictures,84.0
+The Last Emperor,PG-13,Biography,1987,"April 15, 1988 (United States)",7.7,97000.0,Bernardo Bertolucci,Mark Peploe,John Lone,United Kingdom,,43993869.0,Recorded Picture Company (RPC),163.0
+The Monster Squad,PG-13,Action,1987,"August 14, 1987 (United States)",7.0,30000.0,Fred Dekker,Shane Black,Andre Gower,United States,12000000.0,3769990.0,TAFT Entertainment Pictures,79.0
+Wings of Desire,PG-13,Drama,1987,"May 6, 1988 (United States)",8.0,67000.0,Wim Wenders,Wim Wenders,Bruno Ganz,West Germany,,3404057.0,Road Movies Filmproduktion,128.0
+Maurice,R,Drama,1987,"September 18, 1987 (United States)",7.7,17000.0,James Ivory,E.M. Forster,James Wilby,United Kingdom,,2642567.0,Merchant Ivory Productions,140.0
+Broadcast News,R,Comedy,1987,"December 25, 1987 (United States)",7.2,28000.0,James L. Brooks,James L. Brooks,William Hurt,United States,20000000.0,67331309.0,Amercent Films,133.0
+84 Charing Cross Road,PG,Biography,1987,"February 13, 1987 (United States)",7.5,9500.0,David Hugh Jones,Helene Hanff,Anne Bancroft,United Kingdom,,1083486.0,Brooksfilms,100.0
+The Hidden,R,Horror,1987,"October 30, 1987 (United States)",7.0,18000.0,Jack Sholder,Jim Kouf,Kyle MacLachlan,United States,5000000.0,9747988.0,Heron Communications,97.0
+Barfly,R,Comedy,1987,"October 16, 1987 (United States)",7.2,19000.0,Barbet Schroeder,Charles Bukowski,Mickey Rourke,United States,3000000.0,3221568.0,Golan-Globus Productions,100.0
+Au Revoir les Enfants,PG,Drama,1987,"February 12, 1988 (United States)",8.0,32000.0,Louis Malle,Louis Malle,Gaspard Manesse,France,,4575613.0,Nouvelles Éditions de Films (NEF),104.0
+Hope and Glory,PG-13,Comedy,1987,"February 19, 1988 (United States)",7.3,13000.0,John Boorman,John Boorman,Sarah Miles,United Kingdom,,10021120.0,Columbia Pictures,113.0
+Babette's Feast,G,Drama,1987,"March 4, 1988 (United States)",7.8,19000.0,Gabriel Axel,Karen Blixen,Stéphane Audran,Denmark,,4637920.0,Panorama Film A/S,103.0
+Radio Days,PG,Comedy,1987,"January 30, 1987 (United States)",7.5,32000.0,Woody Allen,Woody Allen,Mia Farrow,United States,16000000.0,14792779.0,Jack Rollins & Charles H. Joffe Productions,88.0
+Bagdad Cafe,PG,Comedy,1987,"April 22, 1988 (United States)",7.4,13000.0,Percy Adlon,Eleonore Adlon,Marianne Sägebrecht,West Germany,,3731829.0,Pelemele Film,95.0
+Three O'Clock High,PG-13,Comedy,1987,"October 9, 1987 (United States)",7.1,11000.0,Phil Joanou,Richard Christian Matheson,Casey Siemaszko,United States,6000000.0,3685862.0,Aaron Spelling Productions,101.0
+House of Games,R,Crime,1987,"October 14, 1987 (United States)",7.3,21000.0,David Mamet,David Mamet,Lindsay Crouse,United States,,2585639.0,Filmhaus,102.0
+Cry Freedom,PG,Biography,1987,"November 6, 1987 (United States)",7.4,13000.0,Richard Attenborough,John Briley,Denzel Washington,United Kingdom,29000000.0,5899797.0,Universal Pictures,157.0
+Matewan,PG-13,Drama,1987,"August 28, 1987 (United States)",7.9,7500.0,John Sayles,John Sayles,Chris Cooper,United States,4000000.0,1680358.0,Cinecom Entertainment Group,135.0
+Pelle the Conqueror,PG-13,Drama,1987,"December 21, 1988 (United States)",7.8,10000.0,Bille August,Martin Andersen Nexø,Pelle Hvenegaard,Denmark,,2063688.0,Per Holst Filmproduktion,157.0
+The Chipmunk Adventure,G,Animation,1987,"May 22, 1987 (United States)",7.2,5200.0,Janice Karman,Janice Karman,Ross Bagdasarian Jr.,United States,,6804312.0,Bagdasarian Productions,77.0
+Gandahar,PG,Animation,1987,"September 20, 1989 (United States)",7.1,4500.0,René Laloux,René Laloux,Glenn Close,France,,370698.0,Col.Ima.Son,78.0
+The Whales of August,Not Rated,Drama,1987,"August 19, 1987 (France)",7.3,4400.0,Lindsay Anderson,David Berry,Bette Davis,United States,,1338198.0,Alive Films,90.0
+Prick Up Your Ears,R,Biography,1987,"May 8, 1987 (United States)",7.3,5700.0,Stephen Frears,John Lahr,Gary Oldman,United Kingdom,,1672927.0,Zenith Entertainment,105.0
+Housekeeping,PG,Comedy,1987,"February 5, 1988 (Sweden)",7.2,2300.0,Bill Forsyth,Marilynne Robinson,Christine Lahti,United States,,1083282.0,Columbia Pictures,116.0
+Boyfriends and Girlfriends,PG,Comedy,1987,"July 15, 1988 (United States)",7.6,4300.0,Éric Rohmer,Éric Rohmer,Emmanuelle Chaulet,France,,824024.0,Les Films du Losange,103.0
+Hollywood Shuffle,R,Comedy,1987,"March 20, 1987 (United States)",7.0,5200.0,Robert Townsend,Dom Irrera,Robert Townsend,United States,100000.0,5228617.0,Conquering Unicorn,78.0
+The Dead,PG,Drama,1987,"December 18, 1987 (United States)",7.3,7300.0,John Huston,James Joyce,Anjelica Huston,United Kingdom,,4370078.0,Vestron Pictures,83.0
+Four Adventures of Reinette and Mirabelle,Not Rated,Comedy,1987,"July 19, 1989 (United States)",7.6,2200.0,Éric Rohmer,Éric Rohmer,Joëlle Miquel,France,,22039.0,Compagnie Eric Rohmer (CER),99.0
+Little Dorrit,G,Drama,1987,"October 21, 1988 (United States)",7.3,1000.0,Christine Edzard,Charles Dickens,Derek Jacobi,United Kingdom,,1025228.0,Sands,357.0
+The Year My Voice Broke,PG-13,Drama,1987,"October 17, 1987 (United States)",7.4,2000.0,John Duigan,John Duigan,Noah Taylor,Australia,,213901.0,Kennedy Miller Productions,103.0
+The Belly of an Architect,R,Drama,1987,"October 16, 1987 (United Kingdom)",7.0,5500.0,Peter Greenaway,Peter Greenaway,Brian Dennehy,United Kingdom,,,Callender Company,119.0
+Intervista,,Comedy,1987,"November 6, 1992 (United States)",7.0,2500.0,Federico Fellini,Federico Fellini,Sergio Rubini,Italy,,138608.0,Aljosha,105.0
+Oci ciornie,,Comedy,1987,"November 6, 1987 (United States)",7.4,3000.0,Nikita Mikhalkov,Aleksandr Adabashyan,Marcello Mastroianni,Italy,,2201428.0,Excelsior Film-TV,118.0
+The Glass Menagerie,PG,Drama,1987,"May 27, 1987 (France)",7.1,1900.0,Paul Newman,Tennessee Williams,Joanne Woodward,United States,,895904.0,Cineplex Odeon Films,134.0
+Die Hard,R,Action,1988,"July 20, 1988 (United States)",8.2,810000.0,John McTiernan,Roderick Thorp,Bruce Willis,United States,28000000.0,141603197.0,Twentieth Century Fox,132.0
+Midnight Run,R,Action,1988,"July 20, 1988 (United States)",7.5,79000.0,Martin Brest,George Gallo,Robert De Niro,United States,30000000.0,81613606.0,Universal Pictures,126.0
+Beetlejuice,PG,Comedy,1988,"March 30, 1988 (United States)",7.5,270000.0,Tim Burton,Michael McDowell,Alec Baldwin,United States,15000000.0,74270074.0,The Geffen Company,92.0
+Big,PG,Comedy,1988,"June 3, 1988 (United States)",7.3,205000.0,Penny Marshall,Gary Ross,Tom Hanks,United States,18000000.0,151927281.0,American Entertainment Partners II L.P.,104.0
+Rain Man,R,Drama,1988,"December 16, 1988 (United States)",8.0,483000.0,Barry Levinson,Barry Morrow,Dustin Hoffman,United States,25000000.0,354825435.0,United Artists,133.0
+Running on Empty,PG-13,Crime,1988,"September 9, 1988 (United States)",7.7,15000.0,Sidney Lumet,Naomi Foner,River Phoenix,United States,7000000.0,2847941.0,Double Play,116.0
+They Live,R,Action,1988,"November 4, 1988 (United States)",7.3,117000.0,John Carpenter,Ray Nelson,Roddy Piper,United States,4000000.0,13008928.0,Alive Films,94.0
+Willow,PG,Action,1988,"May 20, 1988 (United States)",7.3,103000.0,Ron Howard,George Lucas,Val Kilmer,United Kingdom,35000000.0,57269863.0,Metro-Goldwyn-Mayer (MGM),126.0
+Heathers,R,Comedy,1988,"March 31, 1989 (United States)",7.2,92000.0,Michael Lehmann,Daniel Waters,Winona Ryder,United States,3000000.0,1163969.0,New World Pictures,103.0
+Coming to America,R,Comedy,1988,"June 29, 1988 (United States)",7.1,196000.0,John Landis,Eddie Murphy,Eddie Murphy,United States,39000000.0,288752301.0,Paramount Pictures,117.0
+Who Framed Roger Rabbit,PG,Animation,1988,"June 22, 1988 (United States)",7.7,187000.0,Robert Zemeckis,Gary K. Wolf,Bob Hoskins,United States,70000000.0,329803958.0,Touchstone Pictures,104.0
+Akira,R,Animation,1988,"July 16, 1988 (Japan)",8.0,171000.0,Katsuhiro Ôtomo,Katsuhiro Ôtomo,Mitsuo Iwata,Japan,,2562351.0,Akira Committee Company Ltd.,124.0
+Cinema Paradiso,PG,Drama,1988,"February 23, 1990 (United States)",8.5,239000.0,Giuseppe Tornatore,Giuseppe Tornatore,Philippe Noiret,Italy,5000000.0,13019063.0,Cristaldifilm,155.0
+Mississippi Burning,R,Crime,1988,"January 27, 1989 (United States)",7.8,91000.0,Alan Parker,Chris Gerolmo,Gene Hackman,United States,15000000.0,34603943.0,Orion Pictures,128.0
+The Naked Gun: from the Files of Police Squad!,PG-13,Comedy,1988,"December 2, 1988 (United States)",7.6,158000.0,David Zucker,Jerry Zucker,Leslie Nielsen,United States,12000000.0,78756177.0,Paramount Pictures,85.0
+My Neighbor Totoro,G,Animation,1988,"July 13, 1990 (United States)",8.2,304000.0,Hayao Miyazaki,Hayao Miyazaki,Hitoshi Takagi,Japan,3700000.0,30550920.0,Tokuma Japan Communications,86.0
+A Fish Called Wanda,R,Comedy,1988,"July 29, 1988 (United States)",7.5,135000.0,Charles Crichton,John Cleese,John Cleese,United Kingdom,7500000.0,62493712.0,Metro-Goldwyn-Mayer (MGM),108.0
+The Last Temptation of Christ,R,Drama,1988,"August 12, 1988 (Canada)",7.5,54000.0,Martin Scorsese,Nikos Kazantzakis,Willem Dafoe,Canada,7000000.0,8865702.0,Universal Pictures,164.0
+The Land Before Time,G,Animation,1988,"November 18, 1988 (United States)",7.4,82000.0,Don Bluth,Stu Krieger,Pat Hingle,United States,12500000.0,84460846.0,Lucasfilm,69.0
+The Accused,R,Crime,1988,"October 14, 1988 (United States)",7.2,33000.0,Jonathan Kaplan,Tom Topor,Kelly McGillis,Canada,13000000.0,32078318.0,Paramount Pictures,111.0
+Dangerous Liaisons,R,Drama,1988,"February 24, 1989 (United States)",7.6,66000.0,Stephen Frears,Christopher Hampton,Glenn Close,United States,14000000.0,34670720.0,Lorimar Film Entertainment,119.0
+Hairspray,PG,Comedy,1988,"February 26, 1988 (United States)",7.0,20000.0,John Waters,John Waters,Sonny Bono,United States,2000000.0,6673032.0,New Line Cinema,92.0
+Dead Ringers,R,Drama,1988,"September 23, 1988 (United States)",7.3,43000.0,David Cronenberg,David Cronenberg,Jeremy Irons,Canada,13000000.0,8038508.0,Morgan Creek Entertainment,116.0
+Bull Durham,R,Comedy,1988,"June 15, 1988 (United States)",7.1,49000.0,Ron Shelton,Ron Shelton,Kevin Costner,United States,7000000.0,50888729.0,The Mount Company,108.0
+The Big Blue,PG,Adventure,1988,"August 19, 1988 (United States)",7.6,49000.0,Luc Besson,Luc Besson,Jean-Marc Barr,France,,3975244.0,Gaumont,168.0
+The Unbearable Lightness of Being,R,Drama,1988,"February 5, 1988 (United States)",7.3,35000.0,Philip Kaufman,Milan Kundera,Daniel Day-Lewis,Sweden,17000000.0,10006806.0,The Saul Zaentz Company,171.0
+The Adventures of Baron Munchausen,PG,Adventure,1988,"March 10, 1989 (United States)",7.2,52000.0,Terry Gilliam,Charles McKeown,John Neville,United Kingdom,46630000.0,8083123.0,Prominent Features,126.0
+Scrooged,PG-13,Comedy,1988,"November 23, 1988 (United States)",7.0,90000.0,Richard Donner,Mitch Glazer,Bill Murray,United States,32000000.0,60329001.0,Paramount Pictures,101.0
+Dirty Rotten Scoundrels,PG,Comedy,1988,"December 14, 1988 (United States)",7.4,67000.0,Frank Oz,Dale Launer,Steve Martin,United States,,42039085.0,Orion Pictures,110.0
+Eight Men Out,PG,Drama,1988,"June 29, 1989 (Australia)",7.2,19000.0,John Sayles,Eliot Asinof,John Cusack,United States,6000000.0,5680515.0,Orion Pictures,119.0
+Stand and Deliver,PG,Biography,1988,"March 11, 1988 (United States)",7.3,17000.0,Ramón Menéndez,Ramón Menéndez,Edward James Olmos,United States,,13994920.0,American Playhouse,103.0
+Women on the Verge of a Nervous Breakdown,R,Comedy,1988,"November 11, 1988 (United States)",7.6,37000.0,Pedro Almodóvar,Pedro Almodóvar,Carmen Maura,Spain,700000.0,7263129.0,Laurenfilm,88.0
+As Tears Go By,Not Rated,Crime,1988,"May 2, 2008 (United States)",7.0,9000.0,Kar-Wai Wong,Jeffrey Lau,Andy Lau,Hong Kong,,13133.0,In-Gear Film Production,102.0
+Time of the Gypsies,R,Comedy,1988,"February 9, 1990 (United States)",8.2,29000.0,Emir Kusturica,Emir Kusturica,Davor Dujmovic,Yugoslavia,,,Forum Sarajevo,142.0
+The Beast of War,R,Adventure,1988,"September 7, 1988 (France)",7.3,9100.0,Kevin Reynolds,William Mastrosimone,George Dzundza,United States,8000000.0,161004.0,A&M Films,111.0
+Gorillas in the Mist,PG-13,Biography,1988,"October 7, 1988 (United States)",7.0,25000.0,Michael Apted,Harold T.P. Hayes,Sigourney Weaver,United States,22000000.0,61149479.0,Universal Pictures,129.0
+Miracle Mile,R,Action,1988,"May 19, 1989 (United States)",7.0,9800.0,Steve De Jarnatt,Steve De Jarnatt,Anthony Edwards,United States,3700000.0,1145404.0,Hemdale,87.0
+Talk Radio,R,Drama,1988,"January 13, 1989 (United States)",7.3,13000.0,Oliver Stone,Stephen Singular,Eric Bogosian,United States,4000000.0,3468572.0,Cineplex Odeon Films,110.0
+The Bear,PG,Adventure,1988,"October 27, 1989 (United States)",7.7,17000.0,Jean-Jacques Annaud,James Oliver Curwood,Tchéky Karyo,France,,31753898.0,Price,96.0
+Bird,R,Biography,1988,"September 30, 1988 (United States)",7.2,12000.0,Clint Eastwood,Joel Oliansky,Forest Whitaker,United States,9000000.0,2181286.0,The Malpaso Company,161.0
+Salaam Bombay!,Not Rated,Crime,1988,"October 7, 1988 (United States)",8.0,8800.0,Mira Nair,Mira Nair,Shafiq Syed,United States,,2080758.0,Mirabai Films,113.0
+High Hopes,PG,Comedy,1988,"May 25, 1989 (Italy)",7.4,4800.0,Mike Leigh,Mike Leigh,Phil Davis,United Kingdom,,1192322.0,Portman Productions,108.0
+Camille Claudel,R,Biography,1988,"December 21, 1989 (United States)",7.3,6400.0,Bruno Nuytten,Reine-Marie Paris,Isabelle Adjani,France,,3331297.0,Les Films Christian Fechner,175.0
+Torch Song Trilogy,R,Comedy,1988,"December 14, 1988 (United States)",7.7,6800.0,Paul Bogart,Harvey Fierstein,Anne Bancroft,United States,,4870903.0,New Line Cinema,120.0
+Drowning by Numbers,R,Comedy,1988,June 1991 (United States),7.2,8300.0,Peter Greenaway,Peter Greenaway,Bernard Hill,United Kingdom,,424773.0,Film Four International,118.0
+Chocolat,PG-13,Drama,1988,May 1989 (United States),7.3,3100.0,Claire Denis,Claire Denis,Isaach De Bankolé,France,,2319801.0,Caroline Productions,105.0
+Without a Clue,PG,Comedy,1988,"October 21, 1988 (United States)",7.0,9800.0,Thom Eberhardt,Gary Murphy,Michael Caine,United Kingdom,,8539181.0,Incorporated Television Company (ITC),107.0
+Another Woman,PG,Drama,1988,"November 18, 1988 (United States)",7.3,13000.0,Woody Allen,Woody Allen,Gena Rowlands,United States,10000000.0,1562749.0,Jack Rollins & Charles H. Joffe Productions,81.0
+Things Change,PG,Comedy,1988,"October 21, 1988 (United States)",7.0,3400.0,David Mamet,David Mamet,Don Ameche,United States,,3527886.0,Columbia Pictures,100.0
+A Summer Story,PG-13,Drama,1988,"July 23, 1988 (South Korea)",7.3,998.0,Piers Haggard,John Galsworthy,Imogen Stubbs,United Kingdom,,,Incorporated Television Company (ITC),95.0
+"Distant Voices, Still Lives",PG-13,Drama,1988,"November 16, 1988 (France)",7.4,3900.0,Terence Davies,Terence Davies,Pete Postlethwaite,United Kingdom,,771745.0,British Film Institute (BFI),84.0
+Apartment Zero,R,Drama,1988,"September 15, 1989 (United Kingdom)",7.0,3700.0,Martin Donovan,Martin Donovan,Hart Bochner,United Kingdom,4000000.0,1267578.0,Producers Representative Organization,124.0
+Indiana Jones and the Last Crusade,PG-13,Action,1989,"May 24, 1989 (United States)",8.2,707000.0,Steven Spielberg,Jeffrey Boam,Harrison Ford,United States,48000000.0,474171806.0,Paramount Pictures,127.0
+Batman,PG-13,Action,1989,"June 23, 1989 (United States)",7.5,346000.0,Tim Burton,Bob Kane,Michael Keaton,United States,35000000.0,411508343.0,Warner Bros.,126.0
+Bill & Ted's Excellent Adventure,PG,Adventure,1989,"February 17, 1989 (United States)",7.0,123000.0,Stephen Herek,Chris Matheson,Keanu Reeves,United States,10000000.0,40508994.0,De Laurentiis Entertainment Group (DEG),90.0
+Field of Dreams,PG,Drama,1989,"May 5, 1989 (United States)",7.5,111000.0,Phil Alden Robinson,W.P. Kinsella,Kevin Costner,United States,,84431625.0,Gordon Company,107.0
+Dead Poets Society,PG,Comedy,1989,"June 9, 1989 (United States)",8.1,442000.0,Peter Weir,Tom Schulman,Robin Williams,United States,16400000.0,235860116.0,Touchstone Pictures,128.0
+The Little Mermaid,G,Animation,1989,"November 17, 1989 (United States)",7.6,244000.0,Ron Clements,John Musker,Jodi Benson,United States,40000000.0,211343479.0,Walt Disney Pictures,83.0
+The Abyss,PG-13,Adventure,1989,"August 9, 1989 (United States)",7.5,167000.0,James Cameron,James Cameron,Ed Harris,United States,70000000.0,90000098.0,Twentieth Century Fox,140.0
+Back to the Future Part II,PG,Adventure,1989,"November 22, 1989 (United States)",7.8,494000.0,Robert Zemeckis,Robert Zemeckis,Michael J. Fox,United States,40000000.0,332500002.0,Universal Pictures,108.0
+Do the Right Thing,R,Comedy,1989,"July 21, 1989 (United States)",8.0,94000.0,Spike Lee,Spike Lee,Danny Aiello,United States,6500000.0,37295445.0,40 Acres & A Mule Filmworks,120.0
+"Sex, Lies, and Videotape",R,Drama,1989,"September 22, 1989 (United States)",7.2,52000.0,Steven Soderbergh,Steven Soderbergh,James Spader,United States,1200000.0,24741667.0,Outlaw Productions (I),100.0
+When Harry Met Sally...,R,Comedy,1989,"July 21, 1989 (United States)",7.6,201000.0,Rob Reiner,Nora Ephron,Billy Crystal,United States,16000000.0,93232006.0,Castle Rock Entertainment,95.0
+Major League,R,Comedy,1989,"April 7, 1989 (United States)",7.2,64000.0,David S. Ward,David S. Ward,Tom Berenger,United States,11000000.0,49797148.0,Mirage Enterprises,107.0
+Steel Magnolias,PG,Comedy,1989,"November 22, 1989 (United States)",7.3,50000.0,Herbert Ross,Robert Harling,Shirley MacLaine,United States,15000000.0,96759512.0,TriStar Pictures,117.0
+Uncle Buck,PG,Comedy,1989,"August 16, 1989 (United States)",7.0,88000.0,John Hughes,John Hughes,John Candy,United States,15000000.0,79258538.0,Universal Pictures,100.0
+Born on the Fourth of July,R,Biography,1989,"January 5, 1990 (United States)",7.2,101000.0,Oliver Stone,Ron Kovic,Tom Cruise,United States,14000000.0,161001698.0,Ixtlan,145.0
+Glory,R,Biography,1989,"February 16, 1990 (United States)",7.8,126000.0,Edward Zwick,Kevin Jarre,Matthew Broderick,United States,18000000.0,26979166.0,TriStar Pictures,122.0
+Parenthood,PG-13,Comedy,1989,"August 2, 1989 (United States)",7.0,46000.0,Ron Howard,Lowell Ganz,Steve Martin,United States,20000000.0,126297830.0,Imagine Entertainment,124.0
+Lethal Weapon 2,R,Action,1989,"July 7, 1989 (United States)",7.2,166000.0,Richard Donner,Jeffrey Boam,Mel Gibson,United States,28000000.0,227853986.0,Warner Bros.,114.0
+National Lampoon's Christmas Vacation,PG-13,Comedy,1989,"December 1, 1989 (United States)",7.6,164000.0,Jeremiah S. Chechik,John Hughes,Chevy Chase,United States,27000000.0,73594646.0,Warner Bros.,97.0
+Say Anything,PG-13,Comedy,1989,"April 14, 1989 (United States)",7.3,85000.0,Cameron Crowe,Cameron Crowe,John Cusack,United States,,21515196.0,Gracie Films,100.0
+Shirley Valentine,R,Comedy,1989,"August 30, 1989 (United States)",7.2,7400.0,Lewis Gilbert,Willy Russell,Pauline Collins,United Kingdom,,6056912.0,Paramount Pictures,108.0
+"The Cook, the Thief, His Wife & Her Lover",X,Crime,1989,"April 6, 1990 (United States)",7.6,36000.0,Peter Greenaway,Peter Greenaway,Richard Bohringer,Netherlands,,7724701.0,Allarts,124.0
+Casualties of War,R,Action,1989,"August 18, 1989 (United States)",7.1,42000.0,Brian De Palma,Daniel Lang,Michael J. Fox,United States,22500000.0,18671317.0,Art Linson Productions,113.0
+My Left Foot,R,Biography,1989,"March 30, 1990 (United States)",7.9,70000.0,Jim Sheridan,Shane Connaughton,Daniel Day-Lewis,Ireland,,14743391.0,Ferndale Films,103.0
+UHF,PG-13,Comedy,1989,"July 21, 1989 (United States)",7.0,27000.0,Jay Levey,'Weird Al' Yankovic,'Weird Al' Yankovic,United States,5000000.0,6157157.0,Cinecorp SAC,97.0
+Tie Me Up! Tie Me Down!,NC-17,Comedy,1989,"January 22, 1990 (Spain)",7.0,26000.0,Pedro Almodóvar,Pedro Almodóvar,Victoria Abril,Spain,,4088140.0,El Deseo,101.0
+Driving Miss Daisy,PG,Drama,1989,"January 26, 1990 (United States)",7.4,102000.0,Bruce Beresford,Alfred Uhry,Morgan Freeman,United States,7500000.0,145793296.0,The Zanuck Company,99.0
+Drugstore Cowboy,R,Crime,1989,"October 20, 1989 (United States)",7.3,34000.0,Gus Van Sant,James Fogle,Matt Dillon,United States,2500000.0,4729352.0,Avenue Pictures,101.0
+Lean on Me,PG-13,Drama,1989,"March 3, 1989 (United States)",7.4,19000.0,John G. Avildsen,Michael Schiffer,Morgan Freeman,United States,10000000.0,31906454.0,Norman Twain Productions,108.0
+Henry V,PG-13,Action,1989,"November 8, 1989 (United States)",7.5,29000.0,Kenneth Branagh,William Shakespeare,Kenneth Branagh,United Kingdom,9000000.0,10161099.0,Renaissance Films,137.0
+Valmont,R,Drama,1989,"November 17, 1989 (United States)",7.0,13000.0,Milos Forman,Choderlos de Laclos,Colin Firth,France,33000000.0,1132112.0,Renn Productions,137.0
+Mystery Train,R,Comedy,1989,"November 17, 1989 (United States)",7.6,26000.0,Jim Jarmusch,Jim Jarmusch,Masatoshi Nagase,Japan,2800000.0,1544973.0,JVC Entertainment Networks,110.0
+Crimes and Misdemeanors,PG-13,Comedy,1989,"November 3, 1989 (United States)",7.9,56000.0,Woody Allen,Woody Allen,Martin Landau,United States,19000000.0,18254702.0,Jack Rollins & Charles H. Joffe Productions,104.0
+Little Nemo: Adventures in Slumberland,G,Animation,1989,"August 21, 1992 (United States)",7.1,7000.0,Masami Hata,Chris Columbus,Gabriel Damon,Japan,35000000.0,1368000.0,TMS Entertainment,85.0
+Longtime Companion,R,Drama,1989,"May 1, 1990 (Portugal)",7.6,5400.0,Norman René,Craig Lucas,Stephen Caffrey,United States,3000000.0,4609953.0,American Playhouse,96.0
+A Dry White Season,R,Drama,1989,"September 20, 1989 (United States)",7.0,5300.0,Euzhan Palcy,André P. Brink,Donald Sutherland,United States,9000000.0,3766879.0,Davros Films,106.0
+The Unbelievable Truth,R,Comedy,1989,"November 8, 1990 (Australia)",7.3,5000.0,Hal Hartley,Hal Hartley,Adrienne Shelly,United States,75000.0,,Action Features,90.0
+Music Box,PG-13,Crime,1989,"January 19, 1990 (United States)",7.4,7200.0,Costa-Gavras,Joe Eszterhas,Jessica Lange,United States,,6263883.0,Carolco Pictures,124.0
+Violent Cop,Not Rated,Action,1989,"July 16, 1999 (United States)",7.2,11000.0,Takeshi Kitano,Hisashi Nozawa,Takeshi Kitano,Japan,,,Bandai Media Department,103.0
+Jesus of Montreal,R,Drama,1989,"May 25, 1990 (United States)",7.5,6800.0,Denys Arcand,Denys Arcand,Lothaire Bluteau,Canada,,1601612.0,Max Films Productions,120.0
+My Twentieth Century,,Comedy,1989,"January 13, 1990 (Japan)",7.1,1500.0,Ildikó Enyedi,Ildikó Enyedi,Dorota Segda,Hungary,,,Budapest Stúdió Vállalat,104.0
+Monsieur Hire,PG-13,Crime,1989,June 1990 (United States),7.6,6100.0,Patrice Leconte,Georges Simenon,Michel Blanc,France,,1417030.0,Cinéa,81.0
+Romero,PG-13,Biography,1989,"August 25, 1989 (United States)",7.2,2100.0,John Duigan,John Sacret Young,Raul Julia,United States,,1316495.0,Paulist Pictures,102.0
+Goodfellas,R,Biography,1990,"September 21, 1990 (United States)",8.7,1100000.0,Martin Scorsese,Nicholas Pileggi,Robert De Niro,United States,25000000.0,46963277.0,Warner Bros.,146.0
+The Godfather: Part III,R,Crime,1990,"December 25, 1990 (United States)",7.6,370000.0,Francis Ford Coppola,Mario Puzo,Al Pacino,United States,54000000.0,136861392.0,Paramount Pictures,162.0
+Total Recall,R,Action,1990,"June 1, 1990 (United States)",7.5,310000.0,Paul Verhoeven,Philip K. Dick,Arnold Schwarzenegger,United States,65000000.0,261317921.0,Carolco Pictures,113.0
+Pretty Woman,R,Comedy,1990,"March 23, 1990 (United States)",7.0,299000.0,Garry Marshall,J.F. Lawton,Richard Gere,United States,14000000.0,463406268.0,Touchstone Pictures,119.0
+Home Alone,PG,Comedy,1990,"November 16, 1990 (United States)",7.6,501000.0,Chris Columbus,John Hughes,Macaulay Culkin,United States,18000000.0,476684675.0,Hughes Entertainment,103.0
+Ghost,PG-13,Drama,1990,"July 13, 1990 (United States)",7.1,203000.0,Jerry Zucker,Bruce Joel Rubin,Patrick Swayze,United States,22000000.0,505703557.0,Paramount Pictures,127.0
+Dances with Wolves,PG-13,Adventure,1990,"November 21, 1990 (United States)",8.0,247000.0,Kevin Costner,Michael Blake,Kevin Costner,United States,22000000.0,424208848.0,Tig Productions,181.0
+Tremors,PG-13,Comedy,1990,"January 19, 1990 (United States)",7.1,126000.0,Ron Underwood,S.S. Wilson,Kevin Bacon,United States,11000000.0,16667084.0,Universal Pictures,96.0
+Die Hard 2,R,Action,1990,"July 3, 1990 (United States)",7.1,344000.0,Renny Harlin,Steven E. de Souza,Bruce Willis,United States,70000000.0,240031274.0,Twentieth Century Fox,124.0
+Misery,R,Drama,1990,"November 30, 1990 (United States)",7.8,191000.0,Rob Reiner,Stephen King,James Caan,United States,20000000.0,61276872.0,Castle Rock Entertainment,107.0
+Edward Scissorhands,PG-13,Drama,1990,"December 14, 1990 (United States)",7.9,456000.0,Tim Burton,Tim Burton,Johnny Depp,United States,20000000.0,86024005.0,Twentieth Century Fox,105.0
+The Hunt for Red October,PG,Action,1990,"March 2, 1990 (United States)",7.6,186000.0,John McTiernan,Tom Clancy,Sean Connery,United States,30000000.0,200512643.0,Paramount Pictures,135.0
+Awakenings,PG-13,Biography,1990,"January 11, 1991 (United States)",7.8,130000.0,Penny Marshall,Oliver Sacks,Robert De Niro,United States,31000000.0,52096475.0,Columbia Pictures,121.0
+Wild at Heart,R,Comedy,1990,"August 17, 1990 (United States)",7.2,86000.0,David Lynch,Barry Gifford,Nicolas Cage,United States,9500000.0,14561425.0,PolyGram Filmed Entertainment,125.0
+Jacob's Ladder,R,Drama,1990,"November 2, 1990 (United States)",7.5,101000.0,Adrian Lyne,Bruce Joel Rubin,Tim Robbins,United States,25000000.0,26118851.0,Carolco Pictures,113.0
+Back to the Future Part III,PG,Adventure,1990,"May 25, 1990 (United States)",7.4,416000.0,Robert Zemeckis,Robert Zemeckis,Michael J. Fox,United States,40000000.0,245077583.0,Universal Pictures,118.0
+King of New York,R,Crime,1990,"January 5, 1991 (United States)",7.0,34000.0,Abel Ferrara,Nicholas St. John,Christopher Walken,Italy,5300000.0,2554476.0,Reteitalia,103.0
+Miller's Crossing,R,Crime,1990,"October 5, 1990 (United States)",7.7,128000.0,Joel Coen,Joel Coen,Gabriel Byrne,United States,14000000.0,5080409.0,Circle Films,115.0
+Nikita,R,Action,1990,April 1991 (United States),7.3,69000.0,Luc Besson,Luc Besson,Anne Parillaud,France,,5017971.0,Gaumont,117.0
+Slacker,R,Comedy,1990,"July 5, 1991 (United States)",7.1,20000.0,Richard Linklater,Richard Linklater,Richard Linklater,United States,23000.0,1228108.0,Detour Filmproduction,97.0
+Days of Being Wild,Not Rated,Crime,1990,"December 15, 1990 (Hong Kong)",7.5,19000.0,Kar-Wai Wong,Jeffrey Lau,Leslie Cheung,Hong Kong,,3106052.0,In-Gear Film,94.0
+Pump Up the Volume,R,Comedy,1990,"August 22, 1990 (United States)",7.2,27000.0,Allan Moyle,Allan Moyle,Christian Slater,Canada,,11541758.0,New Line Cinema,102.0
+Reversal of Fortune,R,Biography,1990,"November 9, 1990 (United States)",7.2,15000.0,Barbet Schroeder,Alan Dershowitz,Jeremy Irons,United States,,15445131.0,Sovereign Pictures,111.0
+State of Grace,R,Action,1990,"September 14, 1990 (United States)",7.2,21000.0,Phil Joanou,Dennis McIntyre,Sean Penn,United Kingdom,18000000.0,1911542.0,Cinehaus,134.0
+Dreams,PG,Drama,1990,"August 24, 1990 (United States)",7.8,25000.0,Akira Kurosawa,Akira Kurosawa,Akira Terao,Japan,12000000.0,2970161.0,Warner Bros.,119.0
+Close-Up,Not Rated,Biography,1990,"October 30, 1991 (France)",8.3,17000.0,Abbas Kiarostami,Abbas Kiarostami,Hossain Sabzian,Iran,,,Kanun parvaresh fekri,98.0
+Rosencrantz & Guildenstern Are Dead,PG,Comedy,1990,"February 8, 1991 (United States)",7.4,21000.0,Tom Stoppard,Tom Stoppard,Gary Oldman,United Kingdom,,739104.0,Brandenberg,117.0
+Metropolitan,PG-13,Comedy,1990,"August 3, 1990 (United States)",7.4,10000.0,Whit Stillman,Whit Stillman,Carolyn Farina,United States,230000.0,2960492.0,Westerly Films,98.0
+Europa Europa,R,Drama,1990,"November 14, 1990 (France)",7.6,15000.0,Agnieszka Holland,Agnieszka Holland,Solomon Perel,Germany,,5575738.0,Bayerischer Rundfunk (BR),112.0
+Cyrano de Bergerac,PG,Comedy,1990,"December 1, 1990 (United States)",7.5,23000.0,Jean-Paul Rappeneau,Edmond Rostand,Gérard Depardieu,France,,5822041.0,Caméra One,137.0
+Truly Madly Deeply,PG,Comedy,1990,"May 24, 1991 (United States)",7.2,7600.0,Anthony Minghella,Anthony Minghella,Juliet Stevenson,United Kingdom,,1554742.0,British Broadcasting Corporation (BBC),106.0
+Life Is Sweet,R,Comedy,1990,December 1991 (United States),7.5,9500.0,Mike Leigh,Mike Leigh,Alison Steadman,United Kingdom,,1516414.0,British Screen Productions,103.0
+Avalon,PG,Drama,1990,"October 19, 1990 (United States)",7.2,5900.0,Barry Levinson,Barry Levinson,Aidan Quinn,United States,20000000.0,15779578.0,TriStar Pictures,128.0
+The Field,PG-13,Drama,1990,March 1991 (United States),7.4,5800.0,Jim Sheridan,Jim Sheridan,Richard Harris,Ireland,,1494399.0,Granada Television,107.0
+Ju Dou,PG-13,Drama,1990,April 1991 (United States),7.7,7800.0,Yimou Zhang,Heng Liu,Gong Li,China,,1986433.0,China Film Co-Production Corporation,95.0
+The Hairdresser's Husband,R,Comedy,1990,"October 3, 1990 (France)",7.3,9200.0,Patrice Leconte,Claude Klotz,Jean Rochefort,France,,1217084.0,Lambart Productions,82.0
+The Long Walk Home,PG,Drama,1990,"April 12, 1991 (Brazil)",7.3,3500.0,Richard Pearce,John Cork,Sissy Spacek,United States,,4873620.0,Dave Bell Associates,97.0
+Mountains of the Moon,R,Adventure,1990,"February 23, 1990 (United States)",7.2,3500.0,Bob Rafelson,William Harrison,Patrick Bergin,United States,19000000.0,4011793.0,Carolco Pictures,136.0
+Trust,R,Comedy,1990,"September 20, 1991 (United Kingdom)",7.4,9400.0,Hal Hartley,Hal Hartley,Adrienne Shelly,United Kingdom,700000.0,357400.0,Channel Four Films,107.0
+An Angel at My Table,R,Biography,1990,"September 20, 1990 (Australia)",7.5,6900.0,Jane Campion,Janet Frame,Kerry Fox,New Zealand,,1055995.0,Hibiscus Films,158.0
+Everybody's Fine,PG-13,Drama,1990,"May 31, 1991 (United States)",7.7,3700.0,Giuseppe Tornatore,Massimo De Rita,Marcello Mastroianni,Italy,,1745470.0,Erre Produzioni,118.0
+My Father's Glory,G,Adventure,1990,August 1991 (United States),7.6,6200.0,Yves Robert,Louis Nucéra,Philippe Caubère,France,,1730856.0,Gaumont,105.0
+A Tale of Springtime,PG,Comedy,1990,"April 4, 1990 (France)",7.2,4000.0,Éric Rohmer,Éric Rohmer,Anne Teyssèdre,France,,20554.0,Compagnie Eric Rohmer (CER),108.0
+To Sleep with Anger,PG,Drama,1990,"October 12, 1990 (United States)",7.2,2200.0,Charles Burnett,Charles Burnett,Danny Glover,United States,,1161135.0,SVS Films,102.0
+May Fools,R,Comedy,1990,July 1990 (United States),7.3,2900.0,Louis Malle,Louis Malle,Miou-Miou,France,,1576702.0,Nouvelles Éditions de Films (NEF),107.0
+Strangers in Good Company,PG,Drama,1990,1990 (Canada),7.7,995.0,Cynthia Scott,Gloria Demers,Alice Diabo,Canada,,,National Film Board of Canada (NFB),101.0
+La discrète,,Drama,1990,"November 21, 1990 (France)",7.0,930.0,Christian Vincent,Christian Vincent,Fabrice Luchini,France,,,France 3 Cinéma,94.0
+Heaven and Earth,PG-13,Action,1990,"February 8, 1991 (United States)",7.0,958.0,Haruki Kadokawa,Haruki Kadokawa,Takaaki Enoki,Japan,42000000.0,,Haruki Kadokawa Films,125.0
+Mindwalk,PG,Drama,1990,"December 20, 1991 (United States)",7.6,3000.0,Bernt Amadeus Capra,Bernt Amadeus Capra,Liv Ullmann,United States,,774048.0,Atlas,112.0
+The Nasty Girl,PG-13,Comedy,1990,March 1991 (United States),7.3,2500.0,Michael Verhoeven,Michael Verhoeven,Lena Stolze,West Germany,,2293625.0,Filmverlag der Autoren,92.0
+Terminator 2: Judgment Day,R,Action,1991,"July 3, 1991 (United States)",8.5,1000000.0,James Cameron,James Cameron,Arnold Schwarzenegger,United States,102000000.0,520881154.0,Carolco Pictures,137.0
+Point Break,R,Action,1991,"July 12, 1991 (United States)",7.3,166000.0,Kathryn Bigelow,Rick King,Patrick Swayze,United States,24000000.0,83531958.0,Largo Entertainment,122.0
+The Silence of the Lambs,R,Crime,1991,"February 14, 1991 (United States)",8.6,1300000.0,Jonathan Demme,Thomas Harris,Jodie Foster,United States,19000000.0,272742922.0,Strong Heart/Demme Production,118.0
+Boyz n the Hood,R,Crime,1991,"July 12, 1991 (United States)",7.8,130000.0,John Singleton,John Singleton,Cuba Gooding Jr.,United States,6500000.0,57529070.0,Columbia Pictures,112.0
+Cape Fear,R,Crime,1991,"November 15, 1991 (United States)",7.3,180000.0,Martin Scorsese,John D. MacDonald,Robert De Niro,United States,35000000.0,182291969.0,Amblin Entertainment,128.0
+Thelma & Louise,R,Adventure,1991,"May 24, 1991 (United States)",7.5,142000.0,Ridley Scott,Callie Khouri,Susan Sarandon,United States,16500000.0,45456285.0,Pathé Entertainment,130.0
+Y Tu Mamá También,,Drama,1991,"June 8, 2001 (Mexico)",7.6,118000.0,Alfonso Cuarón,Carlos Cuarón,Maribel Verdú,Mexico,2000000.0,33616692.0,Anhelo Producciones,106.0
+The Doors,R,Biography,1991,"March 1, 1991 (United States)",7.2,86000.0,Oliver Stone,Randall Jahnson,Val Kilmer,United States,38000000.0,34416893.0,Bill Graham Films,140.0
+Beauty and the Beast,G,Animation,1991,"November 22, 1991 (United States)",8.0,424000.0,Gary Trousdale,Linda Woolverton,Paige O'Hara,United States,25000000.0,424967620.0,Walt Disney Pictures,84.0
+Fried Green Tomatoes,PG-13,Drama,1991,"January 24, 1992 (United States)",7.7,69000.0,Jon Avnet,Fannie Flagg,Kathy Bates,United States,11000000.0,119418501.0,Universal Pictures,130.0
+JFK,R,Drama,1991,"December 20, 1991 (United States)",8.0,146000.0,Oliver Stone,Jim Garrison,Kevin Costner,United States,40000000.0,205405498.0,Warner Bros.,189.0
+The Fisher King,R,Comedy,1991,"September 27, 1991 (United States)",7.5,81000.0,Terry Gilliam,Richard LaGravenese,Jeff Bridges,United States,24000000.0,41895491.0,TriStar Pictures,137.0
+The Beautiful Troublemaker,Unrated,Drama,1991,"September 4, 1991 (France)",7.6,7500.0,Jacques Rivette,Pascal Bonitzer,Michel Piccoli,France,,403056.0,Pierre Grise Productions,238.0
+The Last Boy Scout,R,Action,1991,"December 13, 1991 (United States)",7.0,95000.0,Tony Scott,Shane Black,Bruce Willis,United States,43000000.0,59509925.0,Geffen Pictures,105.0
+Star Trek VI: The Undiscovered Country,PG,Action,1991,"December 6, 1991 (United States)",7.2,72000.0,Nicholas Meyer,Gene Roddenberry,William Shatner,United States,30000000.0,96888996.0,Paramount Pictures,110.0
+My Own Private Idaho,R,Drama,1991,"July 20, 1991 (Japan)",7.0,53000.0,Gus Van Sant,Gus Van Sant,River Phoenix,United States,2500000.0,6401336.0,New Line Cinema,104.0
+Barton Fink,R,Comedy,1991,"August 21, 1991 (United States)",7.7,116000.0,Joel Coen,Joel Coen,John Turturro,United Kingdom,9000000.0,6153939.0,Circle Films,116.0
+What About Bob?,PG,Comedy,1991,"May 17, 1991 (United States)",7.0,65000.0,Frank Oz,Alvin Sargent,Bill Murray,United States,35000000.0,63707829.0,Touchstone Pictures,99.0
+Naked Lunch,R,Drama,1991,"April 24, 1992 (United Kingdom)",7.0,48000.0,David Cronenberg,William S. Burroughs,Peter Weller,Canada,16000000.0,2641357.0,Recorded Picture Company (RPC),115.0
+The Commitments,R,Comedy,1991,"September 13, 1991 (United States)",7.6,34000.0,Alan Parker,Roddy Doyle,Robert Arkins,Ireland,12000000.0,14919570.0,Beacon Communications,118.0
+The Man in the Moon,PG-13,Drama,1991,"October 4, 1991 (United States)",7.3,16000.0,Robert Mulligan,Jenny Wingfield,Sam Waterston,United States,,2853801.0,Metro-Goldwyn-Mayer (MGM),99.0
+The Double Life of Véronique,R,Drama,1991,"November 22, 1991 (United States)",7.8,44000.0,Krzysztof Kieslowski,Krzysztof Kieslowski,Irène Jacob,France,,2175939.0,Sidéral Productions,98.0
+Delicatessen,R,Comedy,1991,"April 3, 1992 (United States)",7.6,82000.0,Marc Caro,Jean-Pierre Jeunet,Marie-Laure Dougnac,France,,1794187.0,Constellation,99.0
+Night on Earth,R,Comedy,1991,"December 12, 1991 (Germany)",7.7,57000.0,Jim Jarmusch,Jim Jarmusch,Winona Ryder,France,3500000.0,2023808.0,Victor Company of Japan (JVC),129.0
+The Lovers on the Bridge,R,Drama,1991,"July 2, 1999 (United States)",7.6,13000.0,Leos Carax,Leos Carax,Juliette Binoche,France,28000000.0,29679.0,Films A2,125.0
+Wild Hearts Can't Be Broken,G,Drama,1991,"May 24, 1991 (United States)",7.2,5000.0,Steve Miner,Matt Williams,Gabrielle Anwar,United States,,7294835.0,Walt Disney Pictures,88.0
+Defending Your Life,PG,Comedy,1991,"April 5, 1991 (United States)",7.2,18000.0,Albert Brooks,Albert Brooks,Albert Brooks,United States,,16371128.0,Geffen Pictures,112.0
+Only Yesterday,PG,Animation,1991,"February 26, 2016 (United States)",7.6,29000.0,Isao Takahata,Hotaru Okamoto,Miki Imai,Japan,,545825.0,Nippon Television Network (NTV),118.0
+The Indian Runner,R,Drama,1991,"September 20, 1991 (United States)",7.0,8600.0,Sean Penn,Sean Penn,David Morse,United States,7000000.0,191125.0,Columbia Pictures,127.0
+Homicide,R,Crime,1991,"August 28, 1991 (France)",7.0,6500.0,David Mamet,David Mamet,Joe Mantegna,United States,,2971661.0,Pressman Film,102.0
+Raise the Red Lantern,PG,Drama,1991,"December 18, 1991 (Italy)",8.1,30000.0,Yimou Zhang,Tong Su,Gong Li,China,,2603061.0,ERA International,125.0
+Operation Condor,PG-13,Action,1991,"July 18, 1997 (United States)",7.3,19000.0,Jackie Chan,Jackie Chan,Jackie Chan,Hong Kong,,10405394.0,Golden Harvest Company,80.0
+Dogfight,R,Comedy,1991,"October 4, 1991 (United States)",7.4,8700.0,Nancy Savoca,Bob Comfort,River Phoenix,United States,,394631.0,Warner Bros.,94.0
+Hear My Song,R,Comedy,1991,February 1992 (United States),7.0,1600.0,Peter Chelsom,Peter Chelsom,Ned Beatty,Ireland,,4313473.0,British Screen Productions,104.0
+Flirting,R,Drama,1991,"November 14, 1992 (United States)",7.2,5800.0,John Duigan,John Duigan,Noah Taylor,Australia,,2415396.0,Kennedy Miller Productions,99.0
+High Heels,R,Comedy,1991,"December 20, 1991 (United States)",7.1,14000.0,Pedro Almodóvar,Pedro Almodóvar,Victoria Abril,Spain,,1710057.0,Canal+,112.0
+Black Robe,R,Adventure,1991,"October 4, 1991 (United States)",7.1,6600.0,Bruce Beresford,Brian Moore,Lothaire Bluteau,Canada,,8211952.0,Alliance Communications Corporation,101.0
+Europa,R,Drama,1991,"June 27, 1991 (Germany)",7.6,20000.0,Lars von Trier,Lars von Trier,Barbara Sukowa,Denmark,,1015007.0,Alicéléo,112.0
+The Doctor,PG-13,Drama,1991,"August 16, 1991 (United States)",7.0,5200.0,Randa Haines,Ed Rosenbaum,William Hurt,United States,,38120905.0,Touchstone Pictures,122.0
+The Five Heartbeats,R,Drama,1991,"March 29, 1991 (United States)",7.6,3900.0,Robert Townsend,Robert Townsend,Robert Townsend,United States,,8750400.0,Twentieth Century Fox,121.0
+Enchanted April,PG,Drama,1991,"December 25, 1992 (Sweden)",7.4,6200.0,Mike Newell,Elizabeth von Arnim,Alfred Molina,United Kingdom,,13200170.0,BBC Films,95.0
+Mediterraneo,R,Comedy,1991,"January 31, 1991 (Italy)",7.5,14000.0,Gabriele Salvatores,Enzo Monteleone,Diego Abatantuono,Italy,,4532791.0,A.M.A. Film,96.0
+Rhapsody in August,PG,Drama,1991,"December 20, 1991 (United States)",7.2,6400.0,Akira Kurosawa,Kiyoko Murata,Sachiko Murase,Japan,,516431.0,Feature Film Enterprise II,98.0
+Proof,R,Drama,1991,"March 20, 1992 (United States)",7.2,6300.0,Jocelyn Moorhouse,Jocelyn Moorhouse,Hugo Weaving,Australia,,524668.0,House & Moorhouse Films,86.0
+Tous les matins du monde,Not Rated,Biography,1991,"December 18, 1991 (France)",7.5,6800.0,Alain Corneau,Pascal Quignard,Gérard Depardieu,France,,3089497.0,Film Par Film,115.0
+29th Street,R,Comedy,1991,"November 1, 1991 (United States)",7.3,2700.0,George Gallo,Frank Pesce,Anthony LaPaglia,Japan,,2120564.0,JVC Entertainment Networks,101.0
+City of Hope,R,Crime,1991,"November 15, 1991 (United Kingdom)",7.3,2300.0,John Sayles,John Sayles,Vincent Spano,United States,3000000.0,1345015.0,Esperanza Films Inc.,129.0
+Riff-Raff,R,Comedy,1991,"February 12, 1993 (United States)",7.1,4300.0,Ken Loach,Bill Jesse,Robert Carlyle,United Kingdom,,295444.0,Parallax Pictures,95.0
+Closet Land,R,Drama,1991,"March 6, 1991 (United States)",7.1,2700.0,Radha Bharadwaj,Radha Bharadwaj,Madeleine Stowe,United States,4000000.0,259012.0,Imagine Entertainment,89.0
+Van Gogh,R,Biography,1991,"October 30, 1992 (United States)",7.2,2800.0,Maurice Pialat,Maurice Pialat,Jacques Dutronc,France,,193205.0,Erato Films,158.0
+Lovers: A True Story,R,Action,1991,"April 12, 1991 (Spain)",7.0,2800.0,Vicente Aranda,Álvaro del Amo,Victoria Abril,Spain,,1407309.0,Pedro Costa Producciones Cinematográficas,103.0
+Johnny Stecchino,R,Comedy,1991,"October 24, 1991 (Italy)",7.2,10000.0,Roberto Benigni,Roberto Benigni,Roberto Benigni,Italy,,626057.0,Cecchi Gori Group Tiger Cinematografica,102.0
+The Inner Circle,PG-13,Biography,1991,"December 25, 1991 (United States)",7.1,2000.0,Andrey Konchalovskiy,Andrey Konchalovskiy,Tom Hulce,Italy,,93292.0,Numero Uno International,137.0
+Reservoir Dogs,R,Crime,1992,"September 2, 1992 (France)",8.3,943000.0,Quentin Tarantino,Quentin Tarantino,Harvey Keitel,United States,1200000.0,2913644.0,Live Entertainment,99.0
+Basic Instinct,R,Drama,1992,"March 20, 1992 (United States)",7.0,186000.0,Paul Verhoeven,Joe Eszterhas,Michael Douglas,United States,49000000.0,352927224.0,Carolco Pictures,127.0
+My Cousin Vinny,R,Comedy,1992,"March 13, 1992 (United States)",7.6,112000.0,Jonathan Lynn,Dale Launer,Joe Pesci,United States,11000000.0,64088552.0,Twentieth Century Fox,120.0
+The Last of the Mohicans,R,Action,1992,"September 25, 1992 (United States)",7.7,156000.0,Michael Mann,James Fenimore Cooper,Daniel Day-Lewis,United States,40000000.0,75505856.0,Morgan Creek Entertainment,112.0
+Dracula,R,Horror,1992,"November 13, 1992 (United States)",7.4,199000.0,Francis Ford Coppola,Bram Stoker,Gary Oldman,United Kingdom,40000000.0,215862692.0,American Zoetrope,128.0
+Unforgiven,R,Drama,1992,"August 7, 1992 (United States)",8.2,385000.0,Clint Eastwood,David Webb Peoples,Clint Eastwood,United States,14400000.0,159157447.0,Warner Bros.,130.0
+A Few Good Men,R,Drama,1992,"December 11, 1992 (United States)",7.7,242000.0,Rob Reiner,Aaron Sorkin,Tom Cruise,United States,41000000.0,243240178.0,Columbia Pictures,138.0
+A League of Their Own,PG,Comedy,1992,"July 1, 1992 (United States)",7.3,97000.0,Penny Marshall,Kim Wilson,Tom Hanks,United States,40000000.0,132440069.0,Columbia Pictures,128.0
+Scent of a Woman,R,Drama,1992,"January 8, 1993 (United States)",8.0,274000.0,Martin Brest,Giovanni Arpino,Al Pacino,United States,31000000.0,134095253.0,Universal Pictures,156.0
+Batman Returns,PG-13,Action,1992,"June 19, 1992 (United States)",7.0,280000.0,Tim Burton,Bob Kane,Michael Keaton,United States,80000000.0,266892996.0,Warner Bros.,126.0
+Aladdin,G,Animation,1992,"November 25, 1992 (United States)",8.0,382000.0,Ron Clements,Ron Clements,Scott Weinger,United States,28000000.0,504050219.0,Walt Disney Pictures,90.0
+The Crying Game,R,Crime,1992,"February 19, 1993 (United States)",7.3,52000.0,Neil Jordan,Neil Jordan,Stephen Rea,United Kingdom,,62548947.0,Palace Pictures,112.0
+Howards End,PG,Drama,1992,"February 26, 1993 (United States)",7.4,30000.0,James Ivory,E.M. Forster,Anthony Hopkins,United Kingdom,,26341736.0,Merchant Ivory Productions,142.0
+Glengarry Glen Ross,R,Crime,1992,"October 2, 1992 (United States)",7.7,98000.0,James Foley,David Mamet,Al Pacino,United States,12500000.0,10725228.0,New Line Cinema,100.0
+Wayne's World,PG-13,Comedy,1992,"February 14, 1992 (United States)",7.0,148000.0,Penelope Spheeris,Mike Myers,Mike Myers,United States,20000000.0,183097323.0,Paramount Pictures,94.0
+Army of Darkness,R,Comedy,1992,"February 19, 1993 (United States)",7.5,166000.0,Sam Raimi,Sam Raimi,Bruce Campbell,United States,11000000.0,11502976.0,Dino De Laurentiis Company,81.0
+A River Runs Through It,PG,Drama,1992,"October 30, 1992 (United States)",7.2,55000.0,Robert Redford,Norman Maclean,Craig Sheffer,United States,12000000.0,43440294.0,Allied Filmmakers,123.0
+Twin Peaks: Fire Walk with Me,R,Drama,1992,"August 28, 1992 (United States)",7.3,89000.0,David Lynch,David Lynch,Sheryl Lee,France,10000000.0,4184990.0,New Line Cinema,134.0
+Of Mice and Men,PG-13,Drama,1992,"October 2, 1992 (United States)",7.5,41000.0,Gary Sinise,John Steinbeck,John Malkovich,United States,,5471088.0,Metro-Goldwyn-Mayer (MGM),115.0
+Chaplin,PG-13,Biography,1992,"January 8, 1993 (United States)",7.5,55000.0,Richard Attenborough,David Robinson,Robert Downey Jr.,United Kingdom,31000000.0,9493259.0,Carolco Pictures,143.0
+Malcolm X,PG-13,Biography,1992,"November 18, 1992 (United States)",7.7,89000.0,Spike Lee,Alex Haley,Denzel Washington,Japan,33000000.0,48169910.0,Largo International N.V.,202.0
+Dead Alive,R,Comedy,1992,"February 12, 1993 (United States)",7.5,93000.0,Peter Jackson,Stephen Sinclair,Timothy Balme,New Zealand,3000000.0,242623.0,WingNut Films,104.0
+Sneakers,PG-13,Comedy,1992,"September 11, 1992 (United States)",7.1,54000.0,Phil Alden Robinson,Phil Alden Robinson,Robert Redford,United States,23000000.0,105232691.0,Parkes/Lasker productions,126.0
+The Player,R,Comedy,1992,"May 8, 1992 (United States)",7.5,56000.0,Robert Altman,Michael Tolkin,Tim Robbins,United States,8000000.0,21706101.0,Avenue Pictures,124.0
+American Me,R,Biography,1992,"March 13, 1992 (United States)",7.2,8600.0,Edward James Olmos,Floyd Mutrux,Edward James Olmos,United States,16000000.0,13086430.0,Hivemind,125.0
+Bitter Moon,R,Drama,1992,"March 18, 1994 (United States)",7.2,37000.0,Roman Polanski,Pascal Bruckner,Hugh Grant,France,5000000.0,1862805.0,Canal+,139.0
+Bad Lieutenant,NC-17,Crime,1992,"December 17, 1992 (Argentina)",7.1,40000.0,Abel Ferrara,Zoë Lund,Harvey Keitel,United States,1000000.0,2038916.0,Bad Lt. Productions,96.0
+Juice,R,Action,1992,"January 17, 1992 (United States)",7.1,25000.0,Ernest R. Dickerson,Ernest R. Dickerson,Omar Epps,United States,5000000.0,20146880.0,Island World,95.0
+Man Bites Dog,NC-17,Comedy,1992,"January 15, 1993 (United States)",7.5,37000.0,Rémy Belvaux,Rémy Belvaux,Benoît Poelvoorde,Belgium,,205569.0,Les Artistes Anonymes,95.0
+Radio Flyer,PG-13,Drama,1992,"February 21, 1992 (United States)",7.0,13000.0,Richard Donner,David Mickey Evans,Lorraine Bracco,United States,35000000.0,4651977.0,Columbia Pictures,114.0
+Strictly Ballroom,PG,Comedy,1992,"February 12, 1993 (United States)",7.2,26000.0,Baz Luhrmann,Baz Luhrmann,Paul Mercurio,Australia,,11749595.0,Beyond Films,94.0
+Orlando,PG-13,Biography,1992,"June 9, 1993 (United States)",7.2,15000.0,Sally Potter,Virginia Woolf,Tilda Swinton,United Kingdom,4000000.0,5378172.0,Adventure Pictures,94.0
+Pure Country,PG,Drama,1992,"October 23, 1992 (United States)",7.0,4100.0,Christopher Cain,Rex McGee,George Strait,United States,10000000.0,15164458.0,Warner Bros.,112.0
+The Power of One,PG-13,Drama,1992,"March 27, 1992 (United States)",7.2,9500.0,John G. Avildsen,Bryce Courtenay,Stephen Dorff,Australia,18000000.0,2827107.0,Alcor Films,127.0
+Lorenzo's Oil,PG-13,Biography,1992,"January 29, 1993 (United States)",7.3,21000.0,George Miller,George Miller,Nick Nolte,United States,30000000.0,7286388.0,Universal Pictures,129.0
+One False Move,R,Crime,1992,"May 8, 1992 (United States)",7.1,11000.0,Carl Franklin,Billy Bob Thornton,Bill Paxton,United States,,1543112.0,IRS Media,105.0
+Peter's Friends,R,Comedy,1992,"December 25, 1992 (United States)",7.0,11000.0,Kenneth Branagh,Rita Rudner,Hugh Laurie,United Kingdom,5000000.0,4058564.0,British Broadcasting Corporation (BBC),101.0
+Como agua para chocolate,R,Drama,1992,"May 28, 1993 (United States)",7.1,17000.0,Alfonso Arau,Laura Esquivel,Marco Leonardi,Mexico,2000000.0,21744201.0,Consejo Nacional para la Cultura y las Artes (CONACULTA),105.0
+Noises Off...,PG-13,Comedy,1992,"March 20, 1992 (United States)",7.5,11000.0,Peter Bogdanovich,Michael Frayn,Michael Caine,United States,12000000.0,2280148.0,Touchstone Pictures,101.0
+Diggstown,R,Drama,1992,"August 14, 1992 (United States)",7.0,7000.0,Michael Ritchie,Leonard Wise,James Woods,United States,17000000.0,4836637.0,Metro-Goldwyn-Mayer (MGM),98.0
+Indochine,PG-13,Drama,1992,"December 23, 1992 (United States)",7.1,9500.0,Régis Wargnier,Erik Orsenna,Catherine Deneuve,France,,5603158.0,Paradis Films,160.0
+Husbands and Wives,R,Comedy,1992,"September 18, 1992 (United States)",7.5,28000.0,Woody Allen,Woody Allen,Woody Allen,United States,20000000.0,10555619.0,Jack Rollins & Charles H. Joffe Productions,108.0
+The Muppet Christmas Carol,G,Comedy,1992,"December 11, 1992 (United States)",7.7,51000.0,Brian Henson,Charles Dickens,Michael Caine,United States,12000000.0,32574382.0,Walt Disney Pictures,85.0
+Un Coeur en Hiver,,Drama,1992,"June 4, 1993 (United States)",7.6,9300.0,Claude Sautet,Claude Sautet,Daniel Auteuil,France,,1605437.0,Film Par Film,105.0
+Belle Epoque,R,Comedy,1992,"February 25, 1994 (United States)",7.1,9700.0,Fernando Trueba,Rafael Azcona,Fernando Fernán Gómez,Spain,,5418216.0,Animatógrafo,109.0
+A Midnight Clear,R,Drama,1992,"April 24, 1992 (United States)",7.2,8500.0,Keith Gordon,William Wharton,Peter Berg,United States,5000000.0,1526697.0,A&M Films,108.0
+Bob Roberts,R,Comedy,1992,"September 4, 1992 (United States)",7.0,13000.0,Tim Robbins,Tim Robbins,Tim Robbins,United States,,4479470.0,Miramax,102.0
+For a Lost Soldier,Unrated,Drama,1992,"May 7, 1993 (United States)",7.5,4300.0,Roeland Kerbosch,Don Bloch,Maarten Smit,Netherlands,,,Sigma Film Productions,92.0
+In the Soup,R,Comedy,1992,"August 13, 1992 (Germany)",7.1,3400.0,Alexandre Rockwell,Sollace Mitchell,Steve Buscemi,United States,,256249.0,Alliance Communications Corporation,93.0
+Passion Fish,R,Drama,1992,"December 11, 1992 (United States)",7.4,5200.0,John Sayles,John Sayles,Mary McDonnell,United States,3330000.0,4814619.0,Atchafalaya,135.0
+The Best Intentions,Not Rated,Biography,1992,"July 10, 1992 (United States)",7.8,3000.0,Bille August,Ingmar Bergman,Samuel Fröler,Sweden,,1253106.0,SVT Drama,182.0
+Into the West,PG,Adventure,1992,"September 17, 1993 (United States)",7.0,2800.0,Mike Newell,Jim Sheridan,Gabriel Byrne,Ireland,,4790801.0,Channel Four Films,97.0
+Qing shao nian nuo zha,Not Rated,Crime,1992,"August 4, 1994 (Netherlands)",7.6,4000.0,Ming-liang Tsai,Ming-liang Tsai,Chao-jung Chen,Taiwan,,28791.0,Central Motion Pictures,106.0
+Simple Men,R,Crime,1992,"November 6, 1992 (United Kingdom)",7.2,4100.0,Hal Hartley,Hal Hartley,Robert John Burke,Italy,3000000.0,143010.0,American Playhouse,105.0
+Léolo,Not Rated,Comedy,1992,"April 2, 1993 (United States)",7.5,6700.0,Jean-Claude Lauzon,Jean-Claude Lauzon,Maxime Collin,Canada,,611703.0,Alliance Films Corporation,107.0
+Hyenas,Not Rated,Comedy,1992,"April 26, 2019 (United States)",7.4,1000.0,Djibril Diop Mambéty,Friedrich Dürrenmatt,Mansour Diouf,Switzerland,,24672.0,Thelma Film AG,110.0
+A Tale of Winter,Not Rated,Drama,1992,"January 29, 1992 (France)",7.3,4400.0,Éric Rohmer,Éric Rohmer,Charlotte Véry,France,,52431.0,Compagnie Eric Rohmer (CER),114.0
+Brain Donors,PG,Comedy,1992,"April 17, 1992 (United States)",7.1,4100.0,Dennis Dugan,Pat Proft,John Turturro,United States,,918239.0,Paramount Pictures,80.0
+Map of the Human Heart,R,Adventure,1992,"May 14, 1993 (United States)",7.1,3100.0,Vincent Ward,Louis Nowra,Jason Scott Lee,Australia,,2806881.0,Australian Film Finance Corporation (AFFC),109.0
+The Long Day Closes,PG,Biography,1992,"May 28, 1993 (United States)",7.4,3000.0,Terence Davies,Terence Davies,Leigh McCormack,United Kingdom,,22765.0,British Film Institute (BFI),85.0
+Tombstone,R,Action,1993,"December 25, 1993 (United States)",7.8,132000.0,George P. Cosmatos,Kevin Jarre,Kurt Russell,United States,25000000.0,56505065.0,Hollywood Pictures,130.0
+The Sandlot,PG,Comedy,1993,"April 7, 1993 (United States)",7.8,82000.0,David Mickey Evans,David Mickey Evans,Tom Guiry,United States,,34348443.0,Twentieth Century Fox,101.0
+Jurassic Park,PG-13,Action,1993,"June 11, 1993 (United States)",8.1,894000.0,Steven Spielberg,Michael Crichton,Sam Neill,United States,63000000.0,1033928303.0,Universal Pictures,127.0
+Dazed and Confused,R,Comedy,1993,"September 24, 1993 (United States)",7.6,171000.0,Richard Linklater,Richard Linklater,Jason London,United States,6900000.0,7993039.0,Gramercy Pictures (I),102.0
+Schindler's List,R,Biography,1993,"February 4, 1994 (United States)",8.9,1200000.0,Steven Spielberg,Thomas Keneally,Liam Neeson,United States,22000000.0,322161245.0,Universal Pictures,195.0
+True Romance,R,Crime,1993,"September 10, 1993 (United States)",7.9,212000.0,Tony Scott,Quentin Tarantino,Christian Slater,United States,13000000.0,13088850.0,Morgan Creek Entertainment,119.0
+Naked,Not Rated,Comedy,1993,"February 4, 1994 (United States)",7.8,36000.0,Mike Leigh,Mike Leigh,David Thewlis,United Kingdom,,1769305.0,Thin Man Films,132.0
+A Bronx Tale,R,Crime,1993,"October 1, 1993 (United States)",7.8,132000.0,Robert De Niro,Chazz Palminteri,Robert De Niro,United States,22000000.0,17287898.0,Price Entertainment,121.0
+What's Eating Gilbert Grape,PG-13,Drama,1993,"March 4, 1994 (United States)",7.7,221000.0,Lasse Hallström,Peter Hedges,Johnny Depp,United States,11000000.0,10032765.0,Paramount Pictures,118.0
+Carlito's Way,R,Crime,1993,"November 12, 1993 (United States)",7.9,206000.0,Brian De Palma,Edwin Torres,Al Pacino,United States,30000000.0,63848322.0,Universal Pictures,144.0
+Mrs. Doubtfire,PG-13,Comedy,1993,"November 24, 1993 (United States)",7.0,252000.0,Chris Columbus,Anne Fine,Robin Williams,United States,25000000.0,441286195.0,Twentieth Century Fox,125.0
+The Fugitive,PG-13,Action,1993,"August 6, 1993 (United States)",7.8,275000.0,Andrew Davis,Jeb Stuart,Harrison Ford,United States,44000000.0,368875760.0,Warner Bros.,130.0
+Falling Down,R,Action,1993,"February 26, 1993 (United States)",7.6,177000.0,Joel Schumacher,Ebbe Roe Smith,Michael Douglas,United States,25000000.0,40903593.0,Alcor Films,113.0
+Groundhog Day,PG,Comedy,1993,"February 12, 1993 (United States)",8.0,589000.0,Harold Ramis,Danny Rubin,Bill Murray,United States,14600000.0,71074049.0,Columbia Pictures,101.0
+Philadelphia,PG-13,Drama,1993,"January 14, 1994 (United States)",7.7,229000.0,Jonathan Demme,Ron Nyswaner,Tom Hanks,United States,26000000.0,206678440.0,TriStar Pictures,125.0
+The Piano,R,Drama,1993,"February 11, 1994 (United States)",7.6,81000.0,Jane Campion,Jane Campion,Holly Hunter,New Zealand,7000000.0,40185556.0,CiBy 2000,121.0
+The Nightmare Before Christmas,PG,Animation,1993,"October 29, 1993 (United States)",8.0,306000.0,Henry Selick,Tim Burton,Danny Elfman,United States,18000000.0,91491247.0,Touchstone Pictures,76.0
+"Blood In, Blood Out",R,Crime,1993,"April 30, 1993 (United States)",8.0,29000.0,Taylor Hackford,Ross Thomas,Damian Chapa,United States,35000000.0,4496583.0,Hollywood Pictures,180.0
+In the Name of the Father,R,Biography,1993,"February 25, 1994 (United States)",8.1,163000.0,Jim Sheridan,Gerry Conlon,Daniel Day-Lewis,Ireland,13000000.0,65796862.0,Hell's Kitchen Films,133.0
+Alive,R,Biography,1993,"January 15, 1993 (United States)",7.1,53000.0,Frank Marshall,Piers Paul Read,Ethan Hawke,United States,32000000.0,36733909.0,Film Andes S.A.,120.0
+In the Line of Fire,R,Action,1993,"July 9, 1993 (United States)",7.2,96000.0,Wolfgang Petersen,Jeff Maguire,Clint Eastwood,United States,40000000.0,176997168.0,Columbia Pictures,128.0
+The Age of Innocence,PG,Drama,1993,"October 1, 1993 (United States)",7.2,56000.0,Martin Scorsese,Edith Wharton,Daniel Day-Lewis,United States,34000000.0,32255440.0,Columbia Pictures,139.0
+Menace II Society,R,Crime,1993,"May 26, 1993 (United States)",7.5,54000.0,Albert Hughes,Allen Hughes,Tyrin Turner,United States,3500000.0,27912072.0,New Line Cinema,97.0
+Gettysburg,PG,Drama,1993,"October 8, 1993 (United States)",7.6,27000.0,Ron Maxwell,Michael Shaara,Tom Berenger,United States,25000000.0,10769960.0,TriStar Television,271.0
+The Secret Garden,G,Drama,1993,"August 13, 1993 (United States)",7.3,38000.0,Agnieszka Holland,Frances Hodgson Burnett,Kate Maberly,United Kingdom,18000000.0,31181347.0,Warner Bros.,101.0
+The Remains of the Day,PG,Drama,1993,"November 19, 1993 (United States)",7.8,69000.0,James Ivory,Kazuo Ishiguro,Anthony Hopkins,United States,15000000.0,23237911.0,Columbia Pictures,134.0
+Cool Runnings,PG,Adventure,1993,"October 1, 1993 (United States)",7.0,96000.0,Jon Turteltaub,Lynn Siefert,John Candy,United States,14000000.0,154856263.0,Walt Disney Pictures,98.0
+Benny & Joon,PG,Comedy,1993,"April 16, 1993 (United States)",7.2,56000.0,Jeremiah S. Chechik,Barry Berman,Johnny Depp,United States,,23261580.0,Metro-Goldwyn-Mayer (MGM),98.0
+Rudy,PG,Biography,1993,"October 22, 1993 (United States)",7.5,59000.0,David Anspaugh,Angelo Pizzo,Sean Astin,United States,,22881563.0,TriStar Pictures,114.0
+Much Ado About Nothing,PG-13,Comedy,1993,"July 2, 1993 (United States)",7.3,46000.0,Kenneth Branagh,William Shakespeare,Kenneth Branagh,United Kingdom,11000000.0,22549338.0,Renaissance Films,111.0
+This Boy's Life,R,Biography,1993,"April 23, 1993 (United States)",7.3,49000.0,Michael Caton-Jones,Tobias Wolff,Robert De Niro,United States,,4104962.0,Knickerbocker Films,115.0
+Three Colors: Blue,R,Drama,1993,"September 8, 1993 (France)",7.9,93000.0,Krzysztof Kieslowski,Krzysztof Kieslowski,Juliette Binoche,France,,1341154.0,MK2 Productions,94.0
+Grumpy Old Men,PG-13,Comedy,1993,"December 25, 1993 (United States)",7.0,45000.0,Donald Petrie,Mark Steven Johnson,Jack Lemmon,United States,,70172621.0,John Davis,103.0
+A Perfect World,PG-13,Crime,1993,"November 24, 1993 (United States)",7.5,76000.0,Clint Eastwood,John Lee Hancock,Kevin Costner,United States,30000000.0,135130999.0,Warner Bros.,138.0
+What's Love Got to Do with It,R,Biography,1993,"June 25, 1993 (United States)",7.3,18000.0,Brian Gibson,Tina Turner,Angela Bassett,United States,15000000.0,39100956.0,Touchstone Pictures,118.0
+Short Cuts,R,Comedy,1993,"October 1, 1993 (Italy)",7.7,43000.0,Robert Altman,Raymond Carver,Andie MacDowell,United States,,6110979.0,Fine Line Features,188.0
+Searching for Bobby Fischer,PG,Biography,1993,"August 11, 1993 (United States)",7.4,37000.0,Steven Zaillian,Fred Waitzkin,Joe Mantegna,United States,12000000.0,7266383.0,Mirage Enterprises,109.0
+Stalingrad,Not Rated,Drama,1993,"January 21, 1993 (Germany)",7.5,32000.0,Joseph Vilsmaier,Jürgen Büscher,Dominique Horwitz,Germany,,152972.0,B.A. Produktion,134.0
+Dragon,PG-13,Action,1993,"May 7, 1993 (United States)",7.0,29000.0,Rob Cohen,Robert Clouse,Jason Scott Lee,United States,14000000.0,63513743.0,Raffaella De Laurentiis Productions,120.0
+The Joy Luck Club,R,Drama,1993,"October 29, 1993 (United States)",7.7,16000.0,Wayne Wang,Amy Tan,Tamlyn Tomita,United States,11000000.0,32901136.0,Hollywood Pictures,139.0
+The Cement Garden,Not Rated,Drama,1993,"February 11, 1994 (United States)",7.1,4500.0,Andrew Birkin,Andrew Birkin,Charlotte Gainsbourg,France,,322975.0,British Broadcasting Corporation (BBC),101.0
+Batman: Mask of the Phantasm,PG,Animation,1993,"December 25, 1993 (United States)",7.8,45000.0,Directors,Alan Burnett,Kevin Conroy,United States,6000000.0,5635204.0,Warner Bros. Animation,76.0
+Heart and Souls,PG-13,Comedy,1993,"August 13, 1993 (United States)",7.0,17000.0,Ron Underwood,Gregory Hansen,Robert Downey Jr.,United States,25000000.0,16589540.0,Universal Pictures,104.0
+Ruby in Paradise,R,Drama,1993,"November 5, 1993 (United States)",7.0,2500.0,Victor Nunez,Jane Austen,Ashley Judd,United States,800000.0,1001437.0,Full Crew/Say Yea,114.0
+Farewell My Concubine,R,Drama,1993,"October 15, 1993 (United States)",8.1,26000.0,Kaige Chen,Pik-Wah Lee,Leslie Cheung,China,4000000.0,6122607.0,Tomson Films,171.0
+Shadowlands,PG,Biography,1993,"January 14, 1994 (United States)",7.3,18000.0,Richard Attenborough,William Nicholson,Anthony Hopkins,United Kingdom,22000000.0,25842377.0,Price Entertainment,131.0
+Arizona Dream,R,Comedy,1993,"September 9, 1994 (United States)",7.3,42000.0,Emir Kusturica,David Atkins,Johnny Depp,France,19000000.0,112547.0,Canal+,142.0
+King of the Hill,PG-13,Drama,1993,"August 20, 1993 (United States)",7.4,7800.0,Steven Soderbergh,A.E. Hotchner,Jesse Bradford,United States,8000000.0,1214231.0,Wildwood Enterprises,103.0
+Red Rock West,R,Crime,1993,"May 14, 1993 (Italy)",7.0,21000.0,John Dahl,John Dahl,Nicolas Cage,United States,8000000.0,2502551.0,Propaganda Films,98.0
+Fearless,R,Drama,1993,"November 5, 1993 (United States)",7.1,22000.0,Peter Weir,Rafael Yglesias,Jeff Bridges,United States,,6995302.0,Spring Creek Productions,122.0
+Manhattan Murder Mystery,PG,Comedy,1993,"August 18, 1993 (United States)",7.3,41000.0,Woody Allen,Woody Allen,Woody Allen,United States,13500000.0,11330911.0,TriStar Pictures,104.0
+Les visiteurs,R,Comedy,1993,"July 12, 1996 (United States)",7.1,33000.0,Jean-Marie Poiré,Christian Clavier,Christian Clavier,France,,659810.0,Alpilles Productions,107.0
+The Thief and the Cobbler,G,Animation,1993,"August 25, 1995 (United States)",7.1,3700.0,Richard Williams,Richard Williams,Vincent Price,United Kingdom,25000000.0,669276.0,Richard Williams Productions,90.0
+The Scent of Green Papaya,Not Rated,Drama,1993,"January 28, 1994 (United States)",7.4,8300.0,Anh Hung Tran,Anh Hung Tran,Nu Yên-Khê Tran,Vietnam,,1700992.0,Les Productions Lazennec,104.0
+Iron Monkey,PG-13,Action,1993,"October 12, 2001 (United States)",7.5,16000.0,Woo-Ping Yuen,Tan Cheung,Rongguang Yu,Hong Kong,11000000.0,14694904.0,Film Workshop,85.0
+"Faraway, So Close!",PG-13,Drama,1993,"December 21, 1993 (United States)",7.3,7800.0,Wim Wenders,Wim Wenders,Otto Sander,Germany,10500000.0,810455.0,Road Movies Filmproduktion,140.0
+A Home of Our Own,PG,Biography,1993,"November 5, 1993 (United States)",7.1,3000.0,Tony Bill,Patrick Sheane Duncan,Kathy Bates,United States,12000000.0,1677807.0,A&M Films,104.0
+The Wedding Banquet,R,Comedy,1993,"August 4, 1993 (United States)",7.6,14000.0,Ang Lee,Ang Lee,Winston Chao,Taiwan,1000000.0,6933459.0,Ang Lee Productions,106.0
+Madadayo,,Drama,1993,"April 17, 1993 (Japan)",7.3,5100.0,Akira Kurosawa,Ishirô Honda,Tatsuo Matsumura,Japan,11900000.0,596.0,DENTSU Music And Entertainment,134.0
+Caro diario,Unrated,Biography,1993,"September 30, 1994 (United States)",7.3,7400.0,Nanni Moretti,Nanni Moretti,Nanni Moretti,Italy,,225278.0,Sacher Film,100.0
+Blue,Not Rated,Biography,1993,"December 3, 1993 (United States)",7.3,2100.0,Derek Jarman,Derek Jarman,Derek Jarman,United Kingdom,,,Channel 4 Television Corporation,79.0
+Fear of a Black Hat,R,Comedy,1993,"June 3, 1994 (United States)",7.2,3900.0,Rusty Cundieff,Rusty Cundieff,Larry B. Scott,United States,999999.0,233824.0,Incorporated Television Company (ITC),88.0
+The Shawshank Redemption,R,Drama,1994,"October 14, 1994 (United States)",9.3,2400000.0,Frank Darabont,Stephen King,Tim Robbins,United States,25000000.0,28817291.0,Castle Rock Entertainment,142.0
+Pulp Fiction,R,Crime,1994,"October 14, 1994 (United States)",8.9,1900000.0,Quentin Tarantino,Quentin Tarantino,John Travolta,United States,8000000.0,213928762.0,Miramax,154.0
+Forrest Gump,PG-13,Drama,1994,"July 6, 1994 (United States)",8.8,1900000.0,Robert Zemeckis,Winston Groom,Tom Hanks,United States,55000000.0,678226133.0,Paramount Pictures,142.0
+Léon: The Professional,R,Action,1994,"November 18, 1994 (United States)",8.5,1100000.0,Luc Besson,Luc Besson,Jean Reno,France,,19552639.0,Gaumont,110.0
+True Lies,R,Action,1994,"July 15, 1994 (United States)",7.2,243000.0,James Cameron,Claude Zidi,Arnold Schwarzenegger,United States,115000000.0,378882411.0,Twentieth Century Fox,141.0
+The Lion King,G,Animation,1994,"June 24, 1994 (United States)",8.5,970000.0,Roger Allers,Irene Mecchi,Matthew Broderick,United States,45000000.0,1083720877.0,Walt Disney Pictures,88.0
+Speed,R,Action,1994,"June 10, 1994 (United States)",7.2,339000.0,Jan de Bont,Graham Yost,Keanu Reeves,United States,30000000.0,350448145.0,The Mark Gordon Company,116.0
+Stargate,PG-13,Action,1994,"October 28, 1994 (United States)",7.1,180000.0,Roland Emmerich,Dean Devlin,Kurt Russell,United States,55000000.0,196567262.0,Canal+,116.0
+Dumb and Dumber,PG-13,Comedy,1994,"December 16, 1994 (United States)",7.3,361000.0,Peter Farrelly,Peter Farrelly,Jim Carrey,United States,17000000.0,247275374.0,New Line Cinema,107.0
+Legends of the Fall,R,Drama,1994,"January 13, 1995 (United States)",7.5,154000.0,Edward Zwick,Susan Shilliday,Brad Pitt,United States,30000000.0,160638883.0,TriStar Pictures,133.0
+Natural Born Killers,R,Action,1994,"August 26, 1994 (United States)",7.3,222000.0,Oliver Stone,Quentin Tarantino,Woody Harrelson,United States,34000000.0,50283563.0,Warner Bros.,118.0
+The Crow,R,Action,1994,"May 13, 1994 (United States)",7.6,170000.0,Alex Proyas,James O'Barr,Brandon Lee,United States,23000000.0,50693129.0,Crowvision Inc.,102.0
+Interview with the Vampire: the Vampire Chronicles,R,Drama,1994,"November 11, 1994 (United States)",7.5,301000.0,Neil Jordan,Anne Rice,Brad Pitt,United States,60000000.0,223664608.0,Geffen Pictures,123.0
+Four Weddings and a Funeral,R,Comedy,1994,"April 15, 1994 (United States)",7.1,144000.0,Mike Newell,Richard Curtis,Hugh Grant,United Kingdom,4400000.0,245700832.0,PolyGram Filmed Entertainment,117.0
+Little Women,PG,Drama,1994,"December 25, 1994 (United States)",7.3,54000.0,Gillian Armstrong,Louisa May Alcott,Susan Sarandon,United States,18000000.0,50083616.0,Columbia Pictures,115.0
+Chungking Express,PG-13,Comedy,1994,"March 8, 1996 (United States)",8.1,69000.0,Kar-Wai Wong,Kar-Wai Wong,Brigitte Lin,Hong Kong,,1432358.0,Jet Tone Production,102.0
+Heavenly Creatures,R,Biography,1994,"October 14, 1994 (New Zealand)",7.3,60000.0,Peter Jackson,Fran Walsh,Melanie Lynskey,New Zealand,5000000.0,3049135.0,WingNut Films,99.0
+Clerks,R,Comedy,1994,"November 9, 1994 (France)",7.7,214000.0,Kevin Smith,Kevin Smith,Brian O'Halloran,United States,27000.0,3151130.0,View Askew Productions,92.0
+Maverick,PG,Action,1994,"May 20, 1994 (United States)",7.0,104000.0,Richard Donner,Roy Huggins,Mel Gibson,United States,75000000.0,183031272.0,Donner/Shuler-Donner Productions,127.0
+The Last Seduction,R,Crime,1994,"October 26, 1994 (United States)",7.1,22000.0,John Dahl,Steve Barancik,Linda Fiorentino,United Kingdom,2500000.0,5842603.0,Incorporated Television Company (ITC),110.0
+"The Adventures of Priscilla, Queen of the Desert",R,Comedy,1994,"August 10, 1994 (United States)",7.5,48000.0,Stephan Elliott,Stephan Elliott,Hugo Weaving,Australia,,11265402.0,PolyGram Filmed Entertainment,104.0
+Ed Wood,R,Biography,1994,"October 7, 1994 (United States)",7.8,168000.0,Tim Burton,Rudolph Grey,Johnny Depp,United States,18000000.0,5887457.0,Touchstone Pictures,127.0
+In the Mouth of Madness,R,Drama,1994,"February 3, 1995 (United States)",7.2,64000.0,John Carpenter,Michael De Luca,Sam Neill,United States,8000000.0,8924549.0,New Line Cinema,95.0
+Three Colors: Red,R,Drama,1994,"November 23, 1994 (United States)",8.1,94000.0,Krzysztof Kieslowski,Krzysztof Kieslowski,Irène Jacob,Switzerland,,3581969.0,MK2 Productions,99.0
+Muriel's Wedding,R,Comedy,1994,"March 31, 1995 (United States)",7.2,37000.0,P.J. Hogan,P.J. Hogan,Toni Collette,Australia,9000000.0,15482277.0,CiBy 2000,106.0
+Once Were Warriors,R,Crime,1994,"March 3, 1995 (United States)",7.9,32000.0,Lee Tamahori,Riwia Brown,Rena Owen,New Zealand,,1608570.0,Communicado Productions,102.0
+The Hudsucker Proxy,PG,Comedy,1994,"March 11, 1994 (United States)",7.2,78000.0,Joel Coen,Ethan Coen,Tim Robbins,United Kingdom,40000000.0,2816518.0,PolyGram Filmed Entertainment,111.0
+Shallow Grave,R,Crime,1994,"February 10, 1995 (United States)",7.3,58000.0,Danny Boyle,John Hodge,Kerry Fox,United Kingdom,2500000.0,2079569.0,Channel Four Films,89.0
+Quiz Show,PG-13,Biography,1994,"October 7, 1994 (United States)",7.5,66000.0,Robert Redford,Paul Attanasio,Ralph Fiennes,United States,31000000.0,24822619.0,Baltimore Pictures,133.0
+Three Colors: White,R,Comedy,1994,"June 10, 1994 (United States)",7.6,67000.0,Krzysztof Kieslowski,Krzysztof Kieslowski,Zbigniew Zamachowski,Switzerland,,1237219.0,MK2 Productions,92.0
+Torment,Not Rated,Crime,1994,November 1994 (United States),7.1,4500.0,Claude Chabrol,Claude Chabrol,Emmanuelle Béart,France,,39003.0,MK2 Productions,102.0
+Exotica,R,Drama,1994,"March 24, 1995 (United States)",7.1,19000.0,Atom Egoyan,Atom Egoyan,Bruce Greenwood,Canada,,4221036.0,Alliance Entertainment,103.0
+Death and the Maiden,R,Drama,1994,"January 27, 1995 (United States)",7.3,23000.0,Roman Polanski,Ariel Dorfman,Sigourney Weaver,United Kingdom,12000000.0,3103716.0,Fine Line Features,103.0
+The Postman,PG,Biography,1994,"March 22, 1996 (United States)",7.7,34000.0,Michael Radford,Antonio Skármeta,Massimo Troisi,Italy,3000000.0,21898920.0,Cecchi Gori Group Tiger Cinematografica,108.0
+The Madness of King George,PG-13,Biography,1994,"December 28, 1994 (United States)",7.2,16000.0,Nicholas Hytner,Alan Bennett,Nigel Hawthorne,United Kingdom,65897768.0,15238689.0,The Samuel Goldwyn Company,110.0
+Nobody's Fool,R,Comedy,1994,"January 13, 1995 (United States)",7.4,19000.0,Robert Benton,Richard Russo,Paul Newman,United States,20000000.0,39491975.0,Capella International,110.0
+The Secret of Roan Inish,PG,Drama,1994,"February 3, 1995 (United States)",7.5,7400.0,John Sayles,Rosalie K. Fry,Jeni Courtney,United States,3000000.0,6159269.0,Jones Entertainment Group,103.0
+Bullets Over Broadway,R,Comedy,1994,"February 24, 1995 (United States)",7.4,36000.0,Woody Allen,Woody Allen,John Cusack,United States,20000000.0,13383747.0,Miramax,98.0
+Queen Margot,R,Biography,1994,"December 9, 1994 (United States)",7.4,17000.0,Patrice Chéreau,Alexandre Dumas,Isabelle Adjani,France,,1318578.0,Renn Productions,159.0
+Crooklyn,PG-13,Comedy,1994,"May 13, 1994 (United States)",7.0,9700.0,Spike Lee,Joie Lee,Alfre Woodard,United States,14000000.0,13642861.0,Universal Pictures,115.0
+The Legend of Drunken Master,R,Action,1994,"October 20, 2000 (United States)",7.6,44000.0,Chia-Liang Liu,Edward Tang,Jackie Chan,Hong Kong,10000000.0,11555430.0,Golden Harvest Company,102.0
+Immortal Beloved,R,Biography,1994,"January 27, 1995 (United States)",7.4,24000.0,Bernard Rose,Bernard Rose,Gary Oldman,United Kingdom,,9914409.0,Icon Entertainment International,121.0
+Eat Drink Man Woman,Not Rated,Comedy,1994,"August 3, 1994 (United States)",7.8,19000.0,Ang Lee,Ang Lee,Sihung Lung,Taiwan,,7294403.0,Ang Lee Productions,124.0
+Cemetery Man,R,Comedy,1994,"April 26, 1996 (United States)",7.1,20000.0,Michele Soavi,Tiziano Sclavi,Rupert Everett,Italy,4000000.0,253986.0,Audifilm,105.0
+Ashes of Time,R,Action,1994,"September 17, 1994 (Hong Kong)",7.1,14000.0,Kar-Wai Wong,Louis Cha,Brigitte Lin,Hong Kong,,1977198.0,Jet Tone Production,100.0
+Through the Olive Trees,G,Drama,1994,"January 25, 1995 (France)",7.8,7100.0,Abbas Kiarostami,Abbas Kiarostami,Mohamad Ali Keshavarz,Iran,,,Abbas Kiarostami Productions,103.0
+To Live,Not Rated,Drama,1994,"December 16, 1994 (United States)",8.3,17000.0,Yimou Zhang,Wei Lu,You Ge,China,,2332728.0,ERA International,133.0
+Fresh,R,Crime,1994,"September 2, 1994 (United States)",7.6,12000.0,Boaz Yakin,Boaz Yakin,Sean Nelson,United States,3500000.0,8094616.0,Lumière Pictures,114.0
+A Pure Formality,PG-13,Crime,1994,"May 26, 1995 (United States)",7.7,11000.0,Giuseppe Tornatore,Giuseppe Tornatore,Gérard Depardieu,Italy,,190749.0,Cecchi Gori Group Tiger Cinematografica,108.0
+Swimming with Sharks,R,Comedy,1994,"April 21, 1995 (United States)",7.1,22000.0,George Huang,George Huang,Kevin Spacey,United States,700000.0,382928.0,Cineville,93.0
+Priest,R,Drama,1994,"March 24, 1995 (United States)",7.1,9800.0,Antonia Bird,Jimmy McGovern,Linus Roache,United Kingdom,,4165845.0,BBC Films,98.0
+Barcelona,PG-13,Comedy,1994,"July 29, 1994 (United States)",7.0,5800.0,Whit Stillman,Whit Stillman,Taylor Nichols,United States,3200000.0,7266973.0,Barcelona Films,101.0
+Pred dozhdot,Not Rated,Drama,1994,"February 24, 1995 (United States)",8.0,14000.0,Milcho Manchevski,Milcho Manchevski,Katrin Cartlidge,Republic of Macedonia,1900000.0,763847.0,Aim,113.0
+Burnt by the Sun,R,Drama,1994,"April 21, 1995 (United States)",7.9,15000.0,Nikita Mikhalkov,Nikita Mikhalkov,Nikita Mikhalkov,Russia,2800000.0,2313461.0,Studio Trite,135.0
+War of the Buttons,PG,Adventure,1994,"September 29, 1995 (United States)",7.4,4100.0,John Roberts,Louis Pergaud,Gregg Fitzgerald,United Kingdom,,12712.0,Enigma Productions,94.0
+The Sum of Us,R,Comedy,1994,"March 8, 1995 (United States)",7.3,5200.0,Geoff Burton,David Stevens,Jack Thompson,Australia,,766464.0,Australian Film Finance Corporation (AFFC),100.0
+The Browning Version,R,Drama,1994,"October 12, 1994 (United States)",7.2,3100.0,Mike Figgis,Terence Rattigan,Albert Finney,United Kingdom,,487391.0,Percy Main,97.0
+Heat,R,Crime,1995,"December 15, 1995 (United States)",8.2,596000.0,Michael Mann,Michael Mann,Al Pacino,United States,60000000.0,187436818.0,Warner Bros.,170.0
+Se7en,R,Crime,1995,"September 22, 1995 (United States)",8.6,1500000.0,David Fincher,Andrew Kevin Walker,Morgan Freeman,United States,33000000.0,327333559.0,Cecchi Gori Pictures,127.0
+Braveheart,R,Biography,1995,"May 24, 1995 (United States)",8.3,978000.0,Mel Gibson,Randall Wallace,Mel Gibson,United States,72000000.0,213216216.0,Icon Entertainment International,178.0
+Apollo 13,PG,Adventure,1995,"June 30, 1995 (United States)",7.6,277000.0,Ron Howard,Jim Lovell,Tom Hanks,United States,52000000.0,355237933.0,Universal Pictures,140.0
+The Usual Suspects,R,Crime,1995,"August 16, 1995 (United States)",8.5,1000000.0,Bryan Singer,Christopher McQuarrie,Kevin Spacey,United States,6000000.0,23341568.0,PolyGram Filmed Entertainment,106.0
+Jumanji,PG,Adventure,1995,"December 15, 1995 (United States)",7.0,318000.0,Joe Johnston,Jonathan Hensleigh,Robin Williams,United States,65000000.0,262821940.0,TriStar Pictures,104.0
+Casino,R,Crime,1995,"November 22, 1995 (United States)",8.2,480000.0,Martin Scorsese,Nicholas Pileggi,Robert De Niro,United States,52000000.0,116112375.0,Universal Pictures,178.0
+Kids,NC-17,Drama,1995,"September 1, 1995 (United States)",7.1,75000.0,Larry Clark,Harmony Korine,Leo Fitzpatrick,United States,1500000.0,7412216.0,Guys Upstairs,91.0
+Toy Story,G,Animation,1995,"November 22, 1995 (United States)",8.3,913000.0,John Lasseter,John Lasseter,Tom Hanks,United States,30000000.0,394436586.0,Walt Disney Pictures,81.0
+Desperado,R,Action,1995,"August 25, 1995 (United States)",7.2,175000.0,Robert Rodriguez,Robert Rodriguez,Antonio Banderas,United States,7000000.0,25405445.0,Columbia Pictures,104.0
+Die Hard with a Vengeance,R,Action,1995,"May 19, 1995 (United States)",7.6,370000.0,John McTiernan,Jonathan Hensleigh,Bruce Willis,United States,90000000.0,366101666.0,Cinergi Pictures Entertainment,128.0
+Mallrats,R,Comedy,1995,"October 20, 1995 (United States)",7.1,118000.0,Kevin Smith,Kevin Smith,Shannen Doherty,United States,8000000.0,2122561.0,Gramercy Pictures (I),94.0
+12 Monkeys,R,Mystery,1995,"January 5, 1996 (United States)",8.0,589000.0,Terry Gilliam,Chris Marker,Bruce Willis,United States,29000001.0,168839459.0,Universal Pictures,129.0
+Leaving Las Vegas,R,Drama,1995,"February 9, 1996 (United States)",7.5,117000.0,Mike Figgis,John O'Brien,Nicolas Cage,United States,3600000.0,32029928.0,Lumiere Pictures,111.0
+Before Sunrise,R,Drama,1995,"January 27, 1995 (United States)",8.1,282000.0,Richard Linklater,Richard Linklater,Ethan Hawke,United States,2500000.0,5987386.0,Castle Rock Entertainment,101.0
+Friday,R,Comedy,1995,"April 26, 1995 (United States)",7.3,103000.0,F. Gary Gray,Ice Cube,Ice Cube,United States,3500000.0,28215918.0,New Line Cinema,91.0
+Sense and Sensibility,PG,Drama,1995,"January 26, 1996 (United States)",7.7,106000.0,Ang Lee,Jane Austen,Emma Thompson,United States,16000000.0,134582776.0,Columbia Pictures,136.0
+The Basketball Diaries,R,Biography,1995,"April 21, 1995 (United States)",7.3,105000.0,Scott Kalvert,Jim Carroll,Leonardo DiCaprio,United States,2000000.0,2402438.0,New Line Cinema,102.0
+GoldenEye,PG-13,Action,1995,"November 17, 1995 (United States)",7.2,243000.0,Martin Campbell,Ian Fleming,Pierce Brosnan,United Kingdom,60000000.0,352194034.0,Eon Productions,130.0
+La Haine,Not Rated,Crime,1995,"February 23, 1996 (United States)",8.1,157000.0,Mathieu Kassovitz,Mathieu Kassovitz,Vincent Cassel,France,,302606.0,Le Studio Canal+,98.0
+Crimson Tide,R,Action,1995,"May 12, 1995 (United States)",7.3,105000.0,Tony Scott,Michael Schiffer,Gene Hackman,United States,53000000.0,157387195.0,Hollywood Pictures,116.0
+Ghost in the Shell,TV-MA,Animation,1995,"March 29, 1996 (United States)",8.0,133000.0,Mamoru Oshii,Shirow Masamune,Atsuko Tanaka,Japan,,516540.0,Kôdansha,83.0
+Tommy Boy,PG-13,Adventure,1995,"March 31, 1995 (United States)",7.1,79000.0,Peter Segal,Bonnie Turner,Chris Farley,United States,,32679899.0,Broadway Pictures,97.0
+Dead Man Walking,R,Crime,1995,"February 2, 1996 (United States)",7.5,90000.0,Tim Robbins,Helen Prejean,Susan Sarandon,United Kingdom,11000000.0,39363635.0,Havoc,122.0
+The Bridges of Madison County,PG-13,Drama,1995,"June 2, 1995 (United States)",7.6,76000.0,Clint Eastwood,Richard LaGravenese,Clint Eastwood,United States,24000000.0,182016617.0,Warner Bros.,135.0
+Strange Days,R,Action,1995,"October 13, 1995 (United States)",7.2,68000.0,Kathryn Bigelow,James Cameron,Ralph Fiennes,United States,42000000.0,7959291.0,Lightstorm Entertainment,145.0
+The City of Lost Children,R,Fantasy,1995,"December 15, 1995 (United States)",7.5,66000.0,Marc Caro,Gilles Adrien,Ron Perlman,France,18000000.0,1781465.0,Constellation,112.0
+A Little Princess,G,Drama,1995,"May 19, 1995 (United States)",7.7,33000.0,Alfonso Cuarón,Frances Hodgson Burnett,Liesel Matthews,United States,17000000.0,10015449.0,Warner Bros.,97.0
+Mr. Holland's Opus,PG,Drama,1995,"January 19, 1996 (United States)",7.3,36000.0,Stephen Herek,Patrick Sheane Duncan,Richard Dreyfuss,United States,23000000.0,106269971.0,Hollywood Pictures,143.0
+Dead Man,R,Adventure,1995,"May 10, 1996 (United States)",7.6,92000.0,Jim Jarmusch,Jim Jarmusch,Johnny Depp,United States,9000000.0,1037847.0,Pandora Filmproduktion,121.0
+Dolores Claiborne,R,Crime,1995,"March 24, 1995 (United States)",7.4,41000.0,Taylor Hackford,Stephen King,Kathy Bates,United States,,24361867.0,Castle Rock Entertainment,132.0
+Welcome to the Dollhouse,R,Comedy,1995,"May 24, 1996 (United States)",7.4,33000.0,Todd Solondz,Todd Solondz,Heather Matarazzo,United States,800000.0,4569019.0,Suburban Pictures,88.0
+Living in Oblivion,R,Comedy,1995,"July 21, 1995 (United States)",7.5,17000.0,Tom DiCillo,Tom DiCillo,Steve Buscemi,United States,500000.0,1111790.0,JDI Productions,90.0
+Nixon,R,Biography,1995,"January 5, 1996 (United States)",7.1,29000.0,Oliver Stone,Stephen J. Rivele,Anthony Hopkins,United States,44000000.0,13681765.0,Cinergi Pictures Entertainment,192.0
+Underground,Not Rated,Comedy,1995,"June 20, 1997 (United States)",8.1,56000.0,Emir Kusturica,Dusan Kovacevic,Predrag 'Miki' Manojlovic,Federal Republic of Yugoslavia,14000000.0,171082.0,CiBy 2000,167.0
+Mighty Aphrodite,R,Comedy,1995,"November 10, 1995 (United States)",7.0,39000.0,Woody Allen,Woody Allen,Woody Allen,United States,15000000.0,6468498.0,Sweetland Films,95.0
+Balto,G,Animation,1995,"December 22, 1995 (United States)",7.1,41000.0,Simon Wells,Cliff Ruby,Kevin Bacon,United States,,11349090.0,Amblimation,78.0
+Safe,R,Drama,1995,"June 30, 1995 (United States)",7.2,14000.0,Todd Haynes,Todd Haynes,Julianne Moore,United Kingdom,1000000.0,512245.0,American Playhouse Theatrical Films,119.0
+Murder in the First,R,Drama,1995,"January 20, 1995 (United States)",7.3,27000.0,Marc Rocco,Dan Gordon,Christian Slater,United States,,17381942.0,Warner Bros.,122.0
+Richard III,R,Drama,1995,"December 29, 1995 (United States)",7.4,14000.0,Richard Loncraine,Ian McKellen,Ian McKellen,United Kingdom,,2748518.0,Mayfair Entertainment International,110.0
+The Day of the Beast,R,Action,1995,"December 23, 1998 (United States)",7.4,19000.0,Álex de la Iglesia,Jorge Guerricaechevarría,Álex Angulo,Spain,,,Canal+ España,99.0
+Smoke,R,Comedy,1995,"June 9, 1995 (United States)",7.4,34000.0,Wayne Wang,Paul Auster,Harvey Keitel,Germany,7000000.0,8367636.0,Miramax,112.0
+The Cure,PG-13,Drama,1995,"April 21, 1995 (United States)",7.7,9400.0,Peter Horton,Robert Kuhn,Joseph Mazzello,United States,,2568425.0,Universal Pictures,97.0
+The Horseman on the Roof,R,Adventure,1995,"October 6, 1995 (United States)",7.1,5700.0,Jean-Paul Rappeneau,Jean Giono,Olivier Martinez,France,,1320043.0,Hachette Première,118.0
+My Family,R,Drama,1995,"May 3, 1995 (United States)",7.3,3800.0,Gregory Nava,Gregory Nava,Jimmy Smits,United States,5500000.0,11079373.0,American Playhouse,128.0
+La Cérémonie,Not Rated,Crime,1995,"December 20, 1996 (United States)",7.5,11000.0,Claude Chabrol,Ruth Rendell,Isabelle Huppert,France,,873196.0,Canal+,112.0
+Last of the Dogmen,PG,Adventure,1995,"September 8, 1995 (United States)",7.0,5000.0,Tab Murphy,Tab Murphy,Tom Berenger,United States,,7024389.0,Carolco Pictures,118.0
+The Flower of My Secret,R,Comedy,1995,"March 8, 1996 (United States)",7.0,11000.0,Pedro Almodóvar,Pedro Almodóvar,Marisa Paredes,Spain,,1104622.0,CiBy 2000,103.0
+The White Balloon,Unrated,Drama,1995,1995 (Iran),7.7,6900.0,Jafar Panahi,Abbas Kiarostami,Aida Mohammadkhani,Iran,150000.0,924940.0,Farabi Cinema Foundation,85.0
+Land and Freedom,Not Rated,Drama,1995,"March 22, 1996 (United States)",7.6,11000.0,Ken Loach,Jim Allen,Ian Hart,United Kingdom,,228800.0,ARD Degeto Film,109.0
+To vlemma tou Odyssea,Unrated,Drama,1995,"November 1, 1997 (United States)",7.6,6400.0,Theodoros Angelopoulos,Theodoros Angelopoulos,Harvey Keitel,Greece,,,Greek Film Center,176.0
+The Star Maker,R,Drama,1995,"March 8, 1996 (United States)",7.4,4900.0,Giuseppe Tornatore,Giuseppe Tornatore,Sergio Castellitto,Italy,,371674.0,Cecchi Gori Group Tiger Cinematografica,113.0
+Antonia's Line,R,Comedy,1995,"February 2, 1996 (United States)",7.5,8400.0,Marleen Gorris,Marleen Gorris,Willeke van Ammelrooy,Netherlands,,4249321.0,Bergen,102.0
+Nelly & Monsieur Arnaud,,Drama,1995,"June 21, 1996 (United States)",7.3,4300.0,Claude Sautet,Jacques Fieschi,Emmanuelle Béart,France,,955708.0,Cecchi Gori Group Tiger Cinematografica,106.0
+Independence Day,PG-13,Action,1996,"July 3, 1996 (United States)",7.0,543000.0,Roland Emmerich,Dean Devlin,Will Smith,United States,75000000.0,817400891.0,Twentieth Century Fox,145.0
+Scream,R,Horror,1996,"December 20, 1996 (United States)",7.3,295000.0,Wes Craven,Kevin Williamson,Neve Campbell,United States,14000000.0,173046663.0,Dimension Films,111.0
+Sleepers,R,Crime,1996,"October 18, 1996 (United States)",7.6,202000.0,Barry Levinson,Lorenzo Carcaterra,Robert De Niro,United States,44000000.0,165615285.0,Astoria Films,147.0
+From Dusk Till Dawn,R,Action,1996,"January 19, 1996 (United States)",7.2,294000.0,Robert Rodriguez,Robert Kurtzman,Harvey Keitel,United States,19000000.0,25837111.0,Dimension Films,108.0
+Fargo,R,Crime,1996,"April 5, 1996 (United States)",8.1,634000.0,Joel Coen,Ethan Coen,William H. Macy,United States,7000000.0,60611975.0,PolyGram Filmed Entertainment,98.0
+Mission: Impossible,PG-13,Action,1996,"May 22, 1996 (United States)",7.1,398000.0,Brian De Palma,Bruce Geller,Tom Cruise,United States,80000000.0,457696391.0,Paramount Pictures,110.0
+Trainspotting,R,Drama,1996,"August 9, 1996 (United States)",8.1,647000.0,Danny Boyle,Irvine Welsh,Ewan McGregor,United Kingdom,,16607872.0,Channel Four Films,93.0
+Happy Gilmore,PG-13,Comedy,1996,"February 16, 1996 (United States)",7.0,205000.0,Dennis Dugan,Tim Herlihy,Adam Sandler,United States,12000000.0,41205099.0,Universal Pictures,92.0
+Jerry Maguire,R,Comedy,1996,"December 13, 1996 (United States)",7.3,249000.0,Cameron Crowe,Cameron Crowe,Tom Cruise,United States,50000000.0,273552592.0,TriStar Pictures,139.0
+The Rock,R,Action,1996,"June 7, 1996 (United States)",7.4,319000.0,Michael Bay,David Weisberg,Sean Connery,United States,75000000.0,335062621.0,Hollywood Pictures,136.0
+A Time to Kill,R,Crime,1996,"July 24, 1996 (United States)",7.5,138000.0,Joel Schumacher,John Grisham,Matthew McConaughey,United States,40000000.0,152266007.0,New Regency Productions,149.0
+Primal Fear,R,Crime,1996,"April 3, 1996 (United States)",7.7,196000.0,Gregory Hoblit,William Diehl,Richard Gere,United States,30000000.0,102616183.0,Paramount Pictures,129.0
+The English Patient,R,Drama,1996,"December 6, 1996 (United States)",7.4,182000.0,Anthony Minghella,Michael Ondaatje,Ralph Fiennes,United States,27000000.0,231976425.0,Miramax,162.0
+Bottle Rocket,R,Comedy,1996,"February 21, 1996 (United States)",7.0,72000.0,Wes Anderson,Owen Wilson,Luke Wilson,United States,7000000.0,560069.0,Columbia Pictures,91.0
+Bound,R,Crime,1996,"October 4, 1996 (United States)",7.3,52000.0,Lana Wachowski,Lilly Wachowski,Jennifer Tilly,United States,4500000.0,3802260.0,Dino De Laurentiis Company,109.0
+Sling Blade,R,Drama,1996,"March 14, 1997 (United States)",8.0,89000.0,Billy Bob Thornton,Billy Bob Thornton,Billy Bob Thornton,United States,1000000.0,24444121.0,Miramax,135.0
+The Birdcage,R,Comedy,1996,"March 8, 1996 (United States)",7.1,83000.0,Mike Nichols,Jean Poiret,Robin Williams,United States,31000000.0,185260553.0,United Artists,117.0
+The Hunchback of Notre Dame,G,Animation,1996,"June 21, 1996 (United States)",7.0,146000.0,Gary Trousdale,Tab Murphy,Demi Moore,United States,100000000.0,325338851.0,Walt Disney Animation Studios,91.0
+The Frighteners,R,Comedy,1996,"July 19, 1996 (United States)",7.1,84000.0,Peter Jackson,Fran Walsh,Michael J. Fox,New Zealand,30000000.0,29359216.0,Universal Pictures,110.0
+Star Trek: First Contact,PG-13,Action,1996,"November 22, 1996 (United States)",7.6,120000.0,Jonathan Frakes,Gene Roddenberry,Patrick Stewart,United States,45000000.0,146027888.0,Digital Image Associates,111.0
+Swingers,R,Comedy,1996,"April 11, 1997 (Brazil)",7.2,77000.0,Doug Liman,Jon Favreau,Vince Vaughn,United States,200000.0,4555020.0,Doug Liman Productions,96.0
+Beautiful Girls,R,Comedy,1996,"February 9, 1996 (United States)",7.1,32000.0,Ted Demme,Scott Rosenberg,Matt Dillon,United States,,10597759.0,Miramax,112.0
+Hard Eight,R,Crime,1996,"February 28, 1997 (United States)",7.2,45000.0,Paul Thomas Anderson,Paul Thomas Anderson,Philip Baker Hall,United States,3000000.0,222559.0,Green Parrot,101.0
+Hamlet,PG-13,Drama,1996,"December 25, 1996 (United States)",7.7,37000.0,Kenneth Branagh,William Shakespeare,Kenneth Branagh,United Kingdom,18000000.0,4770222.0,Castle Rock Entertainment,242.0
+Big Night,R,Drama,1996,"September 20, 1996 (United States)",7.3,18000.0,Campbell Scott,Stanley Tucci,Tony Shalhoub,United States,4100000.0,12008376.0,Rysher Entertainment,109.0
+Pusher,Not Rated,Crime,1996,"August 30, 1996 (Denmark)",7.4,37000.0,Nicolas Winding Refn,Jens Dahl,Kim Bodnia,Denmark,,1605.0,Balboa Entertainment,110.0
+Waiting for Guffman,R,Comedy,1996,"January 31, 1997 (United States)",7.5,28000.0,Christopher Guest,Christopher Guest,Christopher Guest,United States,4000000.0,2923982.0,Castle Rock Entertainment,84.0
+Secrets & Lies,R,Comedy,1996,"February 28, 1997 (United States)",8.0,39000.0,Mike Leigh,Mike Leigh,Timothy Spall,United Kingdom,4500000.0,13417292.0,Channel Four Films,136.0
+Breaking the Waves,R,Drama,1996,"November 13, 1996 (United States)",7.8,64000.0,Lars von Trier,Lars von Trier,Emily Watson,Denmark,,3828405.0,ARTE,159.0
+Trees Lounge,R,Comedy,1996,"October 11, 1996 (United States)",7.1,14000.0,Steve Buscemi,Steve Buscemi,Steve Buscemi,United States,1300000.0,749741.0,Addis Wechsler Pictures,95.0
+The People vs. Larry Flynt,R,Biography,1996,"January 10, 1997 (United States)",7.3,90000.0,Milos Forman,Scott Alexander,Woody Harrelson,United States,36000000.0,20300385.0,Columbia Pictures,130.0
+Brassed Off,R,Comedy,1996,"May 23, 1997 (United States)",7.2,19000.0,Mark Herman,Mark Herman,Pete Postlethwaite,United Kingdom,,2576738.0,Channel Four Films,108.0
+Shine,PG-13,Biography,1996,"February 14, 1997 (United States)",7.7,52000.0,Scott Hicks,Jan Sardi,Geoffrey Rush,Australia,5500000.0,35999081.0,Australian Film Finance Corporation (AFFC),105.0
+Lone Star,R,Drama,1996,"June 21, 1996 (United States)",7.4,28000.0,John Sayles,John Sayles,Chris Cooper,United States,5000000.0,12408986.0,Columbia Pictures,135.0
+Michael Collins,R,Biography,1996,"October 25, 1996 (United States)",7.2,30000.0,Neil Jordan,Neil Jordan,Liam Neeson,United Kingdom,25000000.0,11135803.0,Warner Bros.,133.0
+Muppet Treasure Island,G,Action,1996,"February 16, 1996 (United States)",7.0,22000.0,Brian Henson,Robert Louis Stevenson,Tim Curry,United States,,34327391.0,Walt Disney Pictures,99.0
+Beautiful Thing,R,Comedy,1996,"October 9, 1996 (United States)",7.6,23000.0,Hettie Macdonald,Jonathan Harvey,Glen Berry,United Kingdom,,1548120.0,Channel Four Films,90.0
+Irma Vep,Not Rated,Comedy,1996,"April 30, 1997 (United States)",7.1,5900.0,Olivier Assayas,Olivier Assayas,Maggie Cheung,France,,292040.0,Dacia Films,99.0
+A Summer's Tale,G,Comedy,1996,"June 20, 2014 (United States)",7.6,7000.0,Éric Rohmer,Éric Rohmer,Melvil Poupaud,France,,198126.0,Canal+,113.0
+The Daytrippers,R,Comedy,1996,"March 5, 1997 (United States)",7.0,4900.0,Greg Mottola,Greg Mottola,Hope Davis,Canada,,2099677.0,Alliance Communications Corporation,87.0
+Citizen Ruth,R,Comedy,1996,"December 13, 1996 (United States)",7.0,7500.0,Alexander Payne,Alexander Payne,Laura Dern,United States,3000000.0,285112.0,Independent Pictures (II),106.0
+The Whole Wide World,PG,Biography,1996,"December 20, 1996 (United States)",7.1,3500.0,Dan Ireland,Novalyne Price Ellis,Vincent D'Onofrio,United States,1300000.0,375757.0,Cineville,111.0
+A Family Thing,PG-13,Comedy,1996,"March 29, 1996 (United States)",7.0,3400.0,Richard Pearce,Billy Bob Thornton,Robert Duvall,United States,,10125417.0,United Artists,109.0
+Twelfth Night,PG,Comedy,1996,"October 25, 1996 (United States)",7.2,5700.0,Trevor Nunn,William Shakespeare,Helena Bonham Carter,Ireland,5000000.0,588621.0,Renaissance Films,134.0
+The Game,R,Drama,1997,"September 12, 1997 (United States)",7.8,361000.0,David Fincher,John Brancato,Michael Douglas,United States,50000000.0,109423648.0,Polygram Filmed Entertainment,129.0
+Boogie Nights,R,Drama,1997,"October 31, 1997 (United States)",7.9,246000.0,Paul Thomas Anderson,Paul Thomas Anderson,Mark Wahlberg,United States,15000000.0,43101594.0,New Line Cinema,155.0
+Titanic,PG-13,Drama,1997,"December 19, 1997 (United States)",7.8,1100000.0,James Cameron,James Cameron,Leonardo DiCaprio,United States,200000000.0,2201647264.0,Twentieth Century Fox,194.0
+The Fifth Element,PG-13,Action,1997,"May 9, 1997 (United States)",7.7,444000.0,Luc Besson,Luc Besson,Bruce Willis,France,93000000.0,263920180.0,Columbia Pictures,126.0
+Austin Powers: International Man of Mystery,PG-13,Adventure,1997,"May 2, 1997 (United States)",7.0,227000.0,Jay Roach,Mike Myers,Mike Myers,United States,16500000.0,67683989.0,Capella International,89.0
+Good Will Hunting,R,Drama,1997,"January 9, 1998 (United States)",8.3,887000.0,Gus Van Sant,Matt Damon,Robin Williams,United States,10000000.0,225933435.0,Miramax,126.0
+Starship Troopers,R,Action,1997,"November 7, 1997 (United States)",7.2,276000.0,Paul Verhoeven,Edward Neumeier,Casper Van Dien,United States,105000000.0,121214377.0,TriStar Pictures,129.0
+The Devil's Advocate,R,Drama,1997,"October 17, 1997 (United States)",7.5,342000.0,Taylor Hackford,Andrew Neiderman,Keanu Reeves,Germany,57000000.0,152944660.0,Warner Bros.,144.0
+Jackie Brown,R,Crime,1997,"December 25, 1997 (United States)",7.5,325000.0,Quentin Tarantino,Quentin Tarantino,Pam Grier,United States,12000000.0,39673807.0,Miramax,154.0
+L.A. Confidential,R,Crime,1997,"September 19, 1997 (United States)",8.2,544000.0,Curtis Hanson,James Ellroy,Kevin Spacey,United States,35000000.0,126216940.0,New Regency Productions,138.0
+Life Is Beautiful,PG-13,Comedy,1997,"December 20, 1997 (Italy)",8.6,642000.0,Roberto Benigni,Vincenzo Cerami,Roberto Benigni,Italy,20000000.0,230098753.0,Melampo Cinematografica,116.0
+Contact,PG,Drama,1997,"July 11, 1997 (United States)",7.5,260000.0,Robert Zemeckis,James V. Hart,Jodie Foster,United States,90000000.0,171120329.0,Warner Bros.,150.0
+Men in Black,PG-13,Action,1997,"July 2, 1997 (United States)",7.3,529000.0,Barry Sonnenfeld,Lowell Cunningham,Tommy Lee Jones,United States,90000000.0,589390539.0,Columbia Pictures,98.0
+Hercules,G,Animation,1997,"June 27, 1997 (United States)",7.3,212000.0,Ron Clements,Ron Clements,Tate Donovan,United States,85000000.0,252712101.0,Walt Disney Pictures,93.0
+Princess Mononoke,PG-13,Animation,1997,"December 19, 1997 (United States)",8.4,357000.0,Hayao Miyazaki,Hayao Miyazaki,Yôji Matsuda,Japan,,169785704.0,DENTSU Music And Entertainment,134.0
+Face/Off,R,Action,1997,"June 27, 1997 (United States)",7.2,357000.0,John Woo,Mike Werb,John Travolta,United States,80000000.0,245676146.0,Permut Presentations,138.0
+As Good as It Gets,PG-13,Comedy,1997,"December 25, 1997 (United States)",7.7,282000.0,James L. Brooks,Mark Andrus,Jack Nicholson,United States,50000000.0,314178011.0,TriStar Pictures,139.0
+Gattaca,PG-13,Drama,1997,"October 24, 1997 (United States)",7.8,287000.0,Andrew Niccol,Andrew Niccol,Ethan Hawke,United States,36000000.0,12532777.0,Columbia Pictures,106.0
+The Rainmaker,PG-13,Crime,1997,"November 21, 1997 (United States)",7.2,68000.0,Francis Ford Coppola,John Grisham,Matt Damon,United States,40000000.0,45916769.0,Constellation Entertainment,135.0
+Cube,R,Drama,1997,"July 11, 1998 (Netherlands)",7.2,218000.0,Vincenzo Natali,André Bijelic,Nicole de Boer,Canada,,565727.0,Cube Libre,90.0
+Donnie Brasco,R,Biography,1997,"February 28, 1997 (United States)",7.7,287000.0,Mike Newell,Joseph D. Pistone,Al Pacino,United States,35000000.0,124909762.0,Mandalay Entertainment,127.0
+Anastasia,G,Animation,1997,"November 21, 1997 (United States)",7.2,115000.0,Don Bluth,Susan Gauthier,Meg Ryan,United States,50000000.0,139804348.0,Twentieth Century Fox,94.0
+Perfect Blue,,Animation,1997,"February 28, 1998 (Japan)",8.0,63000.0,Satoshi Kon,Sadayuki Murai,Junko Iwao,Japan,,563130.0,Rex Entertainment,81.0
+Lost Highway,R,Mystery,1997,"January 15, 1997 (France)",7.6,134000.0,David Lynch,David Lynch,Bill Pullman,France,15000000.0,3703548.0,CiBy 2000,134.0
+The Full Monty,R,Comedy,1997,"September 19, 1997 (United States)",7.2,101000.0,Peter Cattaneo,Simon Beaufoy,Robert Carlyle,United Kingdom,3500000.0,257938649.0,Redwave Films,91.0
+Seven Years in Tibet,PG-13,Adventure,1997,"October 10, 1997 (United States)",7.1,134000.0,Jean-Jacques Annaud,Heinrich Harrer,Brad Pitt,United States,70000000.0,131457682.0,Mandalay Entertainment,136.0
+Chasing Amy,R,Comedy,1997,"April 18, 1997 (United States)",7.2,134000.0,Kevin Smith,Kevin Smith,Ben Affleck,United States,250000.0,12021272.0,Too Askew Prod. Inc.,113.0
+Amistad,R,Biography,1997,"December 25, 1997 (United States)",7.3,73000.0,Steven Spielberg,David Franzoni,Djimon Hounsou,United States,36000000.0,44229441.0,Dreamworks Pictures,155.0
+Grosse Pointe Blank,R,Action,1997,"April 11, 1997 (United States)",7.3,90000.0,George Armitage,Tom Jankiewicz,John Cusack,United States,15000000.0,28084357.0,Hollywood Pictures,107.0
+Happy Together,,Drama,1997,"May 30, 1997 (Hong Kong)",7.7,25000.0,Kar-Wai Wong,Manuel Puig,Leslie Cheung,Hong Kong,4200000.0,585773.0,Block 2 Pictures,96.0
+Open Your Eyes,R,Drama,1997,"December 19, 1997 (Spain)",7.7,65000.0,Alejandro Amenábar,Alejandro Amenábar,Eduardo Noriega,Spain,,377967.0,Canal+ España,119.0
+The Ice Storm,R,Drama,1997,"November 26, 1997 (United States)",7.4,54000.0,Ang Lee,Rick Moody,Kevin Kline,United States,18000000.0,8038061.0,Fox Searchlight Pictures,112.0
+Soul Food,R,Comedy,1997,"September 26, 1997 (United States)",7.0,7400.0,George Tillman Jr.,George Tillman Jr.,Vanessa Williams,United States,7500000.0,43700855.0,Fox 2000 Pictures,115.0
+Children of Heaven,PG,Drama,1997,"January 22, 1999 (United States)",8.3,68000.0,Majid Majidi,Majid Majidi,Mohammad Amir Naji,Iran,180000.0,933933.0,Kanun parvaresh fekri,89.0
+Wag the Dog,R,Comedy,1997,"January 9, 1998 (United States)",7.1,80000.0,Barry Levinson,Larry Beinhart,Dustin Hoffman,United States,15000000.0,64256513.0,Baltimore Pictures,97.0
+Taste of Cherry,Not Rated,Drama,1997,"November 26, 1997 (France)",7.8,26000.0,Abbas Kiarostami,Abbas Kiarostami,Homayoun Ershadi,Iran,,10923.0,Abbas Kiarostami Productions,95.0
+The Boxer,R,Drama,1997,"January 9, 1998 (United States)",7.0,20000.0,Jim Sheridan,Jim Sheridan,Daniel Day-Lewis,United States,,16534578.0,Universal Pictures,113.0
+The Sweet Hereafter,R,Drama,1997,"November 21, 1997 (United States)",7.5,33000.0,Atom Egoyan,Russell Banks,Ian Holm,Canada,,3263585.0,Alliance Communications Corporation,112.0
+Eve's Bayou,R,Drama,1997,"November 7, 1997 (United States)",7.3,9100.0,Kasi Lemmons,Kasi Lemmons,Samuel L. Jackson,United States,6000000.0,14842388.0,Trimark Pictures,109.0
+Kundun,PG-13,Biography,1997,"January 16, 1998 (United States)",7.0,27000.0,Martin Scorsese,Melissa Mathison,Tenzin Thuthob Tsarong,United States,28000000.0,5684789.0,De Fina-Cappa,134.0
+Cure,Not Rated,Crime,1997,"July 8, 2001 (United States)",7.4,12000.0,Kiyoshi Kurosawa,Kiyoshi Kurosawa,Masato Hagiwara,Japan,,,Daiei Studios,111.0
+Live Flesh,R,Drama,1997,"January 16, 1998 (United States)",7.4,29000.0,Pedro Almodóvar,Pedro Almodóvar,Liberto Rabal,Spain,,1785901.0,El Deseo,103.0
+The Castle,R,Comedy,1997,"May 7, 1999 (United States)",7.7,15000.0,Rob Sitch,Santo Cilauro,Michael Caton,Australia,,877862.0,Working Dog,85.0
+Rosewood,R,Action,1997,"February 21, 1997 (United States)",7.2,7700.0,John Singleton,Gregory Poirier,Jon Voight,United States,25000000.0,13130349.0,Warner Bros.,140.0
+Affliction,R,Drama,1997,"February 19, 1999 (United States)",7.0,16000.0,Paul Schrader,Russell Banks,Nick Nolte,United States,6000000.0,6330054.0,JVC Entertainment Networks,114.0
+Love Jones,R,Drama,1997,"March 14, 1997 (United States)",7.4,4300.0,Theodore Witcher,Theodore Witcher,Larenz Tate,United States,10000000.0,12782749.0,Addis Wechsler Pictures,104.0
+Bent,NC-17,Drama,1997,"November 26, 1997 (United States)",7.2,7900.0,Sean Mathias,Martin Sherman,Lothaire Bluteau,United Kingdom,,496059.0,Channel Four Films,105.0
+Mrs. Brown,PG,Biography,1997,"October 3, 1997 (United States)",7.2,14000.0,John Madden,Jeremy Brock,Judi Dench,United Kingdom,,9229808.0,BBC Scotland,101.0
+Deconstructing Harry,R,Comedy,1997,"January 2, 1998 (United States)",7.4,43000.0,Woody Allen,Woody Allen,Woody Allen,United States,20000000.0,10686841.0,Sweetland Films,96.0
+Fireworks,,Crime,1997,"March 20, 1998 (United States)",7.8,29000.0,Takeshi Kitano,Takeshi Kitano,Takeshi Kitano,Japan,,500000.0,Bandai Visual Company,103.0
+Insomnia,Not Rated,Crime,1997,"May 29, 1998 (United States)",7.3,14000.0,Erik Skjoldbjærg,Nikolaj Frobenius,Stellan Skarsgård,Norway,,227569.0,Norsk Film,96.0
+The Spanish Prisoner,PG,Drama,1997,"May 15, 1998 (United States)",7.2,22000.0,David Mamet,David Mamet,Steve Martin,United States,10000000.0,9593903.0,Jasmine Productions Inc.,110.0
+The Wings of the Dove,R,Drama,1997,"March 13, 1998 (United States)",7.1,11000.0,Iain Softley,Henry James,Helena Bonham Carter,United States,,13692848.0,Miramax,102.0
+The Apostle,PG-13,Drama,1997,"February 20, 1998 (United States)",7.2,14000.0,Robert Duvall,Robert Duvall,Robert Duvall,United States,5000000.0,19868354.0,Butcher's Run Films,134.0
+Ulee's Gold,R,Drama,1997,"July 18, 1997 (United States)",7.0,6800.0,Victor Nunez,Victor Nunez,Peter Fonda,United States,2700000.0,9161691.0,Clinica Estetico,113.0
+Lawn Dogs,R,Drama,1997,"May 15, 1998 (United States)",7.5,7700.0,John Duigan,Naomi Wallace,Sam Rockwell,United Kingdom,8000000.0,106404.0,The Rank Organisation,101.0
+Knockin' on Heaven's Door,Not Rated,Action,1997,"February 20, 1997 (Germany)",7.9,28000.0,Thomas Jahn,Thomas Jahn,Til Schweiger,Germany,,5710.0,Buena Vista International Film Production (Germany),87.0
+Firelight,R,Drama,1997,"September 4, 1998 (United States)",7.2,4200.0,William Nicholson,William Nicholson,Sophie Marceau,United Kingdom,,785482.0,Carnival Film & Television,103.0
+In the Company of Men,R,Comedy,1997,"August 1, 1997 (United States)",7.2,13000.0,Neil LaBute,Neil LaBute,Aaron Eckhart,Canada,25000.0,2804473.0,Alliance Atlantis Communications,97.0
+The Big Lebowski,R,Comedy,1998,"March 6, 1998 (United States)",8.1,754000.0,Joel Coen,Ethan Coen,Jeff Bridges,United States,15000000.0,46748721.0,Polygram Filmed Entertainment,117.0
+Saving Private Ryan,R,Drama,1998,"July 24, 1998 (United States)",8.6,1300000.0,Steven Spielberg,Robert Rodat,Tom Hanks,United States,70000000.0,482349603.0,Dreamworks Pictures,169.0
+American History X,R,Drama,1998,"November 20, 1998 (United States)",8.5,1100000.0,Tony Kaye,David McKenna,Edward Norton,United States,20000000.0,23875127.0,New Line Cinema,119.0
+"Lock, Stock and Two Smoking Barrels",R,Action,1998,"August 28, 1998 (United Kingdom)",8.2,547000.0,Guy Ritchie,Guy Ritchie,Jason Flemyng,United Kingdom,,3753929.0,Summit Entertainment,107.0
+The Truman Show,PG,Comedy,1998,"June 5, 1998 (United States)",8.1,972000.0,Peter Weir,Andrew Niccol,Jim Carrey,United States,60000000.0,264118201.0,Paramount Pictures,103.0
+Rounders,R,Crime,1998,"September 11, 1998 (United States)",7.3,144000.0,John Dahl,David Levien,Matt Damon,United States,12000000.0,22912409.0,Miramax,121.0
+Blade,R,Action,1998,"August 21, 1998 (United States)",7.1,252000.0,Stephen Norrington,David S. Goyer,Wesley Snipes,United States,45000000.0,131183530.0,Amen Ra Films,120.0
+Meet Joe Black,PG-13,Drama,1998,"November 13, 1998 (United States)",7.2,223000.0,Martin Brest,Ron Osborn,Brad Pitt,United States,90000000.0,142940100.0,Universal Pictures,178.0
+Rush Hour,PG-13,Action,1998,"September 18, 1998 (United States)",7.0,247000.0,Brett Ratner,Ross LaManna,Jackie Chan,United States,33000000.0,244721064.0,New Line Cinema,98.0
+Fear and Loathing in Las Vegas,R,Adventure,1998,"May 22, 1998 (United States)",7.6,266000.0,Terry Gilliam,Hunter S. Thompson,Johnny Depp,United States,18500000.0,10680275.0,Fear and Loathing LLC,118.0
+There's Something About Mary,R,Comedy,1998,"July 15, 1998 (United States)",7.1,297000.0,Bobby Farrelly,Ed Decter,Cameron Diaz,United States,23000000.0,369884651.0,Twentieth Century Fox,119.0
+A Bug's Life,G,Animation,1998,"November 25, 1998 (United States)",7.2,273000.0,John Lasseter,John Lasseter,Kevin Spacey,United States,120000000.0,363258859.0,Pixar Animation Studios,95.0
+Out of Sight,R,Comedy,1998,"June 26, 1998 (United States)",7.0,88000.0,Steven Soderbergh,Elmore Leonard,George Clooney,United States,48000000.0,77745966.0,Universal Pictures,123.0
+Mulan,G,Animation,1998,"June 19, 1998 (United States)",7.6,265000.0,Tony Bancroft,Robert D. San Souci,Ming-Na Wen,United States,90000000.0,304320254.0,Walt Disney Animation Studios,88.0
+The Thin Red Line,R,Drama,1998,"January 15, 1999 (United States)",7.6,177000.0,Terrence Malick,James Jones,Jim Caviezel,United States,52000000.0,98126565.0,Fox 2000 Pictures,170.0
+Pleasantville,PG-13,Comedy,1998,"October 23, 1998 (United States)",7.5,123000.0,Gary Ross,Gary Ross,Tobey Maguire,United States,60000000.0,49805462.0,New Line Cinema,124.0
+What Dreams May Come,PG-13,Drama,1998,"October 2, 1998 (United States)",7.0,104000.0,Vincent Ward,Richard Matheson,Robin Williams,United States,85000000.0,55382927.0,Polygram Filmed Entertainment,113.0
+Rushmore,R,Comedy,1998,"February 19, 1999 (United States)",7.7,174000.0,Wes Anderson,Wes Anderson,Jason Schwartzman,United States,9000000.0,17196103.0,American Empirical Pictures,93.0
+Dark City,R,Fantasy,1998,"February 27, 1998 (United States)",7.6,191000.0,Alex Proyas,Alex Proyas,Rufus Sewell,Australia,27000000.0,27200316.0,Mystery Clock Cinema,100.0
+Ever After: A Cinderella Story,PG-13,Comedy,1998,"July 31, 1998 (United States)",7.0,71000.0,Andy Tennant,Susannah Grant,Drew Barrymore,United States,26000000.0,98005666.0,Twentieth Century Fox,121.0
+Shakespeare in Love,R,Comedy,1998,"January 8, 1999 (United States)",7.1,217000.0,John Madden,Marc Norman,Gwyneth Paltrow,United States,25000000.0,289317794.0,Universal Pictures,123.0
+The Prince of Egypt,PG,Animation,1998,"December 18, 1998 (United States)",7.1,122000.0,Brenda Chapman,Philip LaZebnik,Val Kilmer,United States,70000000.0,218613188.0,DreamWorks Animation,99.0
+Enemy of the State,R,Action,1998,"November 20, 1998 (United States)",7.3,232000.0,Tony Scott,David Marconi,Will Smith,United States,90000000.0,250849789.0,Touchstone Pictures,132.0
+The Celebration,R,Drama,1998,"June 19, 1998 (Denmark)",8.1,81000.0,Thomas Vinterberg,Thomas Vinterberg,Ulrich Thomsen,Denmark,1300000.0,1657778.0,Nimbus Film Productions,105.0
+Fallen,R,Action,1998,"January 16, 1998 (United States)",7.0,78000.0,Gregory Hoblit,Nicholas Kazan,Denzel Washington,United States,,25232289.0,Turner Pictures (I),124.0
+Ronin,R,Action,1998,"September 25, 1998 (United States)",7.3,176000.0,John Frankenheimer,J.D. Zeik,Robert De Niro,United Kingdom,55000000.0,41616262.0,FGM Entertainment,122.0
+Pi,R,Drama,1998,"July 10, 1998 (United States)",7.4,173000.0,Darren Aronofsky,Darren Aronofsky,Sean Gullette,United States,60000.0,3221152.0,Harvest Filmworks,84.0
+Happiness,Unrated,Comedy,1998,"October 16, 1998 (United States)",7.7,67000.0,Todd Solondz,Todd Solondz,Jane Adams,United States,2200000.0,2982011.0,Good Machine,134.0
+Elizabeth,R,Biography,1998,"February 19, 1999 (United States)",7.4,95000.0,Shekhar Kapur,Michael Hirst,Cate Blanchett,United Kingdom,30000000.0,82150642.0,PolyGram Filmed Entertainment,124.0
+The Negotiator,R,Action,1998,"July 29, 1998 (United States)",7.3,134000.0,F. Gary Gray,James DeMonaco,Samuel L. Jackson,Germany,50000000.0,44547681.0,New Regency Productions,140.0
+Buffalo '66,R,Comedy,1998,"June 26, 1998 (United States)",7.5,49000.0,Vincent Gallo,Vincent Gallo,Vincent Gallo,United States,1500000.0,2375097.0,Cinépix Film Properties (CFP),110.0
+Run Lola Run,R,Crime,1998,"June 18, 1999 (United States)",7.7,191000.0,Tom Tykwer,Tom Tykwer,Franka Potente,Germany,,7267585.0,X-Filme Creative Pool,80.0
+A Simple Plan,R,Crime,1998,"January 22, 1999 (United States)",7.5,66000.0,Sam Raimi,Scott B. Smith,Bill Paxton,United Kingdom,30000000.0,16316273.0,British Broadcasting Corporation (BBC),121.0
+Velvet Goldmine,R,Drama,1998,"October 23, 1998 (United Kingdom)",7.0,34000.0,Todd Haynes,James Lyons,Ewan McGregor,United Kingdom,,1053788.0,Channel Four Films,118.0
+Following,R,Crime,1998,"November 5, 1999 (United Kingdom)",7.5,89000.0,Christopher Nolan,Christopher Nolan,Jeremy Theobald,United Kingdom,6000.0,48482.0,Next Wave Films,69.0
+I Stand Alone,Not Rated,Crime,1998,"February 17, 1999 (France)",7.4,22000.0,Gaspar Noé,Gaspar Noé,Philippe Nahon,France,,6955.0,Canal+,93.0
+The Legend of 1900,R,Drama,1998,"October 28, 1998 (Italy)",8.1,60000.0,Giuseppe Tornatore,Alessandro Baricco,Tim Roth,Italy,9000000.0,21057208.0,Sciarlò,169.0
+Kuch Kuch Hota Hai,Not Rated,Comedy,1998,"October 16, 1998 (India)",7.6,50000.0,Karan Johar,Karan Johar,Shah Rukh Khan,India,,,Dharma Productions,177.0
+The X Files,PG-13,Drama,1998,"June 19, 1998 (United States)",7.0,103000.0,Rob Bowman,Chris Carter,David Duchovny,United States,66000000.0,189176423.0,Twentieth Century Fox,121.0
+SLC Punk!,R,Comedy,1998,"April 16, 1999 (United States)",7.4,26000.0,James Merendino,James Merendino,Matthew Lillard,United States,,299569.0,Beyond Films,97.0
+Taxi,Not Rated,Action,1998,"November 20, 1998 (United States)",7.0,78000.0,Gérard Pirès,Luc Besson,Samy Naceri,France,,,ARP Sélection,86.0
+Croupier,Not Rated,Crime,1998,"July 28, 2000 (United States)",7.1,20000.0,Mike Hodges,Paul Mayersberg,Clive Owen,Ireland,,7120568.0,ARTE,94.0
+Gods and Monsters,R,Biography,1998,"November 4, 1998 (United States)",7.4,30000.0,Bill Condon,Christopher Bram,Ian McKellen,United States,10000000.0,6451628.0,Lions Gate Films,105.0
+The Red Violin,R,Drama,1998,"June 11, 1999 (United States)",7.6,32000.0,François Girard,Don McKellar,Carlo Cecchi,Canada,18000000.0,10019109.0,Rhombus Media,130.0
+Les Misérables,PG-13,Crime,1998,"May 1, 1998 (United States)",7.4,39000.0,Bille August,Victor Hugo,Liam Neeson,United Kingdom,,14096321.0,Mandalay Entertainment,134.0
+Waking Ned Devine,PG,Comedy,1998,"January 8, 1999 (United States)",7.4,26000.0,Kirk Jones,Kirk Jones,Ian Bannen,United Kingdom,3000000.0,55257450.0,Tomboy Films,91.0
+Eternity and a Day,Unrated,Drama,1998,"May 28, 1999 (United States)",7.9,11000.0,Theodoros Angelopoulos,Theodoros Angelopoulos,Bruno Ganz,France,,107178.0,Paradis Films,137.0
+Show Me Love,Not Rated,Comedy,1998,"October 23, 1998 (Sweden)",7.5,50000.0,Lukas Moodysson,Lukas Moodysson,Alexandra Dahlström,Sweden,,219331.0,Memfis Film,89.0
+The Mighty,PG-13,Comedy,1998,"October 30, 1998 (United States)",7.3,13000.0,Peter Chelsom,Rodman Philbrick,Kieran Culkin,United States,,2652246.0,Chaos Productions,100.0
+Thursday,R,Action,1998,"September 25, 1998 (United Kingdom)",7.2,18000.0,Skip Woods,Skip Woods,Thomas Jane,United States,,3121.0,Polygram Filmed Entertainment,87.0
+"Crna macka, beli macor",R,Comedy,1998,"June 1, 1998 (Federal Republic of Yugoslavia)",8.1,52000.0,Emir Kusturica,Gordan Mihic,Bajram Severdzan,Federal Republic of Yugoslavia,,351447.0,CiBy 2000,127.0
+Playing by Heart,R,Comedy,1998,"January 22, 1999 (United States)",7.0,19000.0,Willard Carroll,Willard Carroll,Gillian Anderson,United States,20000000.0,3970078.0,Hyperion Pictures,121.0
+Dangerous Beauty,R,Biography,1998,"February 20, 1998 (United States)",7.2,16000.0,Marshall Herskovitz,Margaret Rosenthal,Catherine McCormack,United States,8000000.0,4553271.0,New Regency Productions,111.0
+Central Station,R,Drama,1998,"November 20, 1998 (United States)",8.0,37000.0,Walter Salles,Marcos Bernstein,Fernanda Montenegro,Brazil,2900000.0,5971073.0,"Audiovisual Development Bureau, Ministerio da Cultura",110.0
+Without Limits,PG-13,Biography,1998,"September 11, 1998 (United States)",7.2,6700.0,Robert Towne,Robert Towne,Billy Crudup,United States,25000000.0,777423.0,Cruise/Wagner Productions,117.0
+Smoke Signals,PG-13,Comedy,1998,"November 27, 1998 (Iceland)",7.2,9900.0,Chris Eyre,Sherman Alexie,Adam Beach,United States,2000000.0,6745362.0,ShadowCatcher Entertainment,89.0
+Lovers of the Arctic Circle,R,Drama,1998,"August 28, 1998 (Spain)",7.7,18000.0,Julio Medem,Julio Medem,Najwa Nimri,Spain,,357549.0,Canal+,112.0
+One True Thing,R,Drama,1998,"September 18, 1998 (United States)",7.0,12000.0,Carl Franklin,Anna Quindlen,Meryl Streep,United States,30000000.0,26616840.0,Monarch Pictures,127.0
+Le Dîner de Cons,PG-13,Comedy,1998,"April 15, 1998 (France)",7.7,38000.0,Francis Veber,Francis Veber,Thierry Lhermitte,France,,4071548.0,Gaumont,80.0
+After Life,Not Rated,Drama,1998,"April 17, 1999 (Japan)",7.6,11000.0,Hirokazu Koreeda,Hirokazu Koreeda,Arata Iura,Japan,,801985.0,Engine Film,119.0
+Savior,R,Drama,1998,"November 20, 1998 (United States)",7.3,11000.0,Predrag Antonijevic,Robert Orr,Dennis Quaid,United States,10000000.0,14328.0,Initial Entertainment Group (IEG),103.0
+Little Voice,R,Comedy,1998,"December 4, 1998 (United States)",7.0,16000.0,Mark Herman,Jim Cartwright,Brenda Blethyn,United Kingdom,,4611784.0,Miramax,97.0
+The General,R,Biography,1998,"December 18, 1998 (United States)",7.3,8300.0,John Boorman,John Boorman,Brendan Gleeson,United Kingdom,,1214198.0,J & M,124.0
+Still Crazy,R,Comedy,1998,"January 22, 1999 (United States)",7.0,7800.0,Brian Gibson,Dick Clement,Stephen Rea,United Kingdom,,524864.0,Columbia Pictures,95.0
+Sweet Jane,Not Rated,Drama,1998,"February 1, 1998 (United States)",7.0,534.0,Joe Gayton,Joe Gayton,Samantha Mathis,United States,,,NEO Motion Pictures,83.0
+The Matrix,R,Action,1999,"March 31, 1999 (United States)",8.7,1700000.0,Lana Wachowski,Lilly Wachowski,Keanu Reeves,United States,63000000.0,466364845.0,Warner Bros.,136.0
+Fight Club,R,Drama,1999,"October 15, 1999 (United States)",8.8,1900000.0,David Fincher,Chuck Palahniuk,Brad Pitt,Germany,63000000.0,101209702.0,Fox 2000 Pictures,139.0
+The Talented Mr. Ripley,R,Crime,1999,"December 25, 1999 (United States)",7.4,189000.0,Anthony Minghella,Patricia Highsmith,Matt Damon,United States,40000000.0,128799509.0,Miramax,139.0
+Eyes Wide Shut,,Drama,1999,"July 16, 1999 (United States)",7.4,313000.0,Stanley Kubrick,Stanley Kubrick,Tom Cruise,United Kingdom,65000000.0,162242684.0,Warner Bros.,159.0
+The Mummy,PG-13,Action,1999,"May 7, 1999 (United States)",7.0,401000.0,Stephen Sommers,Stephen Sommers,Brendan Fraser,United States,80000000.0,415933406.0,Universal Pictures,124.0
+American Pie,R,Comedy,1999,"July 9, 1999 (United States)",7.0,385000.0,Paul Weitz,Adam Herz,Jason Biggs,United States,11000000.0,235483004.0,Universal Pictures,95.0
+The Green Mile,R,Crime,1999,"December 10, 1999 (United States)",8.6,1200000.0,Frank Darabont,Stephen King,Tom Hanks,United States,60000000.0,286801374.0,Castle Rock Entertainment,189.0
+American Beauty,R,Drama,1999,"October 1, 1999 (United States)",8.3,1100000.0,Sam Mendes,Alan Ball,Kevin Spacey,United States,15000000.0,356296601.0,Dreamworks Pictures,122.0
+10 Things I Hate About You,PG-13,Comedy,1999,"March 31, 1999 (United States)",7.3,309000.0,Gil Junger,Karen McCullah,Heath Ledger,United States,30000000.0,53478579.0,Touchstone Pictures,97.0
+The Sixth Sense,PG-13,Drama,1999,"August 6, 1999 (United States)",8.1,930000.0,M. Night Shyamalan,M. Night Shyamalan,Bruce Willis,United States,40000000.0,672806292.0,Hollywood Pictures,107.0
+Office Space,R,Comedy,1999,"February 19, 1999 (United States)",7.7,248000.0,Mike Judge,Mike Judge,Ron Livingston,United States,10000000.0,10828256.0,Twentieth Century Fox,89.0
+Galaxy Quest,PG,Adventure,1999,"December 25, 1999 (United States)",7.3,155000.0,Dean Parisot,David Howard,Tim Allen,United States,45000000.0,90683916.0,Dreamworks Pictures,102.0
+Notting Hill,PG-13,Comedy,1999,"May 28, 1999 (United States)",7.1,286000.0,Roger Michell,Richard Curtis,Hugh Grant,United Kingdom,42000000.0,363889678.0,Polygram Filmed Entertainment,124.0
+The Virgin Suicides,R,Drama,1999,"May 19, 2000 (United States)",7.2,147000.0,Sofia Coppola,Jeffrey Eugenides,Kirsten Dunst,United States,9000000.0,10410044.0,American Zoetrope,97.0
+Magnolia,R,Drama,1999,"January 7, 2000 (United States)",8.0,295000.0,Paul Thomas Anderson,Paul Thomas Anderson,Tom Cruise,United States,37000000.0,48451803.0,Ghoulardi Film Company,188.0
+"Girl, Interrupted",R,Biography,1999,"January 14, 2000 (United States)",7.3,169000.0,James Mangold,Susanna Kaysen,Winona Ryder,Germany,40000000.0,48350205.0,Columbia Pictures,127.0
+The Boondock Saints,R,Action,1999,"January 21, 2000 (Canada)",7.8,230000.0,Troy Duffy,Troy Duffy,Willem Dafoe,United States,6000000.0,30471.0,Franchise Pictures,108.0
+Sleepy Hollow,R,Fantasy,1999,"November 19, 1999 (United States)",7.3,338000.0,Tim Burton,Washington Irving,Johnny Depp,United States,100000000.0,206071502.0,Paramount Pictures,105.0
+Toy Story 2,G,Animation,1999,"November 24, 1999 (United States)",7.9,540000.0,John Lasseter,John Lasseter,Tom Hanks,United States,90000000.0,497375381.0,Pixar Animation Studios,92.0
+Dogma,R,Adventure,1999,"November 12, 1999 (United States)",7.3,210000.0,Kevin Smith,Kevin Smith,Ben Affleck,United States,10000000.0,31429330.0,View Askew Productions,130.0
+Tarzan,G,Animation,1999,"June 18, 1999 (United States)",7.3,210000.0,Chris Buck,Tab Murphy,Tony Goldwyn,United States,130000000.0,448191819.0,Walt Disney Pictures,88.0
+Election,R,Comedy,1999,"May 7, 1999 (United States)",7.2,92000.0,Alexander Payne,Tom Perrotta,Matthew Broderick,United States,25000000.0,14902041.0,Bona Fide Productions,103.0
+Being John Malkovich,R,Comedy,1999,"December 3, 1999 (United States)",7.7,319000.0,Spike Jonze,Charlie Kaufman,John Cusack,United States,13000000.0,23106667.0,Astralwerks,113.0
+The Iron Giant,PG,Animation,1999,"August 6, 1999 (United States)",8.0,177000.0,Brad Bird,Tim McCanlies,Eli Marienthal,United States,70000000.0,23180087.0,Warner Bros.,86.0
+The Insider,R,Biography,1999,"November 5, 1999 (United States)",7.8,163000.0,Michael Mann,Marie Brenner,Russell Crowe,United States,90000000.0,60289912.0,Touchstone Pictures,157.0
+Boys Don't Cry,R,Biography,1999,"March 31, 2000 (United States)",7.5,94000.0,Kimberly Peirce,Kimberly Peirce,Hilary Swank,United States,2000000.0,11540607.0,Fox Searchlight Pictures,118.0
+The Cider House Rules,PG-13,Drama,1999,"January 7, 2000 (United States)",7.4,95000.0,Lasse Hallström,John Irving,Tobey Maguire,United States,24000000.0,88545092.0,FilmColony,126.0
+October Sky,PG,Biography,1999,"February 19, 1999 (United States)",7.8,85000.0,Joe Johnston,Homer H. Hickam Jr.,Jake Gyllenhaal,United States,25000000.0,34698753.0,Universal Pictures,108.0
+Three Kings,R,Action,1999,"October 1, 1999 (United States)",7.1,163000.0,David O. Russell,John Ridley,George Clooney,United States,75000000.0,107752036.0,Warner Bros.,114.0
+Go,R,Comedy,1999,"April 9, 1999 (United States)",7.2,68000.0,Doug Liman,John August,Sarah Polley,United States,20000000.0,28451622.0,Columbia Pictures,102.0
+Payback,R,Action,1999,"February 5, 1999 (United States)",7.1,133000.0,Brian Helgeland,Donald E. Westlake,Mel Gibson,United States,90000000.0,161626121.0,Icon Entertainment International,100.0
+"South Park: Bigger, Longer & Uncut",R,Animation,1999,"June 30, 1999 (United States)",7.7,195000.0,Trey Parker,Trey Parker,Trey Parker,United States,21000000.0,83137603.0,Scott Rudin Productions,81.0
+The Straight Story,G,Biography,1999,"November 3, 1999 (France)",8.0,84000.0,David Lynch,John Roach,Richard Farnsworth,France,10000000.0,6416569.0,Asymmetrical Productions,112.0
+Man on the Moon,R,Biography,1999,"December 22, 1999 (United States)",7.4,126000.0,Milos Forman,Scott Alexander,Jim Carrey,United Kingdom,82000000.0,47434430.0,Universal Pictures,118.0
+Ratcatcher,Not Rated,Drama,1999,"November 12, 1999 (United Kingdom)",7.5,9200.0,Lynne Ramsay,Lynne Ramsay,Tommy Flanagan,United Kingdom,30000.0,217244.0,Pathé Pictures International,94.0
+Ravenous,R,Adventure,1999,"March 19, 1999 (United States)",7.0,38000.0,Antonia Bird,Ted Griffin,Guy Pearce,United Kingdom,12000000.0,2062405.0,ETIC Films,101.0
+Mansfield Park,PG-13,Comedy,1999,"December 25, 1999 (United States)",7.1,23000.0,Patricia Rozema,Jane Austen,Frances O'Connor,United Kingdom,,4775847.0,Arts Council of England,112.0
+Stir of Echoes,R,Horror,1999,"September 10, 1999 (United States)",7.0,77000.0,David Koepp,Richard Matheson,Kevin Bacon,United States,12000000.0,21142914.0,Artisan Entertainment,99.0
+Ghost Dog: The Way of the Samurai,R,Action,1999,"March 24, 2000 (United States)",7.5,86000.0,Jim Jarmusch,Jim Jarmusch,Forest Whitaker,France,,9380473.0,Pandora Filmproduktion,116.0
+The Thirteenth Floor,R,Mystery,1999,"May 28, 1999 (United States)",7.1,69000.0,Josef Rusnak,Daniel F. Galouye,Craig Bierko,United States,16000000.0,18564088.0,Columbia Pictures,100.0
+Arlington Road,R,Action,1999,"July 9, 1999 (United States)",7.2,83000.0,Mark Pellington,Ehren Kruger,Jeff Bridges,United States,31000000.0,41067311.0,Screen Gems,117.0
+The Hurricane,R,Biography,1999,"January 14, 2000 (United States)",7.6,93000.0,Norman Jewison,Rubin 'Hurricane' Carter,Denzel Washington,United States,50000000.0,73956241.0,Azoff Entertainment,146.0
+All About My Mother,R,Drama,1999,"March 31, 2000 (United States)",7.9,91000.0,Pedro Almodóvar,Pedro Almodóvar,Cecilia Roth,Spain,,67952969.0,El Deseo,101.0
+The Limey,R,Crime,1999,"August 4, 1999 (France)",7.0,31000.0,Steven Soderbergh,Lem Dobbs,Terence Stamp,United States,10000000.0,3325736.0,Artisan Entertainment,89.0
+Human Traffic,R,Comedy,1999,"May 5, 2000 (United States)",7.1,24000.0,Justin Kerrigan,Justin Kerrigan,John Simm,United Kingdom,,104257.0,Irish Screen,99.0
+The War Zone,R,Drama,1999,"June 11, 1999 (Italy)",7.3,9800.0,Tim Roth,Alexander Stuart,Ray Winstone,Italy,,254441.0,Channel Four Films,98.0
+Titus,R,Drama,1999,"February 11, 2000 (United States)",7.1,20000.0,Julie Taymor,William Shakespeare,Anthony Hopkins,United Kingdom,,2259680.0,Clear Blue Sky Productions,162.0
+Angela's Ashes,R,Biography,1999,"January 21, 2000 (United States)",7.3,21000.0,Alan Parker,Frank McCourt,Emily Watson,United States,50000000.0,13042112.0,David Brown Productions,145.0
+The End of the Affair,R,Drama,1999,"January 21, 2000 (United States)",7.1,22000.0,Neil Jordan,Graham Greene,Ralph Fiennes,United Kingdom,23000000.0,10827816.0,Columbia Pictures,102.0
+Beau travail,Unrated,Drama,1999,"May 3, 2000 (France)",7.4,9500.0,Claire Denis,Claire Denis,Denis Lavant,France,,,La Sept-Arte,92.0
+Sunshine,R,Drama,1999,"July 14, 2000 (United States)",7.5,13000.0,István Szabó,István Szabó,Ralph Fiennes,Germany,,7918035.0,Alliance Atlantis Communications,181.0
+Fantasia 2000,G,Animation,1999,"June 16, 2000 (United States)",7.2,36000.0,Directors,Eric Goldberg,James Levine,United States,80000000.0,90874570.0,Walt Disney Pictures,75.0
+The Wind Will Carry Us,Not Rated,Drama,1999,"November 24, 1999 (France)",7.5,9600.0,Abbas Kiarostami,Mahmoud Aiden,Behzad Dorani,Iran,,259510.0,MK2 Productions,118.0
+The Wood,R,Comedy,1999,"July 16, 1999 (United States)",7.0,8700.0,Rick Famuyiwa,Rick Famuyiwa,Elayn J. Taylor,United States,6000000.0,25059640.0,Bona Fide Productions,106.0
+Topsy-Turvy,R,Biography,1999,"February 11, 2000 (United States)",7.4,12000.0,Mike Leigh,Mike Leigh,Jim Broadbent,United Kingdom,,6208548.0,Goldwyn Films,160.0
+Kikujiro,PG-13,Drama,1999,"May 26, 2000 (United States)",7.8,19000.0,Takeshi Kitano,Takeshi Kitano,Takeshi Kitano,Japan,,461259.0,Bandai Visual Company,122.0
+Sweet and Lowdown,PG-13,Comedy,1999,"March 10, 2000 (United States)",7.2,33000.0,Woody Allen,Woody Allen,Sean Penn,United States,29750000.0,4525794.0,Sweetland Films,95.0
+Jin-Roh: The Wolf Brigade,R,Animation,1999,"November 17, 1999 (France)",7.4,16000.0,Hiroyuki Okiura,Mamoru Oshii,Michael Dobson,Japan,,94591.0,Bandai Visual Company,102.0
+The Piano Player,Not Rated,Romance,1999,"October 21, 1999 (Germany)",7.8,7400.0,Rolf Schübel,Ruth Toma,Joachim Król,Germany,,646532.0,Studio Hamburg Filmproduktion,112.0
+The Winslow Boy,G,Drama,1999,"October 29, 1999 (United Kingdom)",7.3,7500.0,David Mamet,Terence Rattigan,Rebecca Pidgeon,United Kingdom,,3957934.0,Winslow Partners Ltd.,104.0
+Liberty Heights,R,Comedy,1999,"December 31, 1999 (United States)",7.0,6500.0,Barry Levinson,Barry Levinson,Adrien Brody,United States,,3736868.0,Baltimore Pictures,127.0
+The Color of Paradise,PG,Drama,1999,"September 7, 2000 (Australia)",8.2,16000.0,Majid Majidi,Majid Majidi,Hossein Mahjoub,Iran,,2777552.0,Varahonar Company,90.0
+Rosetta,R,Drama,1999,"September 22, 1999 (Belgium)",7.5,13000.0,Jean-Pierre Dardenne,Jean-Pierre Dardenne,Émilie Dequenne,France,,293092.0,ARP Sélection,95.0
+Trick,R,Comedy,1999,"July 23, 1999 (United States)",7.2,8400.0,Jim Fall,Jason Schafer,Christian Campbell,United States,450000.0,2087228.0,Good Machine,89.0
+A Room for Romeo Brass,R,Comedy,1999,"February 4, 2000 (United Kingdom)",7.6,5500.0,Shane Meadows,Robyn Slovo,Martin Arrowsmith,United Kingdom,,19478.0,Alliance Atlantis Communications,90.0
+An Affair of Love,R,Drama,1999,"September 4, 1999 (France)",7.1,5300.0,Frédéric Fonteyne,Philippe Blasband,Nathalie Baye,France,,401299.0,Artémis Productions,80.0
+Aimee & Jaguar,Not Rated,Biography,1999,"February 11, 1999 (Germany)",7.2,6200.0,Max Färberböck,Max Färberböck,Maria Schrader,Germany,,927107.0,Senator Film Produktion,125.0
+La fille sur le pont,R,Comedy,1999,"March 31, 1999 (France)",7.5,13000.0,Patrice Leconte,Serge Frydman,Vanessa Paradis,France,,,Canal+,90.0
